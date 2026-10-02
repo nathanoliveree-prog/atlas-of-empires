@@ -2,11 +2,11 @@ import { useEffect, useMemo, useRef } from 'react'
 import { formatYear, formatRange, roundYear } from '../lib/time.js'
 import { cityName, precisionLabel, rulersAt } from '../lib/polities.js'
 
-const KIND_LABEL = { primary: 'Written sources', archaeology: 'Archaeology', scholarship: 'Scholarship' }
+const KIND_LABEL = { eyewitness: 'Eyewitness accounts', primary: 'Ancient and original documents', archaeology: 'Archaeology', scholarship: 'Modern historians' }
 const TYPE_LABEL = { battle: 'Battle', founding: 'Founding', collapse: 'Collapse', treaty: 'Treaty', milestone: 'Milestone' }
 
 function Sources({ sources }) {
-  const groups = ['primary', 'archaeology', 'scholarship']
+  const groups = ['eyewitness', 'primary', 'archaeology', 'scholarship']
     .map((k) => [k, sources.filter((s) => (s.kind || 'primary') === k)])
     .filter(([, list]) => list.length)
   return groups.map(([k, list]) => (
@@ -43,7 +43,7 @@ function Rulers({ polityId, rulers, year, onJump }) {
           {r.list.map((x) => (
             <li key={`${x.name}-${x.start}`}>
               <button type="button" className={`ruler-row${current.includes(x) ? ' is-current' : ''}`} onClick={() => onJump(x.start)}>
-                <span className="event-date">{x.start === x.end ? formatYear(x.start) : x.start < 0 && x.end > 0 ? formatRange(x.start, x.end) : `${Math.abs(x.start)}–${Math.abs(x.end)}${x.end < 0 ? ' BCE' : ''}`}</span>
+                <span className="event-date">{formatRange(x.start, x.end)}</span>
                 <span className="event-title">{x.name}</span>
               </button>
             </li>
@@ -239,6 +239,36 @@ function CityView({ city, year, onFocusPoint }) {
   )
 }
 
+function OverlayView({ selection, index, onSelectPolity }) {
+  const pr = selection.props
+  const polity = pr.polity && index.byId.get(pr.polity)
+  const isUs = pr.group === 'us'
+  const fmtDate = (y) => {
+    if (!isUs) return formatYear(y)
+    const yr = Math.floor(y), doy = Math.round((y - yr) * 365.25)
+    const d = new Date(Date.UTC(yr, 0, 1 + doy))
+    return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' })
+  }
+  return (
+    <>
+      <div className="panel-kicker">
+        {polity && <span className="swatch big" style={{ background: pr.color || polity.color }} aria-hidden="true" />}
+        {pr.sub ? `${pr.sub}, ` : ''}{isUs ? `${fmtDate(pr.start)} to ${fmtDate(pr.end)}` : formatRange(pr.start, pr.end)}
+      </div>
+      <h2 className="panel-title">{pr.name}</h2>
+      {pr.desc && <p className="summary">{pr.desc}</p>}
+      <p className="meta"><span className="meta-label">Precision</span> {pr.precision === 3 ? 'Surveyed or legally defined borders' : pr.precision === 2 ? 'Scholarly atlas outline' : 'Approximate outline'}</p>
+      {polity && (
+        <div className="actions">
+          <button type="button" onClick={() => onSelectPolity(polity.id, { fly: false })}>Open the {polity.name} profile</button>
+        </div>
+      )}
+      <Sources sources={pr.sources || []} />
+      {pr.note && <p className="muted source-key">{pr.note}</p>}
+    </>
+  )
+}
+
 function About() {
   return (
     <>
@@ -247,17 +277,26 @@ function About() {
         <h3>Borders</h3>
         <p>
           Outlines come from the open historical-basemaps dataset by André Ourednik and contributors, which records the world at
-          {' '}50 dates between 4000 BCE and 2010 CE. Dots on the timeline axis mark those dates. Between them, the map cross-fades
+          {' '}50 dates between 4000 BC and AD 2010. Dots on the timeline axis mark those dates. Between them, the map cross-fades
           from one snapshot to the next, so in-between years are an approximation rather than a record.
         </p>
         <p>
-          Before about 1000 BCE most outlines mark the reach of a culture or a cluster of cities, not a frontier. Labels in
+          Before about 1000 BC most outlines mark the reach of a culture or a cluster of cities, not a frontier. Labels in
           italics are cultures and peoples rather than states. Every region lists its border precision when you click it.
         </p>
         <p>
           Coastlines, rivers and lakes come from Natural Earth and show today's geography; country colours are trimmed to the
           modern shoreline. Ancient coasts differed in places, for example at the head of the Persian Gulf and around Ephesus,
           whose harbour silted up.
+        </p>
+        <h3>Detailed outlines</h3>
+        <p>
+          Where better data exists, it replaces the general border map. United States states and territories from 1783 to 2000
+          come from the Newberry Library's Atlas of Historical County Boundaries, accurate to the day. Rome, Persia, Alexander's
+          empire and the Hasmonean and Herodian kingdoms come from the Ancient World Mapping Center, based on the Barrington
+          Atlas of the Greek and Roman World, as do Roman provincial boundaries and roads (shown when zoomed in). The Iron Age
+          kingdoms of the Bible lands (Israel, Judah, Philistia, Moab, Ammon, Edom, Aram) are drawn by hand from the biblical
+          boundary descriptions and excavated sites, and are marked as approximate.
         </p>
         <h3>Profiles, rulers and events</h3>
         <p>
@@ -282,7 +321,9 @@ function About() {
         <h3>Credits</h3>
         <p>
           Border data: historical-basemaps, GPL-3.0 (github.com/aourednik/historical-basemaps). Verify borders against other sources
-          before using them in academic work. Coastlines, rivers and lakes: Natural Earth (public domain).
+          before using them in academic work. Coastlines, rivers and lakes: Natural Earth (public domain). Ancient outlines,
+          provinces and roads: Ancient World Mapping Center, UNC (ODbL). U.S. borders: Atlas of Historical County Boundaries,
+          Newberry Library.
         </p>
       </section>
     </>
@@ -303,7 +344,11 @@ export default function Panel(props) {
     const ev = events.find((e) => e.id === selection.id)
     content = ev ? <EventView ev={ev} {...props} /> : null
   } else if (selection.kind === 'region') content = <RegionView region={selection} {...props} />
-  else if (selection.kind === 'about') content = <About />
+  else if (selection.kind === 'overlay') content = <OverlayView {...props} />
+  else if (selection.kind === 'city') {
+    const c = props.cities.find((x) => x.id === selection.id)
+    content = c ? <CityView city={c} {...props} /> : null
+  } else if (selection.kind === 'about') content = <About />
 
   return (
     <aside className={`panel${selection ? '' : ' is-idle'}`} aria-label="Details">

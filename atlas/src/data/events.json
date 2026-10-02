@@ -234,7 +234,7 @@
   "polities": [
    "shang"
   ],
-  "summary": "Tradition dates the Shang to c. 1600 BCE; its early capital is often identified with the walled site at Zhengzhou.",
+  "summary": "Tradition dates the Shang to c. 1600 BC; its early capital is often identified with the walled site at Zhengzhou.",
   "sources": [
    {
     "kind": "primary",
@@ -421,6 +421,26 @@
   ]
  },
  {
+  "id": "merneptah",
+  "year": -1208,
+  "approx": true,
+  "type": "milestone",
+  "title": "Merneptah Stele names 'Israel'",
+  "lat": 25.72,
+  "lon": 32.61,
+  "polities": [
+   "egypt",
+   "israel"
+  ],
+  "summary": "An Egyptian victory hymn lists 'Israel' among peoples of Canaan, the earliest mention of the name outside the Bible.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Merneptah Stele (Egyptian Museum, Cairo JE 31408), found by Petrie 1896"
+   }
+  ]
+ },
+ {
   "id": "fall-hattusa",
   "year": -1185,
   "approx": true,
@@ -502,6 +522,75 @@
    {
     "kind": "primary",
     "cite": "Sima Qian, Shiji, ch. 4"
+   }
+  ]
+ },
+ {
+  "id": "shishak",
+  "year": -925,
+  "approx": true,
+  "type": "battle",
+  "title": "Shoshenq I (Shishak) invades Judah and Israel",
+  "lat": 31.78,
+  "lon": 35.23,
+  "polities": [
+   "egypt",
+   "israel"
+  ],
+  "summary": "1 Kings 14:25 says Shishak came against Jerusalem in Rehoboam's fifth year; Shoshenq I's own relief at Karnak lists conquered towns of the region.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "1 Kings 14:25–26; 2 Chronicles 12"
+   },
+   {
+    "kind": "primary",
+    "cite": "Bubastite Portal relief of Shoshenq I, Karnak"
+   }
+  ]
+ },
+ {
+  "id": "qarqar",
+  "year": -853,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Qarqar",
+  "lat": 35.6,
+  "lon": 36.3,
+  "polities": [
+   "assyria",
+   "israel",
+   "aram"
+  ],
+  "summary": "A coalition including Ahab of Israel, who brought 2,000 chariots, and Hadadezer of Damascus confronts Shalmaneser III in Syria.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Kurkh Monolith of Shalmaneser III (British Museum)"
+   }
+  ]
+ },
+ {
+  "id": "jehu-tribute",
+  "year": -841,
+  "approx": false,
+  "type": "treaty",
+  "title": "Jehu pays tribute to Assyria",
+  "lat": 36.1,
+  "lon": 43.33,
+  "polities": [
+   "israel",
+   "assyria"
+  ],
+  "summary": "The Black Obelisk shows Jehu of Israel, or his envoy, bowing before Shalmaneser III: the only surviving image of an Israelite king.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Black Obelisk of Shalmaneser III (BM 118885)"
+   },
+   {
+    "kind": "primary",
+    "cite": "2 Kings 9–10"
    }
   ]
  },
@@ -594,6 +683,31 @@
   ]
  },
  {
+  "id": "damascus-732",
+  "year": -732,
+  "approx": false,
+  "type": "collapse",
+  "title": "Assyria conquers Damascus",
+  "lat": 33.51,
+  "lon": 36.29,
+  "polities": [
+   "assyria",
+   "aram",
+   "israel"
+  ],
+  "summary": "Tiglath-pileser III takes Damascus and annexes Galilee and Gilead, answering Ahaz of Judah's appeal (2 Kings 16).",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "2 Kings 15:29; 16:7–9"
+   },
+   {
+    "kind": "primary",
+    "cite": "Annals of Tiglath-pileser III"
+   }
+  ]
+ },
+ {
   "id": "piye",
   "year": -727,
   "approx": true,
@@ -660,6 +774,29 @@
   ]
  },
  {
+  "id": "siloam",
+  "year": -701,
+  "approx": true,
+  "type": "milestone",
+  "title": "Hezekiah's Tunnel",
+  "lat": 31.77,
+  "lon": 35.24,
+  "polities": [
+   "israel"
+  ],
+  "summary": "A 533-metre tunnel brings the Gihon spring inside Jerusalem's walls before Sennacherib's invasion; its workers carved an inscription at the meeting point.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "2 Kings 20:20; 2 Chronicles 32:30"
+   },
+   {
+    "kind": "eyewitness",
+    "cite": "Siloam inscription, written by the tunnellers (Istanbul Archaeology Museums)"
+   }
+  ]
+ },
+ {
   "id": "susa-sack",
   "year": -646,
   "approx": true,
@@ -691,11 +828,63 @@
    "assyria",
    "babylonia"
   ],
-  "summary": "Babylonians and Medes storm the Assyrian capital. The empire is extinguished by 609 BCE.",
+  "summary": "Babylonians and Medes storm the Assyrian capital. The empire is extinguished by 609 BC.",
   "sources": [
    {
     "kind": "primary",
     "cite": "Babylonian Chronicle ABC 3 (BM 21901)"
+   }
+  ]
+ },
+ {
+  "id": "jerusalem-597",
+  "year": -597,
+  "approx": false,
+  "type": "battle",
+  "title": "Nebuchadnezzar takes Jerusalem",
+  "lat": 31.78,
+  "lon": 35.23,
+  "polities": [
+   "babylonia",
+   "israel"
+  ],
+  "summary": "Babylon captures the city on 16 March 597 BC and deports King Jehoiachin; ration tablets from Babylon later list 'Jehoiachin, king of Judah'.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Babylonian Chronicle ABC 5 (BM 21946)"
+   },
+   {
+    "kind": "primary",
+    "cite": "2 Kings 24:10–17"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Jehoiachin ration tablets from Babylon (Berlin)"
+   }
+  ]
+ },
+ {
+  "id": "lachish-588",
+  "year": -588,
+  "approx": true,
+  "type": "battle",
+  "title": "Babylonian siege of Lachish",
+  "lat": 31.56,
+  "lon": 34.85,
+  "polities": [
+   "babylonia",
+   "israel"
+  ],
+  "summary": "A Judahite officer writes to his commander that he can no longer see the signal fires of Azekah, echoing Jeremiah 34:7.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Lachish letters, Ostracon 4"
+   },
+   {
+    "kind": "primary",
+    "cite": "Jeremiah 34:7"
    }
   ]
  },
@@ -718,7 +907,7 @@
    },
    {
     "kind": "primary",
-    "cite": "Babylonian Chronicle ABC 5 (for the 597 BCE capture)"
+    "cite": "Babylonian Chronicle ABC 5 (for the 597 BC capture)"
    }
   ]
  },
@@ -794,6 +983,30 @@
   ]
  },
  {
+  "id": "cyrus-return",
+  "year": -538,
+  "approx": false,
+  "type": "founding",
+  "title": "Cyrus permits the return from exile",
+  "lat": 31.78,
+  "lon": 35.23,
+  "polities": [
+   "achaemenid",
+   "israel"
+  ],
+  "summary": "Exiles return to Jerusalem to rebuild the Temple. The Cyrus Cylinder records a similar policy of restoring deported peoples and their gods.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ezra 1:1–4; 2 Chronicles 36:22–23"
+   },
+   {
+    "kind": "primary",
+    "cite": "Cyrus Cylinder (BM 90920)"
+   }
+  ]
+ },
+ {
   "id": "behistun",
   "year": -520,
   "approx": true,
@@ -809,6 +1022,26 @@
    {
     "kind": "primary",
     "cite": "Behistun Inscription (DB)"
+   }
+  ]
+ },
+ {
+  "id": "second-temple",
+  "year": -515,
+  "approx": false,
+  "type": "founding",
+  "title": "Second Temple completed",
+  "lat": 31.78,
+  "lon": 35.24,
+  "polities": [
+   "achaemenid",
+   "israel"
+  ],
+  "summary": "The rebuilt Temple is dedicated in the sixth year of Darius I.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ezra 6:15; Haggai; Zechariah"
    }
   ]
  },
@@ -878,8 +1111,32 @@
     "cite": "Herodotus, Histories 7–8"
    },
    {
+    "kind": "eyewitness",
+    "cite": "Aeschylus, The Persians (472 BC, by a veteran)"
+   }
+  ]
+ },
+ {
+  "id": "nehemiah",
+  "year": -445,
+  "approx": true,
+  "type": "founding",
+  "title": "Nehemiah rebuilds Jerusalem's walls",
+  "lat": 31.78,
+  "lon": 35.23,
+  "polities": [
+   "achaemenid",
+   "israel"
+  ],
+  "summary": "Artaxerxes I's cupbearer rebuilds the walls in 52 days, opposed by Sanballat of Samaria, who also appears in the Elephantine papyri.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Nehemiah 1–6 (first-person memoir)"
+   },
+   {
     "kind": "primary",
-    "cite": "Aeschylus, The Persians (472 BCE, by a veteran)"
+    "cite": "Elephantine papyri (sons of Sanballat, 407 BC)"
    }
   ]
  },
@@ -894,10 +1151,10 @@
   "polities": [
    "greeks"
   ],
-  "summary": "Athens and Sparta begin a 27-year war that ends Athens' empire in 404 BCE.",
+  "summary": "Athens and Sparta begin a 27-year war that ends Athens' empire in 404 BC.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Thucydides, History of the Peloponnesian War"
    },
    {
@@ -1201,6 +1458,30 @@
   ]
  },
  {
+  "id": "maccabees",
+  "year": -167,
+  "approx": false,
+  "type": "battle",
+  "title": "Maccabean revolt",
+  "lat": 31.93,
+  "lon": 34.98,
+  "polities": [
+   "seleucid",
+   "hasmonean"
+  ],
+  "summary": "Antiochus IV outlaws Jewish practice and desecrates the Temple; the priest Mattathias and his sons revolt. Judas rededicates the Temple in 164 BC (Hanukkah).",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "1 Maccabees 1–4; 2 Maccabees 4–10"
+   },
+   {
+    "kind": "primary",
+    "cite": "Daniel 11:31"
+   }
+  ]
+ },
+ {
   "id": "carthage-destroyed",
   "year": -146,
   "approx": false,
@@ -1220,7 +1501,7 @@
     "cite": "Appian, Punic Wars 127–135"
    },
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Polybius 38–39 (fragments; he was an eyewitness at Carthage)"
    }
   ]
@@ -1241,7 +1522,7 @@
   "sources": [
    {
     "kind": "primary",
-    "cite": "Babylonian Astronomical Diaries (Arsacid entries, 141 BCE)"
+    "cite": "Babylonian Astronomical Diaries (Arsacid entries, 141 BC)"
    }
   ]
  },
@@ -1270,6 +1551,30 @@
   ]
  },
  {
+  "id": "pompey-63",
+  "year": -63,
+  "approx": false,
+  "type": "battle",
+  "title": "Pompey takes Jerusalem",
+  "lat": 31.78,
+  "lon": 35.23,
+  "polities": [
+   "rome",
+   "hasmonean"
+  ],
+  "summary": "Pompey storms the Temple Mount and enters the Holy of Holies; Judea becomes a Roman client state.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Josephus, Antiquities 14.4; Jewish War 1.7"
+   },
+   {
+    "kind": "primary",
+    "cite": "Psalms of Solomon 2, 8, 17"
+   }
+  ]
+ },
+ {
   "id": "carrhae",
   "year": -53,
   "approx": false,
@@ -1290,6 +1595,27 @@
    {
     "kind": "primary",
     "cite": "Cassius Dio 40.16–27"
+   }
+  ]
+ },
+ {
+  "id": "herod-37",
+  "year": -37,
+  "approx": false,
+  "type": "founding",
+  "title": "Herod takes Jerusalem",
+  "lat": 31.78,
+  "lon": 35.23,
+  "polities": [
+   "herodian",
+   "hasmonean",
+   "rome"
+  ],
+  "summary": "With Roman legions, Herod captures Jerusalem from the last Hasmonean king, Antigonus.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Josephus, Antiquities 14.16; Jewish War 1.18"
    }
   ]
  },
@@ -1337,6 +1663,29 @@
   ]
  },
  {
+  "id": "herod-dies",
+  "year": -4,
+  "approx": true,
+  "type": "collapse",
+  "title": "Death of Herod the Great",
+  "lat": 31.87,
+  "lon": 35.44,
+  "polities": [
+   "herodian"
+  ],
+  "summary": "Herod dies at Jericho; Augustus divides his kingdom among his sons Archelaus, Antipas and Philip.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Josephus, Antiquities 17.6–11"
+   },
+   {
+    "kind": "primary",
+    "cite": "Matthew 2:19–22"
+   }
+  ]
+ },
+ {
   "id": "teutoburg",
   "year": 9,
   "approx": false,
@@ -1365,6 +1714,134 @@
   ]
  },
  {
+  "id": "crucifixion",
+  "year": 30,
+  "approx": true,
+  "type": "milestone",
+  "title": "Crucifixion of Jesus",
+  "lat": 31.78,
+  "lon": 35.23,
+  "polities": [
+   "rome",
+   "herodian"
+  ],
+  "summary": "Jesus of Nazareth is executed in Jerusalem under the prefect Pontius Pilate, probably in AD 30 or 33. His followers proclaim his resurrection, and Christianity spreads across the empire.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Gospels of Matthew, Mark, Luke and John"
+   },
+   {
+    "kind": "primary",
+    "cite": "Tacitus, Annals 15.44"
+   },
+   {
+    "kind": "primary",
+    "cite": "Josephus, Antiquities 18.63–64 (partly interpolated)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Pilate Stone, Caesarea (found 1961)"
+   }
+  ]
+ },
+ {
+  "id": "paul-corinth",
+  "year": 51,
+  "approx": true,
+  "type": "milestone",
+  "title": "Paul in Corinth",
+  "lat": 37.91,
+  "lon": 22.88,
+  "polities": [
+   "rome"
+  ],
+  "summary": "Paul stays 18 months in Corinth and is brought before the proconsul Gallio (Acts 18:12), whose term is dated by an inscription at Delphi.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Paul, letters to the Corinthians"
+   },
+   {
+    "kind": "primary",
+    "cite": "Acts 18"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Gallio inscription, Delphi"
+   }
+  ]
+ },
+ {
+  "id": "fire-rome",
+  "year": 64,
+  "approx": false,
+  "type": "collapse",
+  "title": "Great Fire of Rome and Nero's persecution",
+  "lat": 41.89,
+  "lon": 12.49,
+  "polities": [
+   "rome"
+  ],
+  "summary": "Fire destroys much of Rome; Nero blames the Christians, the first recorded Roman persecution.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Tacitus, Annals 15.38–44"
+   },
+   {
+    "kind": "primary",
+    "cite": "Suetonius, Nero 38"
+   }
+  ]
+ },
+ {
+  "id": "temple-70",
+  "year": 70,
+  "approx": false,
+  "type": "collapse",
+  "title": "Destruction of the Second Temple",
+  "lat": 31.78,
+  "lon": 35.24,
+  "polities": [
+   "rome"
+  ],
+  "summary": "Titus captures Jerusalem after a five-month siege and the Temple burns, ending the Great Jewish Revolt's main phase.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Josephus, Jewish War 5–6 (present with Titus)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Arch of Titus, Rome; burnt house, Jerusalem"
+   }
+  ]
+ },
+ {
+  "id": "masada",
+  "year": 73,
+  "approx": true,
+  "type": "collapse",
+  "title": "Fall of Masada",
+  "lat": 31.32,
+  "lon": 35.35,
+  "polities": [
+   "rome"
+  ],
+  "summary": "The last rebel fortress falls to a Roman siege ramp; Josephus says its defenders chose death over capture.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Josephus, Jewish War 7.252–406"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Masada excavations (Y. Yadin, 1963–65)"
+   }
+  ]
+ },
+ {
   "id": "pompeii",
   "year": 79,
   "approx": false,
@@ -1378,7 +1855,7 @@
   "summary": "The eruption preserves two Roman towns, a frozen picture of everyday life.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Pliny the Younger, Letters 6.16 and 6.20"
    },
    {
@@ -1454,7 +1931,7 @@
    },
    {
     "kind": "archaeology",
-    "cite": "Trajan's Column, Rome (113 CE)"
+    "cite": "Trajan's Column, Rome (AD 113)"
    }
   ]
  },
@@ -1474,6 +1951,29 @@
    {
     "kind": "primary",
     "cite": "Rabatak inscription"
+   }
+  ]
+ },
+ {
+  "id": "bar-kokhba",
+  "year": 132,
+  "approx": false,
+  "type": "battle",
+  "title": "Bar Kokhba revolt",
+  "lat": 31.73,
+  "lon": 35.13,
+  "polities": [
+   "rome"
+  ],
+  "summary": "A second Jewish revolt (132–135) is crushed by Hadrian, who refounds Jerusalem as Aelia Capitolina.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Cassius Dio 69.12–14"
+   },
+   {
+    "kind": "eyewitness",
+    "cite": "Bar Kokhba letters, Cave of Letters (found 1960–61)"
    }
   ]
  },
@@ -1564,6 +2064,29 @@
    {
     "kind": "primary",
     "cite": "Eusebius, Life of Constantine 1.28–38"
+   }
+  ]
+ },
+ {
+  "id": "milan-313",
+  "year": 313,
+  "approx": false,
+  "type": "treaty",
+  "title": "Edict of Milan",
+  "lat": 45.46,
+  "lon": 9.19,
+  "polities": [
+   "rome"
+  ],
+  "summary": "Constantine and Licinius grant religious toleration, ending the persecution of Christians.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Lactantius, On the Deaths of the Persecutors 48"
+   },
+   {
+    "kind": "primary",
+    "cite": "Eusebius, Ecclesiastical History 10.5"
    }
   ]
  },
@@ -1676,7 +2199,7 @@
   "summary": "The last pagan emperor is killed retreating from Ctesiphon; Jovian cedes Nisibis to Shapur II.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Ammianus Marcellinus 24–25 (an eyewitness)"
    }
   ]
@@ -1696,7 +2219,7 @@
   "summary": "Gothic refugees fleeing the Huns destroy the eastern Roman field army and kill Emperor Valens.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Ammianus Marcellinus 31.12–13"
    }
   ]
@@ -1903,7 +2426,7 @@
   "summary": "Attila dies on his wedding night. His sons' quarrels and the Gepid revolt at Nedao (454) break up the Hunnic realm.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Priscus, via Jordanes, Getica 49–50"
    }
   ]
@@ -2087,7 +2610,7 @@
   "summary": "Victories at Ad Decimum and Tricamarum return Africa to Roman rule. The last Vandal king, Gelimer, surrenders in 534.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Procopius, Wars 3.17–4.9 (an eyewitness)"
    }
   ]
@@ -2516,7 +3039,7 @@
   "summary": "With Heraclius away in the Caucasus, the city beats off an Avar-Slav assault while a Persian army waits across the Bosporus.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Theodore Synkellos, homily on the siege"
    },
    {
@@ -2990,7 +3513,7 @@
   "summary": "An Abbasid army defeats Tang forces in Central Asia, checking Chinese expansion westward.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Du Huan, Jingxing ji (a Tang prisoner's account)"
    },
    {
@@ -3520,7 +4043,7 @@
   "summary": "Symeon of Bulgaria annihilates a Byzantine army near Anchialos, one of the worst defeats in Byzantine history.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Leo the Deacon (later account); Theophanes Continuatus 6"
    },
    {
@@ -3649,7 +4172,7 @@
   "summary": "The regent of Kiev is received at court and baptized; Constantine VII records the ceremony.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Constantine VII, De Ceremoniis 2.15"
    },
    {
@@ -3691,7 +4214,7 @@
   "summary": "After a winter siege of Chandax, the Arab emirate of Crete is destroyed.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Leo the Deacon, History 1–2"
    },
    {
@@ -3780,7 +4303,7 @@
   "summary": "The city returns to Byzantine rule after more than 330 years. Nikephoros II is murdered the same year.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Leo the Deacon, History 5"
    },
    {
@@ -3824,7 +4347,7 @@
   "summary": "John Tzimiskes besieges Sviatoslav of Kiev and forces him out of Bulgaria, which Byzantium then annexes in the east.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Leo the Deacon, History 8–9"
    },
    {
@@ -3869,7 +4392,7 @@
   "summary": "6,000 Rus' warriors sent by Vladimir help Basil II defeat rebels; they become the emperor's Norse bodyguard.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Michael Psellos, Chronographia 1.13"
    },
    {
@@ -3976,7 +4499,7 @@
   "summary": "The empire is at its medieval peak from Armenia to southern Italy, but Basil leaves no heir.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Michael Psellos, Chronographia 1"
    },
    {
@@ -4049,6 +4572,29 @@
    {
     "kind": "primary",
     "cite": "Matthew of Edessa, Chronicle"
+   }
+  ]
+ },
+ {
+  "id": "cahokia-1050",
+  "year": 1050,
+  "approx": true,
+  "type": "founding",
+  "title": "Cahokia's 'Big Bang'",
+  "lat": 38.66,
+  "lon": -90.06,
+  "polities": [
+   "cahokia"
+  ],
+  "summary": "Cahokia is rapidly rebuilt as a planned city around Monks Mound, with perhaps 10,000–20,000 people.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Monks Mound and Grand Plaza excavations"
+   },
+   {
+    "kind": "scholarship",
+    "cite": "T. R. Pauketat, Cahokia: Ancient America's Great City on the Mississippi (2009)"
    }
   ]
  },
@@ -4136,7 +4682,7 @@
   "summary": "The Seljuk sultan Alp Arslan captures Emperor Romanos IV, opening Anatolia to Turkish settlement.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Michael Attaleiates, History (an eyewitness)"
    }
   ]
@@ -4305,7 +4851,7 @@
   "summary": "Answering Alexios's appeal for mercenaries, the pope calls for an armed pilgrimage to Jerusalem.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Fulcher of Chartres, History 1.3"
    },
    {
@@ -4334,7 +4880,7 @@
     "cite": "Anna Komnene, Alexiad 11.2"
    },
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Gesta Francorum 2"
    }
   ]
@@ -4354,11 +4900,11 @@
   "summary": "Bohemond keeps the city for himself, breaking the crusaders' oaths to Alexios.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Gesta Francorum 8–9"
    },
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Raymond of Aguilers"
    }
   ]
@@ -4375,7 +4921,7 @@
   "summary": "The First Crusade takes Jerusalem and massacres its inhabitants, founding the crusader states.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Gesta Francorum"
    },
    {
@@ -4425,6 +4971,25 @@
    {
     "kind": "primary",
     "cite": "Ibn al-Athir"
+   }
+  ]
+ },
+ {
+  "id": "becket",
+  "year": 1170,
+  "approx": false,
+  "type": "collapse",
+  "title": "Murder of Thomas Becket",
+  "lat": 51.28,
+  "lon": 1.08,
+  "polities": [
+   "england"
+  ],
+  "summary": "Four knights of Henry II kill the archbishop in Canterbury Cathedral.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Edward Grim, Life of St Thomas (Grim was wounded defending him)"
    }
   ]
  },
@@ -4562,15 +5127,15 @@
   "summary": "Diverted by Venetian debts and a Byzantine pretender, the crusaders storm the city and partition the empire.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Niketas Choniates, Historia (an eyewitness)"
    },
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Geoffrey of Villehardouin"
    },
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Robert de Clari"
    }
   ]
@@ -4610,7 +5175,7 @@
   "summary": "Kaloyan of Bulgaria and his Cuman allies crush the crusaders and capture Emperor Baldwin I.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Geoffrey of Villehardouin 349–360"
    },
    {
@@ -5033,7 +5598,7 @@
     "cite": "The 'Templar of Tyre', Chronicle"
    },
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Abu'l-Fida (an eyewitness)"
    }
   ]
@@ -5095,7 +5660,7 @@
   "summary": "Mercenaries hired against the Turks ravage Thrace after their leader Roger de Flor is murdered.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Ramon Muntaner, Chronicle (a participant)"
    },
    {
@@ -5118,12 +5683,35 @@
   "summary": "The Mali emperor spends so much gold in Cairo that local writers said its value dropped for years.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "al-'Umari, Masalik al-Absar"
    },
    {
     "kind": "primary",
     "cite": "Catalan Atlas (1375)"
+   }
+  ]
+ },
+ {
+  "id": "tenochtitlan-founded",
+  "year": 1325,
+  "approx": true,
+  "type": "founding",
+  "title": "Tenochtitlan founded",
+  "lat": 19.43,
+  "lon": -99.13,
+  "polities": [
+   "aztec"
+  ],
+  "summary": "The Mexica settle an island in Lake Texcoco where, by tradition, they saw an eagle on a cactus.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Codex Mendoza, folio 2r"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Templo Mayor earliest building phases"
    }
   ]
  },
@@ -5146,7 +5734,7 @@
     "cite": "Aşıkpaşazade"
    },
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Ibn Battuta, Rihla (visited 1331)"
    }
   ]
@@ -5165,7 +5753,7 @@
   "summary": "John Kantakouzenos fights the regency of John V; both sides hire Serbs and Turks, ruining the empire.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "John Kantakouzenos, Histories"
    },
    {
@@ -5194,6 +5782,30 @@
    {
     "kind": "primary",
     "cite": "Nikephoros Gregoras"
+   }
+  ]
+ },
+ {
+  "id": "crecy",
+  "year": 1346,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Crécy",
+  "lat": 50.25,
+  "lon": 1.89,
+  "polities": [
+   "england",
+   "france"
+  ],
+  "summary": "English longbowmen destroy the French knights early in the Hundred Years' War.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Jean Froissart, Chronicles"
+   },
+   {
+    "kind": "primary",
+    "cite": "Edward III's newsletter from the campaign"
    }
   ]
  },
@@ -5236,7 +5848,7 @@
   "summary": "The plague kills Kantakouzenos's son Andronikos and much of the city.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "John Kantakouzenos, Histories 4.8"
    },
    {
@@ -5264,7 +5876,7 @@
     "cite": "Nikephoros Gregoras"
    },
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "John Kantakouzenos"
    }
   ]
@@ -5377,7 +5989,7 @@
   "summary": "A crusade led by Sigismund of Hungary and French knights is crushed by Bayezid I.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Johann Schiltberger, Bondage and Travels (a captive)"
    },
    {
@@ -5424,7 +6036,7 @@
   "summary": "The emperor visits Paris and London seeking aid while Constantinople is blockaded.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Manuel II, Letters"
    },
    {
@@ -5447,7 +6059,7 @@
   "summary": "Timur defeats and captures Sultan Bayezid I, nearly destroying the Ottoman state.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Ruy González de Clavijo, Embassy to Tamerlane"
    },
    {
@@ -5505,6 +6117,30 @@
   ]
  },
  {
+  "id": "agincourt",
+  "year": 1415,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Agincourt",
+  "lat": 50.46,
+  "lon": 2.14,
+  "polities": [
+   "england",
+   "france"
+  ],
+  "summary": "Henry V's outnumbered army defeats the French.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Gesta Henrici Quinti (by a chaplain in Henry's army)"
+   },
+   {
+    "kind": "eyewitness",
+    "cite": "Jean de Waurin, Chronicles (fought on the French side)"
+   }
+  ]
+ },
+ {
   "id": "triple-alliance",
   "year": 1428,
   "approx": false,
@@ -5528,6 +6164,26 @@
   ]
  },
  {
+  "id": "orleans",
+  "year": 1429,
+  "approx": false,
+  "type": "battle",
+  "title": "Joan of Arc relieves Orléans",
+  "lat": 47.9,
+  "lon": 1.9,
+  "polities": [
+   "france",
+   "england"
+  ],
+  "summary": "The siege is lifted, and Charles VII is crowned at Reims.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Trial of Condemnation (1431) and Trial of Rehabilitation testimonies (1455–56)"
+   }
+  ]
+ },
+ {
   "id": "thessalonica-1430",
   "year": 1430,
   "approx": false,
@@ -5543,7 +6199,7 @@
   "summary": "Murad II storms the city, which Venice had held since 1423.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "John Anagnostes, Account of the Fall of Thessalonica"
    }
   ]
@@ -5681,7 +6337,7 @@
   "summary": "Mehmed II breaches the Theodosian Walls with heavy cannon, ending the Roman Empire after some 1,500 years.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Nicolò Barbaro, Diary of the Siege"
    },
    {
@@ -5691,6 +6347,29 @@
    {
     "kind": "primary",
     "cite": "Doukas, Historia Turco-Byzantina"
+   }
+  ]
+ },
+ {
+  "id": "gutenberg",
+  "year": 1455,
+  "approx": true,
+  "type": "milestone",
+  "title": "Gutenberg Bible printed",
+  "lat": 49.99,
+  "lon": 8.27,
+  "polities": [
+   "hre"
+  ],
+  "summary": "Movable-type printing in Mainz spreads across Europe within decades.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Letter of Enea Silvio Piccolomini (later Pope Pius II), March 1455, describing the sheets"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Surviving copies of the 42-line Bible"
    }
   ]
  },
@@ -5709,7 +6388,7 @@
   "summary": "Mehmed II takes Mistras, the last Byzantine-ruled territory in Greece.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Sphrantzes, Chronicle"
    },
    {
@@ -5799,12 +6478,33 @@
   "summary": "A Castilian expedition lands in the Bahamas, beginning sustained contact, colonization and the Columbian Exchange. The same year Granada falls.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Columbus's log (Las Casas abstract)"
    },
    {
     "kind": "primary",
     "cite": "Capitulations of Santa Fe (April 1492)"
+   }
+  ]
+ },
+ {
+  "id": "tordesillas",
+  "year": 1494,
+  "approx": false,
+  "type": "treaty",
+  "title": "Treaty of Tordesillas",
+  "lat": 41.5,
+  "lon": -5.0,
+  "polities": [
+   "spain",
+   "portugal",
+   "brazil"
+  ],
+  "summary": "Castile and Portugal divide newly found lands along a meridian 370 leagues west of Cape Verde, the basis of Portuguese Brazil.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Treaty of Tordesillas (Archivo General de Indias; Torre do Tombo)"
    }
   ]
  },
@@ -5820,8 +6520,28 @@
   "summary": "The first sea voyage from Europe to India, around Africa, begins Portugal's Indian Ocean empire.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Álvaro Velho (attrib.), Roteiro of the first voyage"
+   }
+  ]
+ },
+ {
+  "id": "cabral",
+  "year": 1500,
+  "approx": false,
+  "type": "founding",
+  "title": "Cabral reaches Brazil",
+  "lat": -16.45,
+  "lon": -39.06,
+  "polities": [
+   "brazil",
+   "portugal"
+  ],
+  "summary": "A Portuguese fleet bound for India lands at Porto Seguro.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Pero Vaz de Caminha, letter to King Manuel I (1 May 1500)"
    }
   ]
  },
@@ -5858,8 +6578,51 @@
   "summary": "Selim I takes Cairo, bringing Egypt, Syria and the Holy Cities of Arabia under Ottoman rule.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Ibn Iyas, Bada'i' al-Zuhur (an eyewitness in Cairo)"
+   }
+  ]
+ },
+ {
+  "id": "luther",
+  "year": 1517,
+  "approx": false,
+  "type": "milestone",
+  "title": "Luther's Ninety-five Theses",
+  "lat": 51.87,
+  "lon": 12.64,
+  "polities": [
+   "hre"
+  ],
+  "summary": "A Wittenberg friar's challenge to the sale of indulgences begins the Protestant Reformation.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Martin Luther, Ninety-five Theses and letter to Archbishop Albrecht (31 October 1517)"
+   }
+  ]
+ },
+ {
+  "id": "cortes-lands",
+  "year": 1519,
+  "approx": false,
+  "type": "battle",
+  "title": "Cortés lands in Mexico",
+  "lat": 19.2,
+  "lon": -96.13,
+  "polities": [
+   "aztec",
+   "spain"
+  ],
+  "summary": "Cortés founds Veracruz, scuttles his ships and marches inland with Totonac and later Tlaxcalan allies.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Bernal Díaz del Castillo, True History of the Conquest of New Spain"
+   },
+   {
+    "kind": "eyewitness",
+    "cite": "Hernán Cortés, Second Letter"
    }
   ]
  },
@@ -5882,11 +6645,11 @@
     "cite": "Sahagún, Florentine Codex, Book 12 (Nahua accounts)"
    },
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Hernán Cortés, Third Letter"
    },
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Bernal Díaz del Castillo, True History of the Conquest"
    }
   ]
@@ -5906,7 +6669,7 @@
   "summary": "Babur's guns and cavalry defeat Ibrahim Lodi. The Delhi Sultanate ends and the Mughal Empire begins.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Baburnama"
    }
   ]
@@ -5926,7 +6689,7 @@
   "summary": "Suleiman the Magnificent destroys the Hungarian army; King Louis II dies in the retreat.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "István Brodarics, True Account of the Battle"
    },
    {
@@ -5950,11 +6713,11 @@
   "summary": "At Cajamarca a small Spanish force seizes the Inca ruler, who had just won a civil war. He is executed in 1533.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Francisco de Xerez, True Account of the Conquest of Peru (1534)"
    },
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Titu Cusi Yupanqui, Account (1570)"
    }
   ]
@@ -6006,6 +6769,30 @@
   ]
  },
  {
+  "id": "armada",
+  "year": 1588,
+  "approx": false,
+  "type": "battle",
+  "title": "Spanish Armada defeated",
+  "lat": 50.0,
+  "lon": -2.0,
+  "polities": [
+   "spain",
+   "england"
+  ],
+  "summary": "Philip II's invasion fleet is beaten off Gravelines and wrecked on its way home around Scotland and Ireland.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Letters of the Duke of Medina Sidonia and Francisco de Cuéllar's account"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Armada wrecks (e.g., La Trinidad Valencera)"
+   }
+  ]
+ },
+ {
   "id": "tondibi",
   "year": 1591,
   "approx": false,
@@ -6021,6 +6808,92 @@
    {
     "kind": "primary",
     "cite": "al-Sa'di, Tarikh al-Sudan"
+   }
+  ]
+ },
+ {
+  "id": "jamestown",
+  "year": 1607,
+  "approx": false,
+  "type": "founding",
+  "title": "Jamestown founded",
+  "lat": 37.21,
+  "lon": -76.78,
+  "polities": [
+   "british-america",
+   "powhatan"
+  ],
+  "summary": "The first permanent English colony in North America is founded in Powhatan territory.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "John Smith, A True Relation (1608)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Jamestown Rediscovery excavations (from 1994)"
+   }
+  ]
+ },
+ {
+  "id": "quebec",
+  "year": 1608,
+  "approx": false,
+  "type": "founding",
+  "title": "Champlain founds Quebec",
+  "lat": 46.81,
+  "lon": -71.21,
+  "polities": [
+   "new-france"
+  ],
+  "summary": "The first permanent settlement of New France.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Samuel de Champlain, Voyages (1613)"
+   }
+  ]
+ },
+ {
+  "id": "thirty-years",
+  "year": 1618,
+  "approx": false,
+  "type": "battle",
+  "title": "Defenestration of Prague",
+  "lat": 50.09,
+  "lon": 14.4,
+  "polities": [
+   "hre",
+   "habsburg"
+  ],
+  "summary": "Bohemian Protestants throw imperial officials from a castle window, starting the Thirty Years' War.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Account of the regent Vilém Slavata (one of the men thrown)"
+   }
+  ]
+ },
+ {
+  "id": "plymouth",
+  "year": 1620,
+  "approx": false,
+  "type": "founding",
+  "title": "Plymouth Colony founded",
+  "lat": 41.96,
+  "lon": -70.67,
+  "polities": [
+   "british-america"
+  ],
+  "summary": "The Mayflower passengers settle on Wampanoag land and sign the Mayflower Compact.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "William Bradford, Of Plymouth Plantation"
+   },
+   {
+    "kind": "eyewitness",
+    "cite": "Mourt's Relation (1622)"
    }
   ]
  },
@@ -6068,6 +6941,49 @@
   ]
  },
  {
+  "id": "english-civil-war",
+  "year": 1649,
+  "approx": false,
+  "type": "collapse",
+  "title": "Execution of Charles I",
+  "lat": 51.5,
+  "lon": -0.13,
+  "polities": [
+   "england"
+  ],
+  "summary": "After the civil wars, Parliament tries and beheads the king; England becomes a republic until 1660.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Death warrant of Charles I (Parliamentary Archives)"
+   },
+   {
+    "kind": "eyewitness",
+    "cite": "Philip Henry's diary"
+   }
+  ]
+ },
+ {
+  "id": "pueblo-revolt",
+  "year": 1680,
+  "approx": false,
+  "type": "battle",
+  "title": "Pueblo Revolt",
+  "lat": 35.69,
+  "lon": -105.94,
+  "polities": [
+   "puebloans",
+   "spain"
+  ],
+  "summary": "Pueblo peoples led by Popé drive the Spanish from New Mexico for twelve years.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Testimonies taken by Governor Otermín (1681)"
+   }
+  ]
+ },
+ {
   "id": "vienna-1683",
   "year": 1683,
   "approx": false,
@@ -6086,7 +7002,7 @@
     "cite": "Silahdar Fındıklılı Mehmed Ağa, Silahdar Tarihi"
    },
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Jan III Sobieski, letters to Queen Marie Casimire"
    }
   ]
@@ -6108,6 +7024,30 @@
    {
     "kind": "primary",
     "cite": "Union with Scotland Act 1706; Union with England Act 1707"
+   }
+  ]
+ },
+ {
+  "id": "poltava",
+  "year": 1709,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Poltava",
+  "lat": 49.59,
+  "lon": 34.55,
+  "polities": [
+   "sweden",
+   "russia"
+  ],
+  "summary": "Peter the Great destroys Charles XII's army, ending Sweden's great-power era.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Peter I's letters from the field"
+   },
+   {
+    "kind": "primary",
+    "cite": "Treaty of Nystad (1721)"
    }
   ]
  },
@@ -6155,6 +7095,31 @@
   ]
  },
  {
+  "id": "paris-1763",
+  "year": 1763,
+  "approx": false,
+  "type": "treaty",
+  "title": "Treaty of Paris (1763) and Royal Proclamation",
+  "lat": 48.86,
+  "lon": 2.35,
+  "polities": [
+   "british-america",
+   "new-france",
+   "spain"
+  ],
+  "summary": "France cedes Canada and lands east of the Mississippi to Britain and Louisiana to Spain. The Proclamation Line reserves the interior for Native nations.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Treaty of Paris (10 February 1763)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Royal Proclamation of 7 October 1763"
+   }
+  ]
+ },
+ {
   "id": "ayutthaya-1767",
   "year": 1767,
   "approx": false,
@@ -6174,6 +7139,52 @@
    {
     "kind": "primary",
     "cite": "Burmese Konbaung chronicles"
+   }
+  ]
+ },
+ {
+  "id": "partition-poland",
+  "year": 1772,
+  "approx": false,
+  "type": "treaty",
+  "title": "First Partition of Poland",
+  "lat": 52.23,
+  "lon": 21.01,
+  "polities": [
+   "poland",
+   "prussia",
+   "habsburg",
+   "russia"
+  ],
+  "summary": "Russia, Prussia and Austria seize a third of the Commonwealth; by 1795 Poland disappears from the map.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Partition treaties of 1772, 1793 and 1795"
+   }
+  ]
+ },
+ {
+  "id": "lexington",
+  "year": 1775,
+  "approx": false,
+  "type": "battle",
+  "title": "Lexington and Concord",
+  "lat": 42.45,
+  "lon": -71.23,
+  "polities": [
+   "british-america",
+   "uk"
+  ],
+  "summary": "The first shots of the American Revolutionary War.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Depositions of militiamen (April 1775)"
+   },
+   {
+    "kind": "eyewitness",
+    "cite": "Diary of Lt. John Barker, King's Own Regiment"
    }
   ]
  },
@@ -6201,6 +7212,30 @@
   ]
  },
  {
+  "id": "paris-1783",
+  "year": 1783,
+  "approx": false,
+  "type": "treaty",
+  "title": "Treaty of Paris recognizes the United States",
+  "lat": 48.86,
+  "lon": 2.35,
+  "polities": [
+   "usa",
+   "uk"
+  ],
+  "summary": "Britain recognizes U.S. independence with borders from the Atlantic to the Mississippi and from the Great Lakes to Florida. The U.S. state map begins here.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Treaty of Paris (3 September 1783), National Archives"
+   },
+   {
+    "kind": "scholarship",
+    "cite": "Atlas of Historical County Boundaries"
+   }
+  ]
+ },
+ {
   "id": "french-revolution",
   "year": 1789,
   "approx": false,
@@ -6214,6 +7249,96 @@
    {
     "kind": "primary",
     "cite": "Declaration of the Rights of Man and of the Citizen (26 August 1789)"
+   }
+  ]
+ },
+ {
+  "id": "haiti-revolution",
+  "year": 1791,
+  "approx": false,
+  "type": "battle",
+  "title": "Haitian Revolution begins",
+  "lat": 19.76,
+  "lon": -72.2,
+  "polities": [
+   "haiti"
+  ],
+  "summary": "Enslaved people rise in Saint-Domingue; independence follows in 1804.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Letters of Toussaint Louverture"
+   },
+   {
+    "kind": "primary",
+    "cite": "Haitian Declaration of Independence (1804)"
+   }
+  ]
+ },
+ {
+  "id": "louisiana-purchase",
+  "year": 1803,
+  "approx": false,
+  "type": "treaty",
+  "title": "Louisiana Purchase",
+  "lat": 29.95,
+  "lon": -90.07,
+  "polities": [
+   "usa",
+   "france"
+  ],
+  "summary": "The United States buys France's claim to the Mississippi's western basin, roughly doubling its size.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Louisiana Purchase Treaty (30 April 1803), National Archives"
+   },
+   {
+    "kind": "scholarship",
+    "cite": "Atlas of Historical County Boundaries"
+   }
+  ]
+ },
+ {
+  "id": "napoleon-crowned",
+  "year": 1804,
+  "approx": false,
+  "type": "founding",
+  "title": "Napoleon crowned Emperor",
+  "lat": 48.85,
+  "lon": 2.35,
+  "polities": [
+   "france"
+  ],
+  "summary": "Napoleon crowns himself in Notre-Dame.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Memoirs of Madame de Rémusat (attended the court)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Jacques-Louis David, The Coronation of Napoleon (Louvre)"
+   }
+  ]
+ },
+ {
+  "id": "fort-mandan",
+  "year": 1804,
+  "approx": false,
+  "type": "milestone",
+  "title": "Lewis and Clark winter at Fort Mandan",
+  "lat": 47.3,
+  "lon": -101.08,
+  "polities": [
+   "usa",
+   "mandan"
+  ],
+  "summary": "The expedition builds Fort Mandan near the Mandan and Hidatsa villages and meets Sacagawea before heading west.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Journals of Meriwether Lewis and William Clark (1804–1806)"
    }
   ]
  },
@@ -6237,6 +7362,30 @@
   ]
  },
  {
+  "id": "moscow-1812",
+  "year": 1812,
+  "approx": false,
+  "type": "battle",
+  "title": "Napoleon's invasion of Russia",
+  "lat": 55.75,
+  "lon": 37.62,
+  "polities": [
+   "france",
+   "russia"
+  ],
+  "summary": "The Grande Armée takes Moscow but loses most of its 600,000 men in the retreat.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Armand de Caulaincourt, Memoirs (at Napoleon's side)"
+   },
+   {
+    "kind": "eyewitness",
+    "cite": "Philippe-Paul de Ségur, History of the Expedition to Russia"
+   }
+  ]
+ },
+ {
   "id": "waterloo",
   "year": 1815,
   "approx": false,
@@ -6254,8 +7403,121 @@
     "cite": "Final Act of the Congress of Vienna (9 June 1815)"
    },
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Wellington's Waterloo Dispatch (19 June 1815)"
+   }
+  ]
+ },
+ {
+  "id": "mexico-1821",
+  "year": 1821,
+  "approx": false,
+  "type": "founding",
+  "title": "Mexican independence",
+  "lat": 19.43,
+  "lon": -99.13,
+  "polities": [
+   "mexico",
+   "spain"
+  ],
+  "summary": "The Plan of Iguala and the Treaty of Córdoba end Spanish rule.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Plan of Iguala; Treaty of Córdoba (1821)"
+   }
+  ]
+ },
+ {
+  "id": "brazil-1822",
+  "year": 1822,
+  "approx": false,
+  "type": "founding",
+  "title": "Brazilian independence",
+  "lat": -23.55,
+  "lon": -46.63,
+  "polities": [
+   "brazil",
+   "portugal"
+  ],
+  "summary": "Prince Pedro declares independence by the Ipiranga stream and becomes emperor.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Accounts of Pedro I's companions at Ipiranga"
+   }
+  ]
+ },
+ {
+  "id": "indian-removal",
+  "year": 1838,
+  "approx": false,
+  "type": "collapse",
+  "title": "Trail of Tears",
+  "lat": 35.91,
+  "lon": -94.97,
+  "polities": [
+   "cherokee",
+   "usa"
+  ],
+  "summary": "After the Indian Removal Act (1830), the U.S. Army forces the Cherokee west; thousands die on the march.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Indian Removal Act (1830); Treaty of New Echota (1835)"
+   },
+   {
+    "kind": "eyewitness",
+    "cite": "Diary of Lt. John G. Burnett; missionary Daniel Butrick's journal"
+   }
+  ]
+ },
+ {
+  "id": "revolutions-1848",
+  "year": 1848,
+  "approx": false,
+  "type": "collapse",
+  "title": "Revolutions of 1848",
+  "lat": 48.86,
+  "lon": 2.35,
+  "polities": [
+   "france",
+   "habsburg",
+   "prussia"
+  ],
+  "summary": "Uprisings sweep France, the German states, Austria and Italy; most are suppressed by 1849.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Alexis de Tocqueville, Recollections"
+   },
+   {
+    "kind": "primary",
+    "cite": "Frankfurt Constitution (1849)"
+   }
+  ]
+ },
+ {
+  "id": "guadalupe-hidalgo",
+  "year": 1848,
+  "approx": false,
+  "type": "treaty",
+  "title": "Treaty of Guadalupe Hidalgo",
+  "lat": 19.48,
+  "lon": -99.12,
+  "polities": [
+   "usa",
+   "mexico"
+  ],
+  "summary": "Mexico cedes California and the Southwest after losing the U.S.–Mexican War.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Treaty of Guadalupe Hidalgo (2 February 1848)"
+   },
+   {
+    "kind": "scholarship",
+    "cite": "Atlas of Historical County Boundaries"
    }
   ]
  },
@@ -6284,6 +7546,141 @@
   ]
  },
  {
+  "id": "italy-1861",
+  "year": 1861,
+  "approx": false,
+  "type": "founding",
+  "title": "Kingdom of Italy proclaimed",
+  "lat": 45.07,
+  "lon": 7.69,
+  "polities": [
+   "italy"
+  ],
+  "summary": "After Garibaldi's conquest of the south, Victor Emmanuel II becomes king of Italy at Turin.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Law of 17 March 1861"
+   },
+   {
+    "kind": "eyewitness",
+    "cite": "Giuseppe Garibaldi, Memoirs"
+   }
+  ]
+ },
+ {
+  "id": "fort-sumter",
+  "year": 1861,
+  "approx": false,
+  "type": "battle",
+  "title": "American Civil War begins",
+  "lat": 32.75,
+  "lon": -79.87,
+  "polities": [
+   "usa"
+  ],
+  "summary": "Confederate guns fire on Fort Sumter in Charleston harbour.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Mary Chesnut's diary"
+   },
+   {
+    "kind": "primary",
+    "cite": "Official Records of the War of the Rebellion"
+   }
+  ]
+ },
+ {
+  "id": "gettysburg",
+  "year": 1863,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Gettysburg",
+  "lat": 39.81,
+  "lon": -77.23,
+  "polities": [
+   "usa"
+  ],
+  "summary": "The Union defeats Lee's invasion of the North; Lincoln's address follows in November.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Frank Haskell, letter on the battle (1863)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Gettysburg Address"
+   }
+  ]
+ },
+ {
+  "id": "appomattox",
+  "year": 1865,
+  "approx": false,
+  "type": "treaty",
+  "title": "Surrender at Appomattox",
+  "lat": 37.38,
+  "lon": -78.8,
+  "polities": [
+   "usa"
+  ],
+  "summary": "Lee surrenders to Grant; the Thirteenth Amendment abolishes slavery that year.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Ulysses S. Grant, Personal Memoirs"
+   },
+   {
+    "kind": "primary",
+    "cite": "Thirteenth Amendment (1865)"
+   }
+  ]
+ },
+ {
+  "id": "canada-1867",
+  "year": 1867,
+  "approx": false,
+  "type": "founding",
+  "title": "Canadian Confederation",
+  "lat": 45.42,
+  "lon": -75.7,
+  "polities": [
+   "canada"
+  ],
+  "summary": "Ontario, Quebec, Nova Scotia and New Brunswick unite as the Dominion of Canada.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "British North America Act (1867)"
+   }
+  ]
+ },
+ {
+  "id": "alaska-1867",
+  "year": 1867,
+  "approx": false,
+  "type": "treaty",
+  "title": "Alaska Purchase",
+  "lat": 57.05,
+  "lon": -135.33,
+  "polities": [
+   "usa",
+   "russia"
+  ],
+  "summary": "The United States buys Alaska from Russia for $7.2 million.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Treaty of Cession (1867), National Archives"
+   },
+   {
+    "kind": "scholarship",
+    "cite": "Atlas of Historical County Boundaries"
+   }
+  ]
+ },
+ {
   "id": "german-empire",
   "year": 1871,
   "approx": false,
@@ -6301,6 +7698,30 @@
   ]
  },
  {
+  "id": "little-bighorn",
+  "year": 1876,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of the Little Bighorn",
+  "lat": 45.57,
+  "lon": -107.43,
+  "polities": [
+   "oceti-sakowin",
+   "usa"
+  ],
+  "summary": "Lakota, Cheyenne and Arapaho warriors under Sitting Bull and Crazy Horse defeat Custer's 7th Cavalry.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Accounts of Lakota and Cheyenne participants collected by Walter Camp and others"
+   },
+   {
+    "kind": "primary",
+    "cite": "Reno Court of Inquiry (1879)"
+   }
+  ]
+ },
+ {
   "id": "berlin-conference",
   "year": 1884,
   "approx": false,
@@ -6314,6 +7735,50 @@
    {
     "kind": "primary",
     "cite": "General Act of the Berlin Conference (26 February 1885)"
+   }
+  ]
+ },
+ {
+  "id": "dakota-statehood",
+  "year": 1889,
+  "approx": false,
+  "type": "founding",
+  "title": "North and South Dakota become states",
+  "lat": 46.81,
+  "lon": -100.78,
+  "polities": [
+   "usa",
+   "oceti-sakowin"
+  ],
+  "summary": "Dakota Territory is divided and admitted as two states under the Enabling Act of 1889.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Enabling Act (25 Stat. 676, 1889)"
+   },
+   {
+    "kind": "scholarship",
+    "cite": "Atlas of Historical County Boundaries"
+   }
+  ]
+ },
+ {
+  "id": "wounded-knee",
+  "year": 1890,
+  "approx": false,
+  "type": "collapse",
+  "title": "Wounded Knee Massacre",
+  "lat": 43.14,
+  "lon": -102.36,
+  "polities": [
+   "oceti-sakowin",
+   "usa"
+  ],
+  "summary": "U.S. troops kill some 250–300 Lakota men, women and children.",
+  "sources": [
+   {
+    "kind": "eyewitness",
+    "cite": "Testimony of survivors, and Black Elk Speaks (1932)"
    }
   ]
  },
@@ -6378,6 +7843,25 @@
   ]
  },
  {
+  "id": "panama-canal",
+  "year": 1914,
+  "approx": false,
+  "type": "milestone",
+  "title": "Panama Canal opens",
+  "lat": 9.08,
+  "lon": -79.68,
+  "polities": [
+   "usa"
+  ],
+  "summary": "The canal links the Atlantic and Pacific.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Hay–Bunau-Varilla Treaty (1903)"
+   }
+  ]
+ },
+ {
   "id": "revolution-1917",
   "year": 1917,
   "approx": false,
@@ -6397,6 +7881,31 @@
    {
     "kind": "primary",
     "cite": "Decree on Peace (8 November 1917)"
+   }
+  ]
+ },
+ {
+  "id": "versailles-1919",
+  "year": 1919,
+  "approx": false,
+  "type": "treaty",
+  "title": "Treaty of Versailles",
+  "lat": 48.8,
+  "lon": 2.12,
+  "polities": [
+   "germany",
+   "france",
+   "uk"
+  ],
+  "summary": "The peace after the First World War redraws Europe's borders and creates new states from the fallen empires.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Treaty of Versailles (28 June 1919)"
+   },
+   {
+    "kind": "eyewitness",
+    "cite": "Harold Nicolson, Peacemaking 1919 (diary of a delegate)"
    }
   ]
  },
@@ -6435,6 +7944,31 @@
    {
     "kind": "primary",
     "cite": "Treaty on the Creation of the USSR (30 December 1922)"
+   }
+  ]
+ },
+ {
+  "id": "poland-1939",
+  "year": 1939,
+  "approx": false,
+  "type": "battle",
+  "title": "Germany invades Poland",
+  "lat": 52.23,
+  "lon": 21.01,
+  "polities": [
+   "germany",
+   "poland",
+   "russia"
+  ],
+  "summary": "The Second World War begins in Europe; the Soviet Union invades from the east on 17 September.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "German–Soviet Pact secret protocol (23 August 1939)"
+   },
+   {
+    "kind": "eyewitness",
+    "cite": "William L. Shirer, Berlin Diary"
    }
   ]
  },
@@ -6496,6 +8030,27 @@
   ]
  },
  {
+  "id": "rome-treaty",
+  "year": 1957,
+  "approx": false,
+  "type": "treaty",
+  "title": "Treaty of Rome",
+  "lat": 41.89,
+  "lon": 12.49,
+  "polities": [
+   "germany",
+   "france",
+   "italy"
+  ],
+  "summary": "Six states found the European Economic Community, forerunner of the European Union.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Treaty establishing the European Economic Community (1957)"
+   }
+  ]
+ },
+ {
   "id": "africa-1960",
   "year": 1960,
   "approx": false,
@@ -6526,7 +8081,7 @@
   "summary": "East Germany opens its border. Communist governments across Eastern Europe fall within months.",
   "sources": [
    {
-    "kind": "primary",
+    "kind": "eyewitness",
     "cite": "Günter Schabowski press conference transcript (9 November 1989)"
    }
   ]

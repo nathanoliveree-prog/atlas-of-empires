@@ -955,6 +955,10 @@
   "id": "acre",
   "names": [
    {
+    "name": "Akko",
+    "until": -262
+   },
+   {
     "name": "Ptolemais",
     "until": 637
    },
@@ -966,7 +970,7 @@
   "lat": 32.92,
   "lon": 35.07,
   "rank": 3,
-  "from": -1500,
+  "from": -1800,
   "to": null
  },
  {
@@ -2200,5 +2204,555 @@
   "rank": 2,
   "from": 800,
   "to": 1350
+ },
+ {
+  "id": "samaria",
+  "names": [
+   {
+    "name": "Samaria",
+    "until": -25
+   },
+   {
+    "name": "Sebaste",
+    "until": null
+   }
+  ],
+  "lat": 32.28,
+  "lon": 35.19,
+  "rank": 2,
+  "from": -880,
+  "to": null
+ },
+ {
+  "id": "megiddo",
+  "names": [
+   {
+    "name": "Megiddo",
+    "until": null
+   }
+  ],
+  "lat": 32.585,
+  "lon": 35.185,
+  "rank": 3,
+  "from": -3000,
+  "to": -350
+ },
+ {
+  "id": "hazor",
+  "names": [
+   {
+    "name": "Hazor",
+    "until": null
+   }
+  ],
+  "lat": 33.02,
+  "lon": 35.57,
+  "rank": 3,
+  "from": -2700,
+  "to": -732
+ },
+ {
+  "id": "shechem",
+  "names": [
+   {
+    "name": "Shechem",
+    "until": 72
+   },
+   {
+    "name": "Neapolis",
+    "until": null
+   }
+  ],
+  "lat": 32.21,
+  "lon": 35.28,
+  "rank": 3,
+  "from": -1900,
+  "to": null
+ },
+ {
+  "id": "hebron",
+  "names": [
+   {
+    "name": "Hebron",
+    "until": null
+   }
+  ],
+  "lat": 31.53,
+  "lon": 35.1,
+  "rank": 3,
+  "from": -1800,
+  "to": null
+ },
+ {
+  "id": "beersheba",
+  "names": [
+   {
+    "name": "Beersheba",
+    "until": null
+   }
+  ],
+  "lat": 31.25,
+  "lon": 34.79,
+  "rank": 3,
+  "from": -1000,
+  "to": null
+ },
+ {
+  "id": "jericho",
+  "names": [
+   {
+    "name": "Jericho",
+    "until": null
+   }
+  ],
+  "lat": 31.87,
+  "lon": 35.44,
+  "rank": 3,
+  "from": -8000,
+  "to": null
+ },
+ {
+  "id": "gaza",
+  "names": [
+   {
+    "name": "Gaza",
+    "until": null
+   }
+  ],
+  "lat": 31.5,
+  "lon": 34.47,
+  "rank": 2,
+  "from": -1500,
+  "to": null
+ },
+ {
+  "id": "ashkelon",
+  "names": [
+   {
+    "name": "Ashkelon",
+    "until": null
+   }
+  ],
+  "lat": 31.67,
+  "lon": 34.55,
+  "rank": 3,
+  "from": -2000,
+  "to": 1270
+ },
+ {
+  "id": "dan",
+  "names": [
+   {
+    "name": "Dan",
+    "until": null
+   }
+  ],
+  "lat": 33.25,
+  "lon": 35.65,
+  "rank": 3,
+  "from": -1200,
+  "to": -200
+ },
+ {
+  "id": "rabbah",
+  "names": [
+   {
+    "name": "Rabbah",
+    "until": -250
+   },
+   {
+    "name": "Philadelphia",
+    "until": 650
+   },
+   {
+    "name": "Amman",
+    "until": null
+   }
+  ],
+  "lat": 31.95,
+  "lon": 35.93,
+  "rank": 3,
+  "from": -1200,
+  "to": null
+ },
+ {
+  "id": "dibon",
+  "names": [
+   {
+    "name": "Dibon",
+    "until": null
+   }
+  ],
+  "lat": 31.5,
+  "lon": 35.78,
+  "rank": 3,
+  "from": -1000,
+  "to": -500
+ },
+ {
+  "id": "bethlehem",
+  "names": [
+   {
+    "name": "Bethlehem",
+    "until": null
+   }
+  ],
+  "lat": 31.7,
+  "lon": 35.2,
+  "rank": 3,
+  "from": -1000,
+  "to": null
+ },
+ {
+  "id": "nazareth",
+  "names": [
+   {
+    "name": "Nazareth",
+    "until": null
+   }
+  ],
+  "lat": 32.7,
+  "lon": 35.3,
+  "rank": 3,
+  "from": -100,
+  "to": null
+ },
+ {
+  "id": "capernaum",
+  "names": [
+   {
+    "name": "Capernaum",
+    "until": null
+   }
+  ],
+  "lat": 32.88,
+  "lon": 35.57,
+  "rank": 3,
+  "from": -150,
+  "to": 1100
+ },
+ {
+  "id": "quebec-c",
+  "names": [
+   {
+    "name": "Quebec",
+    "until": null
+   }
+  ],
+  "lat": 46.81,
+  "lon": -71.21,
+  "rank": 2,
+  "from": 1608,
+  "to": null
+ },
+ {
+  "id": "montreal",
+  "names": [
+   {
+    "name": "Ville-Marie",
+    "until": 1705
+   },
+   {
+    "name": "Montreal",
+    "until": null
+   }
+  ],
+  "lat": 45.5,
+  "lon": -73.57,
+  "rank": 2,
+  "from": 1642,
+  "to": null
+ },
+ {
+  "id": "boston",
+  "names": [
+   {
+    "name": "Boston",
+    "until": null
+   }
+  ],
+  "lat": 42.36,
+  "lon": -71.06,
+  "rank": 2,
+  "from": 1630,
+  "to": null
+ },
+ {
+  "id": "new-york",
+  "names": [
+   {
+    "name": "New Amsterdam",
+    "until": 1664
+   },
+   {
+    "name": "New York",
+    "until": null
+   }
+  ],
+  "lat": 40.71,
+  "lon": -74.01,
+  "rank": 1,
+  "from": 1625,
+  "to": null
+ },
+ {
+  "id": "philadelphia-pa",
+  "names": [
+   {
+    "name": "Philadelphia",
+    "until": null
+   }
+  ],
+  "lat": 39.95,
+  "lon": -75.15,
+  "rank": 2,
+  "from": 1682,
+  "to": null
+ },
+ {
+  "id": "jamestown-c",
+  "names": [
+   {
+    "name": "Jamestown",
+    "until": null
+   }
+  ],
+  "lat": 37.21,
+  "lon": -76.78,
+  "rank": 3,
+  "from": 1607,
+  "to": 1699
+ },
+ {
+  "id": "washington",
+  "names": [
+   {
+    "name": "Washington",
+    "until": null
+   }
+  ],
+  "lat": 38.89,
+  "lon": -77.04,
+  "rank": 1,
+  "from": 1800,
+  "to": null
+ },
+ {
+  "id": "st-augustine",
+  "names": [
+   {
+    "name": "St. Augustine",
+    "until": null
+   }
+  ],
+  "lat": 29.9,
+  "lon": -81.31,
+  "rank": 3,
+  "from": 1565,
+  "to": null
+ },
+ {
+  "id": "new-orleans",
+  "names": [
+   {
+    "name": "New Orleans",
+    "until": null
+   }
+  ],
+  "lat": 29.95,
+  "lon": -90.07,
+  "rank": 2,
+  "from": 1718,
+  "to": null
+ },
+ {
+  "id": "st-louis",
+  "names": [
+   {
+    "name": "St. Louis",
+    "until": null
+   }
+  ],
+  "lat": 38.63,
+  "lon": -90.2,
+  "rank": 2,
+  "from": 1764,
+  "to": null
+ },
+ {
+  "id": "chicago",
+  "names": [
+   {
+    "name": "Chicago",
+    "until": null
+   }
+  ],
+  "lat": 41.88,
+  "lon": -87.63,
+  "rank": 2,
+  "from": 1833,
+  "to": null
+ },
+ {
+  "id": "santa-fe",
+  "names": [
+   {
+    "name": "Santa Fe",
+    "until": null
+   }
+  ],
+  "lat": 35.69,
+  "lon": -105.94,
+  "rank": 3,
+  "from": 1610,
+  "to": null
+ },
+ {
+  "id": "san-francisco",
+  "names": [
+   {
+    "name": "Yerba Buena",
+    "until": 1847
+   },
+   {
+    "name": "San Francisco",
+    "until": null
+   }
+  ],
+  "lat": 37.77,
+  "lon": -122.42,
+  "rank": 2,
+  "from": 1776,
+  "to": null
+ },
+ {
+  "id": "fargo",
+  "names": [
+   {
+    "name": "Fargo",
+    "until": null
+   }
+  ],
+  "lat": 46.88,
+  "lon": -96.79,
+  "rank": 3,
+  "from": 1871,
+  "to": null
+ },
+ {
+  "id": "bismarck",
+  "names": [
+   {
+    "name": "Bismarck",
+    "until": null
+   }
+  ],
+  "lat": 46.81,
+  "lon": -100.78,
+  "rank": 3,
+  "from": 1872,
+  "to": null
+ },
+ {
+  "id": "lima",
+  "names": [
+   {
+    "name": "Lima",
+    "until": null
+   }
+  ],
+  "lat": -12.05,
+  "lon": -77.04,
+  "rank": 1,
+  "from": 1535,
+  "to": null
+ },
+ {
+  "id": "havana",
+  "names": [
+   {
+    "name": "Havana",
+    "until": null
+   }
+  ],
+  "lat": 23.11,
+  "lon": -82.37,
+  "rank": 2,
+  "from": 1519,
+  "to": null
+ },
+ {
+  "id": "rio",
+  "names": [
+   {
+    "name": "Rio de Janeiro",
+    "until": null
+   }
+  ],
+  "lat": -22.91,
+  "lon": -43.17,
+  "rank": 2,
+  "from": 1565,
+  "to": null
+ },
+ {
+  "id": "salvador",
+  "names": [
+   {
+    "name": "Salvador",
+    "until": null
+   }
+  ],
+  "lat": -12.97,
+  "lon": -38.5,
+  "rank": 2,
+  "from": 1549,
+  "to": null
+ },
+ {
+  "id": "buenos-aires",
+  "names": [
+   {
+    "name": "Buenos Aires",
+    "until": null
+   }
+  ],
+  "lat": -34.6,
+  "lon": -58.38,
+  "rank": 1,
+  "from": 1580,
+  "to": null
+ },
+ {
+  "id": "santo-domingo",
+  "names": [
+   {
+    "name": "Santo Domingo",
+    "until": null
+   }
+  ],
+  "lat": 18.47,
+  "lon": -69.89,
+  "rank": 2,
+  "from": 1496,
+  "to": null
+ },
+ {
+  "id": "bogota",
+  "names": [
+   {
+    "name": "Santafé de Bogotá",
+    "until": 1819
+   },
+   {
+    "name": "Bogotá",
+    "until": null
+   }
+  ],
+  "lat": 4.71,
+  "lon": -74.07,
+  "rank": 2,
+  "from": 1538,
+  "to": null
  }
 ]

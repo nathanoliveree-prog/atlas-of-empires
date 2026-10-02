@@ -1,5 +1,5 @@
 // Validates src/data before every build so a typo can't ship a broken site.
-import { readFileSync } from 'node:fs'
+import { readFileSync, readdirSync } from "node:fs"
 
 const polities = JSON.parse(readFileSync(new URL('../src/data/polities.json', import.meta.url)))
 const events = JSON.parse(readFileSync(new URL('../src/data/events.json', import.meta.url)))
@@ -7,7 +7,7 @@ const rulers = JSON.parse(readFileSync(new URL('../src/data/rulers.json', import
 const cities = JSON.parse(readFileSync(new URL('../src/data/cities.json', import.meta.url)))
 const REGIONS = ['europe', 'mideast', 'africa', 'steppe', 'southasia', 'eastasia', 'americas']
 const errors = []
-const KINDS = ['primary', 'archaeology', 'scholarship']
+const KINDS = ['eyewitness', 'primary', 'archaeology', 'scholarship']
 const TYPES = ['battle', 'founding', 'collapse', 'treaty', 'milestone']
 const ids = new Set()
 
@@ -67,8 +67,24 @@ for (const c of cities) {
   if (!Array.isArray(c.names) || !c.names.length || c.names.some((n) => !n.name)) errors.push(`${w}: needs at least one name`)
 }
 
+// Overlays: dated outlines in public/data/overlays
+const ovDir = new URL('../public/data/overlays/', import.meta.url)
+const ovIndex = JSON.parse(readFileSync(new URL('index.json', ovDir)))
+let ovCount = 0
+for (const g of ovIndex) {
+  const fc = JSON.parse(readFileSync(new URL(g.file, ovDir)))
+  for (const f of fc.features) {
+    ovCount++
+    const pr = f.properties || {}
+    const w = `overlay "${pr.name}" in ${g.file}`
+    if (typeof pr.start !== 'number' || typeof pr.end !== 'number' || pr.start > pr.end) errors.push(`${w}: needs numeric start <= end`)
+    if (!['area', 'claim', 'lines', 'roads'].includes(pr.kind)) errors.push(`${w}: "kind" must be area, claim, lines or roads`)
+    if (pr.polity && !ids.has(pr.polity)) errors.push(`${w}: unknown polity id "${pr.polity}"`)
+  }
+}
+
 if (errors.length) {
   console.error(`Data check failed with ${errors.length} problem(s):\n- ` + errors.join('\n- '))
   process.exit(1)
 }
-console.log(`Data OK: ${polities.length} profiles, ${events.length} events, ${Object.values(rulers).reduce((n, r) => n + r.list.length, 0)} rulers, ${cities.length} cities.`)
+console.log(`Data OK: ${polities.length} profiles, ${events.length} events, ${Object.values(rulers).reduce((n, r) => n + r.list.length, 0)} rulers, ${cities.length} cities, ${ovCount} overlay shapes.`)

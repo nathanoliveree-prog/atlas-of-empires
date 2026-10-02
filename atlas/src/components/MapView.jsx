@@ -3,7 +3,7 @@ import { select } from 'd3-selection'
 import { zoom, zoomIdentity } from 'd3-zoom'
 import 'd3-transition'
 import { MapEngine } from '../lib/mapEngine.js'
-import { loadBase, loadFineLand, loadSnapshot } from '../lib/borders.js'
+import { loadBase, loadFineLand, loadOverlayGroup, loadOverlayIndex, loadSnapshot } from '../lib/borders.js'
 import { citiesAt } from '../lib/polities.js'
 import { bracket, formatYear } from '../lib/time.js'
 
@@ -25,6 +25,7 @@ export default function MapView({ year, snapshots, index, events, cities, halfWi
     const engine = new MapEngine(canvas, {
       colorFor: index.colorFor,
       resolvePolity: (name, y) => index.forName(name, y, 500, 200),
+      colorOf: (id) => index.byId.get(id)?.color,
     })
     engineRef.current = engine
     let fineRequested = false
@@ -96,6 +97,41 @@ export default function MapView({ year, snapshots, index, events, cities, halfWi
     engine.setEvents(list)
   }, [year, halfWin, events, selection])
 
+  // Dated overlays: fade in and out around their date range (precise datasets switch exactly).
+  const [ovGroups, setOvGroups] = useState([])
+  const [ovLoaded, setOvLoaded] = useState(0)
+  useEffect(() => { loadOverlayIndex().then(setOvGroups) }, [])
+  useEffect(() => {
+    const engine = engineRef.current
+    if (!engine) return
+    let cancelled = false
+    const active = ovGroups.filter((g) => year >= g.start - 20 && year <= g.end + 20)
+    const pending = []
+    const list = []
+    for (const g of active) {
+      const p = loadOverlayGroup(g)
+      pending.push(p)
+      p.then((feats) => { feats._ready = true }).catch(() => {})
+    }
+    Promise.allSettled(pending).then((res) => {
+      if (cancelled) return
+      for (const r of res) {
+        if (r.status !== 'fulfilled') continue
+        for (const f of r.value) {
+          const { start, end, group } = f.properties
+          const fade = group === 'us' ? 0 : Math.min(15, Math.max(0.5, (end - start) * 0.08))
+          let alpha = 0
+          if (year >= start && year <= end + (group === 'us' ? 0.999 : 0)) alpha = 1
+          else if (fade > 0 && year < start && start - year < fade) alpha = 1 - (start - year) / fade
+          else if (fade > 0 && year > end && year - end < fade) alpha = 1 - (year - end) / fade
+          if (alpha > 0.02) list.push({ f, alpha })
+        }
+      }
+      engine.setOverlays(list)
+    })
+    return () => { cancelled = true }
+  }, [year, ovGroups, ovLoaded])
+
   // Cities existing in this year, under the name they had then.
   const cityKey = Math.round(year)
   useEffect(() => {
@@ -159,6 +195,10 @@ export default function MapView({ year, snapshots, index, events, cities, halfWi
       return ev && { title: ev.title, sub: formatYear(ev.year, ev.approx) }
     }
     if (hit.kind === 'site') return { title: hit.site.name, sub: 'Archaeological or historic site' }
+    if (hit.kind === 'overlay') {
+      const pr = hit.f.properties
+      return { title: pr.name, sub: pr.sub || (pr.precision === 1 ? 'Approximate outline' : 'Detailed outline') }
+    }
     if (hit.kind === 'city') {
       const others = [...new Set(hit.city.names.map((n) => n.name))].filter((n) => n !== hit.city.label)
       return { title: hit.city.label, sub: others.length ? `Also known as ${others.join(', ')}` : 'City' }

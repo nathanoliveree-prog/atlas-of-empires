@@ -26,26 +26,32 @@ export function tToYear(t) {
 
 export const AXIS_TICKS = [-4000, -3000, -2000, -1000, -500, 1, 500, 1000, 1250, 1500, 1650, 1800, 1900, 2000]
 
-// There is no year 0: 1 BCE is followed by 1 CE.
+// There is no year 0: 1 BC is followed by AD 1.
 export function roundYear(y) {
   let r = Math.round(y)
   if (r === 0) r = y < 0 ? -1 : 1
   return r
 }
 
+// Dates use BC and AD in the traditional style: "1274 BC", "AD 476".
 export function yearParts(y) {
   const r = roundYear(y)
-  return r < 0 ? { num: String(-r), era: 'BCE' } : { num: String(r), era: 'CE' }
+  return r < 0 ? { num: String(-r), era: 'BC', eraFirst: false } : { num: String(r), era: 'AD', eraFirst: true }
 }
 
 export function formatYear(y, approx = false) {
-  const { num, era } = yearParts(y)
-  return `${approx ? 'c. ' : ''}${num} ${era}`
+  const r = roundYear(y)
+  const core = r < 0 ? `${-r} BC` : `AD ${r}`
+  return approx ? `c. ${core}` : core
 }
 
 export function formatRange(a, b) {
+  const ra = roundYear(a), rb = roundYear(b)
   if (b >= MAX_YEAR) return `${formatYear(a)} – present`
-  return `${formatYear(a)} – ${formatYear(b)}`
+  if (ra === rb) return formatYear(a)
+  if (ra < 0 && rb < 0) return `${-ra}–${-rb} BC`
+  if (ra > 0 && rb > 0) return `AD ${ra}–${rb}`
+  return `${-ra} BC – AD ${rb}`
 }
 
 // Which two border snapshots bracket a year, and how far between them we are.

@@ -45,6 +45,13 @@ export class MapEngine {
     this.bp = null
     this.cities = []
     this.cityHits = []
+    this.overlays = []
+    this.ovPrep = new Map()
+    this.hidden = new Set()
+    this.hiddenKey = ''
+    this.ovKey = ''
+    this.keyOv = ''
+    this.offOv = document.createElement('canvas')
     this.t = { k: 1, x: 0, y: 0 }
     this.w = this.h = 0
     this.dpr = 1
@@ -75,7 +82,7 @@ export class MapEngine {
     const [[sx0, sy0], [sx1, sy1]] = this.path.bounds({ type: 'Sphere' })
     this.extent = [[Math.min(0, sx0 - 14), Math.min(0, sy0 - 14)], [Math.max(w, sx1 + 14), Math.max(h, sy1 + 14)]]
     this.graticule = new Path2D(this.path(geoGraticule10()))
-    for (const c of [this.canvas, this.offA, this.offB, this.offUnder, this.offOver]) {
+    for (const c of [this.canvas, this.offA, this.offB, this.offUnder, this.offOver, this.offOv]) {
       c.width = Math.round(w * dpr); c.height = Math.round(h * dpr)
     }
     this.canvas.style.width = w + 'px'; this.canvas.style.height = h + 'px'
@@ -84,14 +91,105 @@ export class MapEngine {
     if (this.layerB) this.layerB = this.getPrepared(this.layerB.year)
     this.hover = null
     this.bp = null
-    this.keyA = this.keyB = this.keyUnder = this.keyOver = ''
+    this.ovPrep = new Map()
+    this.keyA = this.keyB = this.keyUnder = this.keyOver = this.keyOv = ''
     this.request()
   }
 
   setBase(base) { this.base = base; this.bp = null; this.invalidate() }
   setFineLand(features) { this.fineLand = features; if (this.bp) this.bp.land10 = null; this.invalidate() }
   setCities(list) { this.cities = list; this.request() }
-  invalidate() { this.keyA = this.keyB = this.keyUnder = this.keyOver = ''; this.request() }
+  invalidate() { this.keyA = this.keyB = this.keyUnder = this.keyOver = this.keyOv = ''; this.request() }
+
+  // list: [{ f: GeoJSON feature, alpha }]
+  setOverlays(list) {
+    const key = list.map((o) => `${o.f.properties.id || o.f.properties.name}@${o.f.properties.start}:${o.alpha.toFixed(2)}`).join('|')
+    if (key === this.ovKey) return
+    this.ovKey = key
+    this.overlays = list
+    const hidden = new Set(list.filter((o) => o.f.properties.kind === 'area' && o.alpha >= 0.5 && o.f.properties.polity).map((o) => o.f.properties.polity))
+    this.hidden = hidden
+    this.hiddenKey = [...hidden].sort().join(',')
+    this.request()
+  }
+
+  ovPrepared(f) {
+    let p = this.ovPrep.get(f)
+    if (!p && this.path) {
+      const d = this.path(f)
+      if (!d) return null
+      const g = f.geometry
+      let label = null, area = 0
+      if (f.properties.kind === 'area' && (g.type === 'Polygon' || g.type === 'MultiPolygon')) {
+        const polys = g.type === 'MultiPolygon' ? g.coordinates.map((c) => ({ type: 'Polygon', coordinates: c })) : [g]
+        for (const poly of polys) { const a = this.path.area(poly); if (a > area) { area = a; label = this.path.centroid(poly) } }
+      }
+      p = { path: new Path2D(d), bounds: this.path.bounds(f), label: label && Number.isFinite(label[0]) ? label : null, area }
+      this.ovPrep.set(f, p)
+    }
+    return p
+  }
+
+  renderOverlays(off) {
+    const c = off.getContext('2d'), d = this.dpr, { k, x, y } = this.t
+    c.setTransform(1, 0, 0, 1, 0, 0)
+    c.clearRect(0, 0, off.width, off.height)
+    if (!this.overlays.length) return
+    c.setTransform(d * k, 0, 0, d * k, d * x, d * y)
+    c.lineJoin = 'round'; c.lineCap = 'round'
+    const { colorOf } = this.opts
+    // Areas first, then their borders, then lines and roads on top.
+    for (const o of this.overlays) {
+      const pr = o.f.properties
+      if (pr.kind !== 'area') continue
+      const p = this.ovPrepared(o.f)
+      if (!p || !this.onScreen(p.bounds)) continue
+      c.globalAlpha = o.alpha
+      c.fillStyle = pr.color || colorOf(pr.polity) || '#888'
+      c.fill(p.path)
+    }
+    c.globalAlpha = 1
+    c.strokeStyle = 'rgba(8,19,32,0.95)'
+    c.lineWidth = 0.8 / k
+    for (const o of this.overlays) {
+      if (o.f.properties.kind !== 'area') continue
+      const p = this.ovPrepared(o.f)
+      if (p && this.onScreen(p.bounds)) { c.globalAlpha = o.alpha; c.stroke(p.path) }
+    }
+    for (const o of this.overlays) {
+      const pr = o.f.properties
+      if (pr.kind !== 'lines' && pr.kind !== 'roads') continue
+      if (pr.kind === 'roads' && (k < 2 || (!pr.major && k < 3.5))) continue
+      const p = this.ovPrepared(o.f)
+      if (!p || !this.onScreen(p.bounds)) continue
+      c.globalAlpha = o.alpha * (pr.kind === 'roads' ? 0.75 : 0.9)
+      if (pr.kind === 'roads') { c.strokeStyle = '#D9C28A'; c.lineWidth = (pr.major ? 1.1 : 0.7) / k; c.setLineDash([]) }
+      else { c.strokeStyle = 'rgba(20,12,8,0.75)'; c.lineWidth = 0.9 / k; c.setLineDash([3 / k, 2.5 / k]) }
+      c.stroke(p.path)
+    }
+    c.setLineDash([])
+    c.globalAlpha = 1
+    if (this.currentLand) {
+      c.globalCompositeOperation = 'destination-in'
+      c.fillStyle = '#000'
+      c.fill(this.currentLand)
+      c.globalCompositeOperation = 'source-over'
+    }
+    // Claimed extents are outlines only and may cross water.
+    for (const o of this.overlays) {
+      const pr = o.f.properties
+      if (pr.kind !== 'claim') continue
+      const p = this.ovPrepared(o.f)
+      if (!p || !this.onScreen(p.bounds)) continue
+      c.globalAlpha = o.alpha
+      c.strokeStyle = '#E2B04A'
+      c.lineWidth = 1.6 / k
+      c.setLineDash([6 / k, 4 / k])
+      c.stroke(p.path)
+    }
+    c.setLineDash([])
+    c.globalAlpha = 1
+  }
 
   basePrepared() {
     if (!this.base || !this.path) return null
@@ -252,10 +350,11 @@ export class MapEngine {
     for (const f of layer.feats) {
       const [[x0, y0], [x1, y1]] = f.bounds
       if (x1 < vx0 || x0 > vx1 || y1 < vy0 || y0 > vy1) continue
-      c.fillStyle = f.color
+      const hide = f.polity && this.hidden.has(f.polity.id)
+      c.fillStyle = hide ? LAND_BASE : f.color
       c.fill(f.path)
-      if (!f.name) { c.strokeStyle = f.color; c.stroke(f.path) } // hide seams between unnamed land shards
-      visible.push(f)
+      if (!f.name || hide) { c.strokeStyle = hide ? LAND_BASE : f.color; c.stroke(f.path) } // hide seams
+      if (!hide) visible.push(f)
     }
     c.lineWidth = 0.6 / k
     c.strokeStyle = BORDER
@@ -275,11 +374,13 @@ export class MapEngine {
     const c = this.ctx, d = this.dpr, { k, x, y } = this.t
     const tKey = `${k.toFixed(4)},${x.toFixed(1)},${y.toFixed(1)},${this.w},${this.h},${this.bp ? 1 : 0}${this.bp?.land10 ? 1 : 0}`
     if (this.keyUnder !== tKey) { this.renderUnder(this.offUnder); this.keyUnder = tKey; this.keyA = this.keyB = '' }
-    const kA = this.layerA ? `${this.layerA.year}|${tKey}` : ''
-    const kB = this.layerB ? `${this.layerB.year}|${tKey}` : ''
+    const kA = this.layerA ? `${this.layerA.year}|${tKey}|${this.hiddenKey}` : ''
+    const kB = this.layerB ? `${this.layerB.year}|${tKey}|${this.hiddenKey}` : ''
     if (kA !== this.keyA) { this.renderLayer(this.offA, this.layerA); this.keyA = kA }
     if (kB !== this.keyB) { this.renderLayer(this.offB, this.layerB); this.keyB = kB }
     if (this.keyOver !== tKey) { this.renderOver(this.offOver); this.keyOver = tKey }
+    const kOv = `${tKey}|${this.ovKey}`
+    if (this.keyOv !== kOv) { this.renderOverlays(this.offOv); this.keyOv = kOv }
 
     c.setTransform(1, 0, 0, 1, 0, 0)
     c.clearRect(0, 0, this.canvas.width, this.canvas.height)
@@ -287,6 +388,7 @@ export class MapEngine {
     if (this.layerA) { c.globalAlpha = 1; c.drawImage(this.offA, 0, 0) }
     if (this.layerB && this.f > 0) { c.globalAlpha = this.f; c.drawImage(this.offB, 0, 0) }
     c.globalAlpha = 1
+    c.drawImage(this.offOv, 0, 0)
     c.drawImage(this.offOver, 0, 0)
 
     c.setTransform(d * k, 0, 0, d * k, d * x, d * y)
@@ -301,7 +403,16 @@ export class MapEngine {
       c.fillStyle = 'rgba(226,176,74,0.16)'
       c.strokeStyle = GOLD
       c.lineWidth = 1.8 / k
-      for (const f of dom.feats) if (f.polity && f.polity.id === this.selectedPolityId) { c.fill(f.path); c.stroke(f.path) }
+      for (const f of dom.feats) if (f.polity && f.polity.id === this.selectedPolityId && !this.hidden.has(f.polity.id)) { c.fill(f.path); c.stroke(f.path) }
+      for (const o of this.overlays) {
+        if (o.f.properties.kind !== 'area' || o.f.properties.polity !== this.selectedPolityId || o.alpha < 0.5) continue
+        const p = this.ovPrepared(o.f)
+        if (p) { c.fill(p.path); c.stroke(p.path) }
+      }
+    }
+    if (this.hover?.kind === 'overlay') {
+      const p = this.ovPrepared(this.hover.f)
+      if (p) { c.strokeStyle = 'rgba(242,236,221,0.95)'; c.lineWidth = 1.4 / k; c.stroke(p.path) }
     }
     if (dom && this.hover?.kind === 'region' && this.hover.layerYear === dom.year) {
       c.strokeStyle = 'rgba(242,236,221,0.9)'
@@ -331,23 +442,33 @@ export class MapEngine {
     c.textBaseline = 'middle'
     c.lineJoin = 'round'
     let n = 0
-    for (const f of dom.labels) {
+    const ovLabels = []
+    for (const o of this.overlays) {
+      if (o.f.properties.kind !== 'area' || o.alpha < 0.5) continue
+      const p = this.ovPrepared(o.f)
+      if (p?.label) ovLabels.push({ name: o.f.properties.name, abbr: o.f.properties.abbr, label: p.label, area: p.area, generic: false, overlay: true })
+    }
+    ovLabels.sort((a, b) => b.area - a.area)
+    const all = [...ovLabels, ...dom.labels.filter((f) => !(f.polity && this.hidden.has(f.polity.id)))]
+    for (const f of all) {
       const sa = f.area * k * k
-      if (sa < 1300) break
+      if (sa < 1300) { if (f.overlay) continue; break }
       const sx = f.label[0] * k + x, sy = f.label[1] * k + y
       if (sx < -60 || sx > this.w + 60 || sy < -20 || sy > this.h + 20) continue
       const size = Math.max(10.5, Math.min(19, Math.sqrt(sa) / 10))
       c.font = f.generic ? `italic 400 ${size}px Alegreya, Georgia, serif` : `500 ${size}px Alegreya, Georgia, serif`
-      const tw = c.measureText(f.name).width
+      let text = f.name
+      let tw = c.measureText(text).width
+      if (tw > Math.sqrt(sa) * 2.6 && f.abbr) { text = f.abbr; tw = c.measureText(text).width }
       if (tw > Math.sqrt(sa) * 2.6) continue
       const r = [sx - tw / 2 - 3, sy - size / 2 - 2, sx + tw / 2 + 3, sy + size / 2 + 2]
       if (placed.some((p) => !(r[2] < p[0] || r[0] > p[2] || r[3] < p[1] || r[1] > p[3]))) continue
       placed.push(r)
       c.lineWidth = 3
       c.strokeStyle = HALO
-      c.strokeText(f.name, sx, sy)
+      c.strokeText(text, sx, sy)
       c.fillStyle = f.generic ? 'rgba(222,215,197,0.6)' : 'rgba(246,240,226,0.96)'
-      c.fillText(f.name, sx, sy)
+      c.fillText(text, sx, sy)
       if (++n > 80) break
     }
     return placed
@@ -465,11 +586,23 @@ export class MapEngine {
     const { k, x, y } = this.t
     const bx = (px - x) / k, by = (py - y) / k
     if (!this.hitCtx.isPointInPath(this.sphere, bx, by)) return null
+    for (let i = this.overlays.length - 1; i >= 0; i--) {
+      const o = this.overlays[i]
+      if (o.f.properties.kind !== 'area' || o.alpha < 0.5) continue
+      const p = this.ovPrepared(o.f)
+      if (!p) continue
+      const [[x0, y0], [x1, y1]] = p.bounds
+      if (bx < x0 || bx > x1 || by < y0 || by > y1) continue
+      if (this.hitCtx.isPointInPath(p.path, bx, by)) return { kind: 'overlay', f: o.f, id: o.f.properties.id || `${o.f.properties.name}-${o.f.properties.start}` }
+    }
     for (let i = dom.feats.length - 1; i >= 0; i--) {
       const f = dom.feats[i]
       const [[x0, y0], [x1, y1]] = f.bounds
       if (bx < x0 || bx > x1 || by < y0 || by > y1) continue
-      if (this.hitCtx.isPointInPath(f.path, bx, by)) return { kind: 'region', feature: f, layerYear: dom.year }
+      if (this.hitCtx.isPointInPath(f.path, bx, by)) {
+        if (f.polity && this.hidden.has(f.polity.id)) continue
+        return { kind: 'region', feature: f, layerYear: dom.year }
+      }
     }
     return null
   }
@@ -496,10 +629,15 @@ export class MapEngine {
       b = b ? [[Math.min(b[0][0], x0), Math.min(b[0][1], y0)], [Math.max(b[1][0], x1), Math.max(b[1][1], y1)]] : [[x0, y0], [x1, y1]]
     }
     if (layer) for (const f of layer.feats) {
-      if (f.polity && f.polity.id === polity.id) {
+      if (f.polity && f.polity.id === polity.id && !this.hidden.has(polity.id)) {
         const [[x0, y0], [x1, y1]] = f.bounds
         if (x1 - x0 < this.w * 0.9) grow(x0, y0, x1, y1) // skip antimeridian-wrapped shapes
       }
+    }
+    for (const o of this.overlays) {
+      if (o.f.properties.polity !== polity.id || o.f.properties.kind !== 'area') continue
+      const p = this.ovPrepared(o.f)
+      if (p) { const [[x0, y0], [x1, y1]] = p.bounds; if (x1 - x0 < this.w * 0.9) grow(x0, y0, x1, y1) }
     }
     if (!b) for (const s of polity.sites || []) {
       const p = this.projection([s.lon, s.lat])

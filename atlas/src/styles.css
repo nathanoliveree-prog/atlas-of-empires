@@ -493,3 +493,4 @@ button { font: inherit; color: inherit; }
   .timeline-tools select { max-width: 150px; }
   .year-ruler { font-size: 15px; }
 }
+.source-key { margin-top: 12px; font-size: 13px; }

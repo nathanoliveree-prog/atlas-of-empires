@@ -149,6 +149,7 @@ export default function App() {
     if (hit.kind === 'event') return selectEvent(hit.id)
     if (hit.kind === 'site') return requestFocus({ kind: 'point', lon: hit.site.lon, lat: hit.site.lat, minK: 4 })
     if (hit.kind === 'city') { setSelection({ kind: 'city', id: hit.city.id }); return }
+    if (hit.kind === 'overlay') { setSelection({ kind: 'overlay', id: hit.id, props: hit.f.properties }); return }
     const f = hit.feature
     if (!f.name) { setSelection(null); return }
     const p = index.forName(f.name, roundYear(yearRef.current))
@@ -215,7 +216,7 @@ export default function App() {
   }
   const cycleSpeed = () => setSpeed((s) => SPEEDS[(SPEEDS.indexOf(s) + 1) % SPEEDS.length])
 
-  const { num, era } = yearParts(year)
+  const { num, era, eraFirst } = yearParts(year)
   const br = snapshots ? bracket(year, snapshots) : null
   const snapNote = !br ? '' : br.a === br.b || br.f === 0
     ? `Border snapshot: ${formatYear(br.a)}`
@@ -223,6 +224,7 @@ export default function App() {
 
   // The reigning ruler of the selected empire (or of an event's main party), shown under the year.
   const rulerPolity = selection?.kind === 'polity' ? selection.id
+    : selection?.kind === 'overlay' && rulers[selection.props.polity] ? selection.props.polity
     : selection?.kind === 'event' ? sortedEvents.find((e) => e.id === selection.id)?.polities?.find((id) => rulers[id]) : null
   const reigning = rulerPolity ? rulersAt(rulers, rulerPolity, year) : []
 
@@ -260,8 +262,9 @@ export default function App() {
 
           <div className="year-display">
             <div className="year-big">
+              {eraFirst && <span className="year-era">{era}</span>}
               <span className="year-num">{num}</span>
-              <span className="year-era">{era}</span>
+              {!eraFirst && <span className="year-era">{era}</span>}
             </div>
             {reigning.length > 0 && (
               <div className="year-ruler">

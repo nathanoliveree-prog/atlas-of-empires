@@ -54,3 +54,23 @@ function loadTopo(name) {
 export const loadBase = () => Promise.all(['land-50m', 'rivers', 'lakes'].map(loadTopo))
   .then(([land, rivers, lakes]) => ({ land, rivers, lakes }))
 export const loadFineLand = () => loadTopo('land-10m')
+
+// Detailed overlays (dated outlines from scholarly atlases), loaded per group when the year needs them.
+let overlayIndex = null
+const overlayCache = new Map()
+export function loadOverlayIndex() {
+  if (!overlayIndex) {
+    overlayIndex = fetch('/data/overlays/index.json').then((r) => (r.ok ? r.json() : [])).catch(() => [])
+  }
+  return overlayIndex
+}
+export function loadOverlayGroup(g) {
+  if (!overlayCache.has(g.id)) {
+    const p = fetch(`/data/overlays/${g.file}`)
+      .then((r) => { if (!r.ok) throw new Error(`Overlay ${g.id} failed to load (HTTP ${r.status}).`); return r.json() })
+      .then((fc) => fc.features.map((f) => { fixWinding(f); f.properties.group = f.properties.group || g.id; return f }))
+    p.catch(() => overlayCache.delete(g.id))
+    overlayCache.set(g.id, p)
+  }
+  return overlayCache.get(g.id)
+}

@@ -1,0 +1,6290 @@
+[
+ {
+  "id": "sumer",
+  "name": "Sumerian city-states",
+  "start": -3500,
+  "end": -2004,
+  "peak": -2100,
+  "color": "#8FB27F",
+  "match": [
+   "Ur"
+  ],
+  "capital": "Uruk, Ur, Lagash, Kish and others (no single capital)",
+  "summary": "A patchwork of rival city-states in southern Mesopotamia that produced the earliest known writing, monumental temples and law codes. The Third Dynasty of Ur (c. 2112–2004 BCE) briefly unified the region before falling to Elam.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Sumerian King List (Weld-Blundell Prism, Ashmolean Museum AN1923.444)",
+    "note": "Lists kings and cities; early reigns are legendary."
+   },
+   {
+    "kind": "primary",
+    "cite": "Lament for Ur (Old Babylonian copies)",
+    "note": "Literary account of Ur's destruction c. 2004 BCE."
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Royal Cemetery of Ur, excavated by C. L. Woolley 1922–1934"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Proto-cuneiform tablets from the Eanna precinct, Uruk (German excavations from 1912)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Uruk (Warka)",
+    "lat": 31.32,
+    "lon": 45.64
+   },
+   {
+    "name": "Ur (Tell el-Muqayyar)",
+    "lat": 30.96,
+    "lon": 46.1
+   }
+  ],
+  "regions": [
+   "mideast"
+  ]
+ },
+ {
+  "id": "akkad",
+  "name": "Akkadian Empire",
+  "start": -2334,
+  "end": -2154,
+  "peak": -2250,
+  "color": "#4FA3A0",
+  "match": [],
+  "capital": "Akkad (location still unidentified)",
+  "summary": "Founded by Sargon of Akkad, often called the first empire: a single dynasty ruling Sumer and northern Mesopotamia and campaigning to the Mediterranean. Dates follow the conventional middle chronology and carry uncertainty of decades.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Royal inscriptions of Sargon and Naram-Sin, Old Babylonian copies from Nippur (ed. Frayne, RIME 2)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Bassetki Statue of Naram-Sin, found 1974 near Duhok, Iraq"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Bassetki",
+    "lat": 36.87,
+    "lon": 42.94
+   }
+  ],
+  "regions": [
+   "mideast"
+  ]
+ },
+ {
+  "id": "egypt",
+  "name": "Ancient Egypt",
+  "start": -3100,
+  "end": -30,
+  "peak": -1450,
+  "color": "#C9A55A",
+  "match": [
+   "Egypt"
+  ],
+  "capital": "Memphis, Thebes, Amarna, Tanis and others over time",
+  "summary": "Unified under the first pharaohs around 3100 BCE, Egypt endured through Old, Middle and New Kingdoms, foreign dynasties and Ptolemaic Greek rule until Rome annexed it in 30 BCE. The New Kingdom under Thutmose III was its widest extent.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Narmer Palette, Hierakonpolis (Egyptian Museum, Cairo JE 32169)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Palermo Stone (Old Kingdom annals)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Manetho, Aegyptiaca (3rd c. BCE; fragments via Josephus, Africanus, Eusebius)",
+    "note": "Source of the dynasty numbering still used today."
+   },
+   {
+    "kind": "primary",
+    "cite": "Amarna letters (EA 1–382), found 1887"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Wadi al-Jarf papyri ('Diary of Merer'), found 2013"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Hierakonpolis",
+    "lat": 25.1,
+    "lon": 32.78
+   },
+   {
+    "name": "Giza",
+    "lat": 29.98,
+    "lon": 31.13
+   },
+   {
+    "name": "Thebes (Karnak)",
+    "lat": 25.72,
+    "lon": 32.66
+   },
+   {
+    "name": "Amarna",
+    "lat": 27.65,
+    "lon": 30.9
+   }
+  ],
+  "regions": [
+   "mideast",
+   "africa"
+  ]
+ },
+ {
+  "id": "elam",
+  "name": "Elam",
+  "start": -3200,
+  "end": -539,
+  "peak": -1200,
+  "color": "#7E5A8F",
+  "match": [
+   "Elam"
+  ],
+  "capital": "Susa, Anshan",
+  "summary": "A long-lived civilization of south-western Iran, perennial rival of the Mesopotamian powers. Elam toppled Ur in 2004 BCE and was itself crushed by Ashurbanipal of Assyria around 646 BCE before being absorbed into Persia.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Annals of Ashurbanipal (Rassam Cylinder, BM 91026)",
+    "note": "Describes the sack of Susa."
+   },
+   {
+    "kind": "archaeology",
+    "cite": "French excavations at Susa from 1884 (Dieulafoy, de Morgan)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Chogha Zanbil ziggurat, 13th c. BCE"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Susa",
+    "lat": 32.19,
+    "lon": 48.26
+   },
+   {
+    "name": "Chogha Zanbil",
+    "lat": 32.01,
+    "lon": 48.52
+   }
+  ],
+  "regions": [
+   "mideast"
+  ]
+ },
+ {
+  "id": "indus",
+  "name": "Indus Valley Civilization",
+  "start": -3300,
+  "end": -1300,
+  "peak": -2500,
+  "color": "#5BAA8A",
+  "match": [
+   "Indus valley civilization"
+  ],
+  "capital": "No known capital; major cities include Mohenjo-daro and Harappa",
+  "summary": "One of the three earliest urban civilizations, with planned grid cities, drainage and standardized weights across a territory larger than Egypt or Mesopotamia. Its script remains undeciphered, so its history is known only from archaeology.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "J. Marshall, Mohenjo-daro and the Indus Civilization (1931)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Harappa excavations, M. S. Vats (1920s–30s); Harappa Archaeological Research Project (from 1986)"
+   },
+   {
+    "kind": "scholarship",
+    "cite": "Indus seals and script (c. 4,000 inscriptions), undeciphered"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Mohenjo-daro",
+    "lat": 27.33,
+    "lon": 68.14
+   },
+   {
+    "name": "Harappa",
+    "lat": 30.63,
+    "lon": 72.86
+   },
+   {
+    "name": "Dholavira",
+    "lat": 23.89,
+    "lon": 70.21
+   }
+  ],
+  "regions": [
+   "southasia"
+  ]
+ },
+ {
+  "id": "minoan",
+  "name": "Minoan Crete",
+  "start": -3100,
+  "end": -1100,
+  "peak": -1700,
+  "color": "#7FA4D6",
+  "match": [
+   "Minoan"
+  ],
+  "capital": "Knossos (largest palace)",
+  "summary": "A Bronze Age palace civilization on Crete with far-reaching sea trade. After about 1450 BCE Mycenaean Greeks took over Knossos, writing in Linear B instead of the undeciphered Minoan Linear A.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Knossos excavations by Arthur Evans, from 1900"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Akrotiri (Thera), excavated by S. Marinatos from 1967"
+   },
+   {
+    "kind": "scholarship",
+    "cite": "Linear A tablets, undeciphered"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Knossos",
+    "lat": 35.3,
+    "lon": 25.16
+   },
+   {
+    "name": "Akrotiri",
+    "lat": 36.35,
+    "lon": 25.4
+   }
+  ],
+  "regions": [
+   "europe"
+  ]
+ },
+ {
+  "id": "hittites",
+  "name": "Hittite Kingdom",
+  "start": -1650,
+  "end": -1180,
+  "peak": -1300,
+  "color": "#8E9A4A",
+  "match": [
+   "Hittites"
+  ],
+  "capital": "Hattusa",
+  "summary": "An Anatolian great power that sacked Babylon, fought Egypt at Kadesh and signed the earliest surviving peace treaty. The kingdom collapsed around 1180 BCE; the later 'Hittites' on maps are Neo-Hittite city-states in Syria and southern Anatolia.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Boğazköy (Hattusa) tablet archives, c. 30,000 fragments; language deciphered by B. Hrozný in 1915"
+   },
+   {
+    "kind": "primary",
+    "cite": "Proclamation of Telipinu (CTH 19)",
+    "note": "Narrates the early kings and the sack of Babylon."
+   },
+   {
+    "kind": "primary",
+    "cite": "Treaty of Kadesh, Hittite version (Istanbul Archaeology Museums)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "German excavations at Hattusa from 1906 (Winckler; later Bittel, Neve, Seeher, Schachner)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Hattusa (Boğazkale)",
+    "lat": 40.02,
+    "lon": 34.62
+   },
+   {
+    "name": "Yazılıkaya",
+    "lat": 40.03,
+    "lon": 34.64
+   }
+  ],
+  "regions": [
+   "mideast"
+  ]
+ },
+ {
+  "id": "troy",
+  "name": "Troy (Wilusa)",
+  "start": -3000,
+  "end": -1180,
+  "peak": -1300,
+  "color": "#B9A06A",
+  "match": [],
+  "capital": "Troy (Hisarlık)",
+  "summary": "A fortified city at the mouth of the Dardanelles occupied in successive layers (Troy I–IX). It was probably the Wilusa of Hittite texts, a vassal kingdom. Layer VIIa burned around 1180 BCE; whether that matches Homer's Trojan War is still debated.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Alaksandu Treaty between Muwatalli II and Alaksandu of Wilusa (CTH 76), c. 1280 BCE"
+   },
+   {
+    "kind": "primary",
+    "cite": "Homer, Iliad (composed c. 8th c. BCE)",
+    "note": "Epic poetry, not a chronicle."
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Excavations by Schliemann (1870s), Blegen (1932–38), Korfmann (1988–2005)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Troy (Hisarlık)",
+    "lat": 39.96,
+    "lon": 26.24
+   }
+  ],
+  "regions": [
+   "mideast",
+   "europe"
+  ]
+ },
+ {
+  "id": "greeks",
+  "name": "Greek world",
+  "start": -1600,
+  "end": -146,
+  "peak": -450,
+  "color": "#4A6FB5",
+  "match": [
+   "Greek city-states",
+   "Greek colonies",
+   "Macedon and Hellenic League"
+  ],
+  "capital": "Many city-states: Mycenae, Athens, Sparta, Corinth, Thebes",
+  "summary": "From the Mycenaean palace kingdoms through the city-states of the classical age, Greek speakers spread colonies from Spain to the Black Sea. Rome's destruction of Corinth in 146 BCE ended Greek independence.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Linear B tablets from Pylos and Knossos (deciphered by M. Ventris, 1952)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Herodotus, Histories (c. 430 BCE)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Thucydides, History of the Peloponnesian War"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Mycenae, Grave Circle A (Schliemann 1876); Athenian Agora excavations (from 1931)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Mycenae",
+    "lat": 37.73,
+    "lon": 22.76
+   },
+   {
+    "name": "Athens",
+    "lat": 37.97,
+    "lon": 23.73
+   },
+   {
+    "name": "Sparta",
+    "lat": 37.07,
+    "lon": 22.43
+   },
+   {
+    "name": "Olympia",
+    "lat": 37.64,
+    "lon": 21.63
+   }
+  ],
+  "regions": [
+   "europe"
+  ]
+ },
+ {
+  "id": "assyria",
+  "name": "Assyria",
+  "start": -2025,
+  "end": -609,
+  "peak": -670,
+  "color": "#A2553A",
+  "match": [
+   "Assyria"
+  ],
+  "capital": "Assur, Kalhu (Nimrud), Dur-Sharrukin, Nineveh",
+  "summary": "A northern Mesopotamian state that became the first empire to rule from Egypt to Iran. Its Neo-Assyrian phase relied on mass deportation and royal propaganda carved in stone. Nineveh fell to Babylonians and Medes in 612 BCE.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Sennacherib's Annals, Taylor Prism (British Museum 91032)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Library of Ashurbanipal, Nineveh (found by Layard and Rassam, 1849–1854)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Babylonian Chronicle ABC 3, 'Fall of Nineveh' (BM 21901)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Lachish reliefs from Sennacherib's palace (British Museum)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Assur",
+    "lat": 35.46,
+    "lon": 43.26
+   },
+   {
+    "name": "Nineveh",
+    "lat": 36.36,
+    "lon": 43.15
+   },
+   {
+    "name": "Nimrud",
+    "lat": 36.1,
+    "lon": 43.33
+   }
+  ],
+  "regions": [
+   "mideast"
+  ]
+ },
+ {
+  "id": "babylonia",
+  "name": "Babylonia",
+  "start": -1894,
+  "end": -539,
+  "peak": -580,
+  "color": "#6A8AD0",
+  "match": [
+   "Babylonia"
+  ],
+  "capital": "Babylon",
+  "summary": "Hammurabi made Babylon the heart of southern Mesopotamia in the 18th century BCE. After centuries under Kassites and Assyrians, the Neo-Babylonian Empire of Nebuchadnezzar II dominated the Near East until Cyrus took the city in 539 BCE.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Code of Hammurabi stele (Louvre Sb 8), found at Susa in 1901"
+   },
+   {
+    "kind": "primary",
+    "cite": "Babylonian Chronicles (ABC 1–7)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Cyrus Cylinder (British Museum 90920)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Babylon excavations by R. Koldewey, 1899–1917 (Ishtar Gate, now Berlin)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Babylon",
+    "lat": 32.54,
+    "lon": 44.42
+   }
+  ],
+  "regions": [
+   "mideast"
+  ]
+ },
+ {
+  "id": "kush",
+  "name": "Kingdom of Kush",
+  "start": -1070,
+  "end": 350,
+  "peak": -700,
+  "color": "#9A6440",
+  "match": [
+   "Kush",
+   "Kushites",
+   "Meroe"
+  ],
+  "capital": "Napata, later Meroë",
+  "summary": "A Nubian kingdom on the middle Nile whose kings conquered Egypt and ruled it as the 25th Dynasty. Driven back south by Assyria, Kush flourished at Meroë, building more pyramids than Egypt, until its decline in the 4th century CE.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Victory Stela of Piye, Gebel Barkal (Egyptian Museum, Cairo JE 48862)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ezana Stone, Aksum",
+    "note": "Records an Aksumite campaign against Kush."
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Meroë pyramids; G. A. Reisner's excavations (1916–1923)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Gebel Barkal (Napata)",
+    "lat": 18.53,
+    "lon": 31.83
+   },
+   {
+    "name": "Meroë",
+    "lat": 16.94,
+    "lon": 33.75
+   }
+  ],
+  "regions": [
+   "africa"
+  ]
+ },
+ {
+  "id": "olmec",
+  "name": "Olmec",
+  "start": -1600,
+  "end": -400,
+  "peak": -1000,
+  "color": "#3F9A6E",
+  "match": [
+   "Olmec"
+  ],
+  "capital": "San Lorenzo, later La Venta",
+  "summary": "The earliest known major civilization of Mesoamerica, on the Gulf Coast of Mexico. It is known for its colossal basalt heads and for influences in art and ritual that later cultures inherited. It left no deciphered texts.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "La Venta excavations by M. Stirling (1940s) and P. Drucker"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "San Lorenzo Tenochtitlán, M. Coe (1966–68) and A. Cyphers (from 1990)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "San Lorenzo",
+    "lat": 17.75,
+    "lon": -94.76
+   },
+   {
+    "name": "La Venta",
+    "lat": 18.1,
+    "lon": -94.04
+   }
+  ],
+  "regions": [
+   "americas"
+  ]
+ },
+ {
+  "id": "shang",
+  "name": "Shang dynasty",
+  "start": -1600,
+  "end": -1046,
+  "peak": -1250,
+  "color": "#B36A3B",
+  "match": [
+   "Sinic"
+  ],
+  "capital": "Yin (Anyang) in its late phase",
+  "summary": "The first Chinese dynasty attested by its own writing. Oracle bones from Anyang record royal divinations and confirm the king list later given by Sima Qian. The Zhou overthrew it at the Battle of Muye.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Oracle bone inscriptions from Yinxu, Anyang (identified 1899)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Sima Qian, Shiji, ch. 3 'Basic Annals of Yin' (c. 94 BCE)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Tomb of Fu Hao, Yinxu (excavated 1976)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Yinxu (Anyang)",
+    "lat": 36.12,
+    "lon": 114.31
+   }
+  ],
+  "regions": [
+   "eastasia"
+  ]
+ },
+ {
+  "id": "zhou",
+  "name": "Zhou dynasty",
+  "start": -1046,
+  "end": -256,
+  "peak": -950,
+  "color": "#A0705A",
+  "match": [
+   "Zhoa",
+   "Zhou states"
+  ],
+  "capital": "Haojing, later Luoyi (Luoyang)",
+  "summary": "China's longest dynasty. The Western Zhou ruled through kin-based fiefs. After 771 BCE royal power faded and the Spring and Autumn and Warring States periods fragmented China until Qin extinguished the last Zhou king.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Li gui bronze inscription (found 1976, Lintong)",
+    "note": "Dates the conquest of Shang to a jiazi day."
+   },
+   {
+    "kind": "primary",
+    "cite": "Sima Qian, Shiji, ch. 4 'Basic Annals of Zhou'"
+   },
+   {
+    "kind": "primary",
+    "cite": "Chunqiu (Spring and Autumn Annals) with the Zuozhuan commentary"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Luoyang",
+    "lat": 34.62,
+    "lon": 112.45
+   }
+  ],
+  "regions": [
+   "eastasia"
+  ]
+ },
+ {
+  "id": "achaemenid",
+  "name": "Achaemenid Persian Empire",
+  "start": -550,
+  "end": -330,
+  "peak": -500,
+  "color": "#9A6BB5",
+  "match": [
+   "Achaemenid Empire"
+  ],
+  "capital": "Pasargadae, Persepolis, Susa, Babylon, Ecbatana",
+  "summary": "Built by Cyrus the Great and organized into satrapies by Darius I, the largest empire the world had yet seen, stretching from the Aegean to the Indus. Alexander of Macedon conquered it between 334 and 330 BCE.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Behistun Inscription of Darius I (Old Persian, Elamite, Babylonian), copied by H. Rawlinson 1835–1847"
+   },
+   {
+    "kind": "primary",
+    "cite": "Cyrus Cylinder (British Museum 90920)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Herodotus, Histories, books 1–9"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Persepolis Fortification and Treasury tablets (Oriental Institute excavations, 1930s)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Pasargadae",
+    "lat": 30.2,
+    "lon": 53.17
+   },
+   {
+    "name": "Persepolis",
+    "lat": 29.93,
+    "lon": 52.89
+   },
+   {
+    "name": "Behistun",
+    "lat": 34.39,
+    "lon": 47.44
+   }
+  ],
+  "regions": [
+   "mideast",
+   "steppe"
+  ]
+ },
+ {
+  "id": "carthage",
+  "name": "Carthage",
+  "start": -814,
+  "end": -146,
+  "peak": -260,
+  "color": "#8C4A7F",
+  "match": [
+   "Carthage",
+   "Carthaginian Empire"
+  ],
+  "capital": "Carthage",
+  "summary": "A Phoenician colony from Tyre that became the dominant sea power of the western Mediterranean. Three Punic Wars with Rome ended with the city's destruction in 146 BCE.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Polybius, Histories, books 1–3 and fragments of 36–39"
+   },
+   {
+    "kind": "primary",
+    "cite": "Livy, Ab Urbe Condita, books 21–30 (Second Punic War)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Tophet of Salammbô and the circular naval harbour (UNESCO 'Save Carthage' campaign, 1970s)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Carthage",
+    "lat": 36.85,
+    "lon": 10.32
+   }
+  ],
+  "regions": [
+   "mideast",
+   "europe"
+  ]
+ },
+ {
+  "id": "rome",
+  "name": "Rome",
+  "start": -753,
+  "end": 476,
+  "peak": 117,
+  "color": "#A8434F",
+  "match": [
+   "Rome",
+   "Roman Republic",
+   "Roman Empire",
+   "Western Roman Empire",
+   "Rome (Constantinus)",
+   "Rome (Diocletianus)",
+   "Rome (Galerius)",
+   "Rome (Maximian)"
+  ],
+  "capital": "Rome; later Milan and Ravenna in the West",
+  "summary": "From a small kingdom on the Tiber, Rome became a republic and then an empire ruling the whole Mediterranean. It reached its widest extent under Trajan in 117 CE. The western half ended in 476; the eastern half continued as the Byzantine Empire.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Livy, Ab Urbe Condita"
+   },
+   {
+    "kind": "primary",
+    "cite": "Res Gestae Divi Augusti (Monumentum Ancyranum, Ankara)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Tacitus, Annals and Histories"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ammianus Marcellinus, Res Gestae (late 4th c.)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Pompeii and Herculaneum (excavated from 1738/1748); Vindolanda tablets (from 1973)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Rome (Forum)",
+    "lat": 41.89,
+    "lon": 12.49
+   },
+   {
+    "name": "Pompeii",
+    "lat": 40.75,
+    "lon": 14.49
+   },
+   {
+    "name": "Vindolanda",
+    "lat": 54.99,
+    "lon": -2.36
+   }
+  ],
+  "regions": [
+   "europe",
+   "mideast"
+  ]
+ },
+ {
+  "id": "alexander",
+  "name": "Empire of Alexander",
+  "start": -336,
+  "end": -323,
+  "peak": -323,
+  "color": "#7A8FC8",
+  "match": [
+   "Empire of Alexander"
+  ],
+  "capital": "Pella, then Babylon",
+  "summary": "In thirteen years Alexander III of Macedon conquered the Persian Empire and reached the Indus. When he died at Babylon in 323 BCE his generals split the empire into the Hellenistic kingdoms, including the Seleucid and Ptolemaic states.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Arrian, Anabasis of Alexander (2nd c. CE, using Ptolemy and Aristobulus)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Babylonian Astronomical Diary BM 45962",
+    "note": "Records the king's death in Babylon, June 323 BCE."
+   },
+   {
+    "kind": "primary",
+    "cite": "Plutarch, Life of Alexander"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Royal tombs at Vergina (Aigai), excavated by M. Andronikos 1977"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Vergina (Aigai)",
+    "lat": 40.48,
+    "lon": 22.32
+   },
+   {
+    "name": "Babylon",
+    "lat": 32.54,
+    "lon": 44.42
+   }
+  ],
+  "regions": [
+   "europe",
+   "mideast"
+  ]
+ },
+ {
+  "id": "maurya",
+  "name": "Maurya Empire",
+  "start": -322,
+  "end": -185,
+  "peak": -250,
+  "color": "#3E8C6A",
+  "match": [
+   "Mauryan Empire"
+  ],
+  "capital": "Pataliputra",
+  "summary": "Founded by Chandragupta Maurya, it united most of the Indian subcontinent. His grandson Ashoka turned to Buddhism after the bloody Kalinga war and carved his edicts across the empire.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Edicts of Ashoka (rock and pillar inscriptions; Brahmi deciphered by J. Prinsep, 1837)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Megasthenes, Indica (fragments in Arrian, Strabo, Diodorus)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Pataliputra excavations at Kumrahar (D. B. Spooner, 1912–15)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Pataliputra (Patna)",
+    "lat": 25.61,
+    "lon": 85.14
+   },
+   {
+    "name": "Dhauli (Kalinga edicts)",
+    "lat": 20.19,
+    "lon": 85.84
+   }
+  ],
+  "regions": [
+   "southasia"
+  ]
+ },
+ {
+  "id": "seleucid",
+  "name": "Seleucid Empire",
+  "start": -312,
+  "end": -63,
+  "peak": -301,
+  "color": "#C8913E",
+  "match": [
+   "Seleucid Kingdom"
+  ],
+  "capital": "Seleucia on the Tigris, then Antioch",
+  "summary": "The largest successor state of Alexander's empire, founded by Seleucus I and stretching at first from Anatolia to Bactria. Defeat by Rome at Magnesia and the rise of Parthia shrank it to Syria, which Pompey annexed in 63 BCE.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Babylonian Astronomical Diaries and chronicles (British Museum)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Antiochus Cylinder from Borsippa (BM 36277)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Polybius, Histories; Appian, Syrian Wars"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Ai Khanoum, Afghanistan (French excavations 1964–1978)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Antioch",
+    "lat": 36.2,
+    "lon": 36.16
+   },
+   {
+    "name": "Seleucia on the Tigris",
+    "lat": 33.1,
+    "lon": 44.52
+   },
+   {
+    "name": "Ai Khanoum",
+    "lat": 37.17,
+    "lon": 69.41
+   }
+  ],
+  "regions": [
+   "mideast"
+  ]
+ },
+ {
+  "id": "ptolemaic",
+  "name": "Ptolemaic Kingdom",
+  "start": -305,
+  "end": -30,
+  "peak": -246,
+  "color": "#4FA3A0",
+  "match": [
+   "Ptolemaic Kingdom"
+  ],
+  "capital": "Alexandria",
+  "summary": "A Macedonian Greek dynasty ruling Egypt from Alexandria, home of the Library and the Pharos. It ended with Cleopatra VII's death and Octavian's annexation of Egypt in 30 BCE.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Rosetta Stone, Memphis Decree of 196 BCE (British Museum EA 24)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Oxyrhynchus and other Greek papyri from Egypt"
+   },
+   {
+    "kind": "primary",
+    "cite": "Plutarch, Life of Antony"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Alexandria",
+    "lat": 31.2,
+    "lon": 29.92
+   },
+   {
+    "name": "Rosetta (Rashid)",
+    "lat": 31.4,
+    "lon": 30.42
+   }
+  ],
+  "regions": [
+   "mideast"
+  ]
+ },
+ {
+  "id": "qin",
+  "name": "Qin dynasty",
+  "start": -221,
+  "end": -206,
+  "peak": -210,
+  "color": "#5E6E80",
+  "match": [
+   "Qin"
+  ],
+  "capital": "Xianyang",
+  "summary": "The western state of Qin conquered its Warring States rivals, and its king proclaimed himself First Emperor in 221 BCE. He standardized script, coins and weights. The dynasty collapsed within four years of his death.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Sima Qian, Shiji, ch. 6 'Basic Annals of the First Emperor'"
+   },
+   {
+    "kind": "primary",
+    "cite": "Shuihudi Qin bamboo slips (legal texts, found 1975)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Terracotta Army pits near the First Emperor's mausoleum (found 1974)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Xianyang",
+    "lat": 34.33,
+    "lon": 108.71
+   },
+   {
+    "name": "Terracotta Army",
+    "lat": 34.38,
+    "lon": 109.27
+   }
+  ],
+  "regions": [
+   "eastasia"
+  ]
+ },
+ {
+  "id": "han",
+  "name": "Han dynasty",
+  "start": -202,
+  "end": 220,
+  "peak": -87,
+  "color": "#C0533A",
+  "match": [
+   "Han",
+   "Han Empire"
+  ],
+  "capital": "Chang'an, later Luoyang",
+  "summary": "Founded by Liu Bang, the Han set the model for imperial China: Confucian officialdom, salt and iron monopolies and expansion into Central Asia that opened the Silk Roads. The dynasty ended in 220 CE, splitting China into the Three Kingdoms.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Sima Qian, Shiji (completed c. 94 BCE)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ban Gu, Hanshu (Book of Han)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Fan Ye, Hou Hanshu (Book of the Later Han)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Mawangdui tombs, Changsha (excavated 1972–74)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Chang'an (Xi'an)",
+    "lat": 34.27,
+    "lon": 108.94
+   },
+   {
+    "name": "Mawangdui",
+    "lat": 28.2,
+    "lon": 113.02
+   }
+  ],
+  "regions": [
+   "eastasia"
+  ]
+ },
+ {
+  "id": "parthia",
+  "name": "Parthian Empire",
+  "start": -247,
+  "end": 224,
+  "peak": -50,
+  "color": "#A0884F",
+  "match": [
+   "Parthia",
+   "Parthian Empire"
+  ],
+  "capital": "Ctesiphon (among others)",
+  "summary": "The Arsacid dynasty of Parthia took Iran and Mesopotamia from the Seleucids and held Rome at bay for nearly three centuries, most famously at Carrhae. Its own vassal Ardashir overthrew it in 224 CE.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Plutarch, Life of Crassus"
+   },
+   {
+    "kind": "primary",
+    "cite": "Nisa ostraca (Parthian administrative records)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Old Nisa, Turkmenistan (Soviet and Italian excavations)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Nisa",
+    "lat": 37.95,
+    "lon": 58.21
+   },
+   {
+    "name": "Ctesiphon",
+    "lat": 33.09,
+    "lon": 44.58
+   }
+  ],
+  "regions": [
+   "mideast"
+  ]
+ },
+ {
+  "id": "germanic",
+  "name": "Germanic peoples",
+  "start": -500,
+  "end": 600,
+  "peak": 9,
+  "color": "#7D8A45",
+  "match": [
+   "Germanic tribes",
+   "Saxons",
+   "Norsemen",
+   "Anglo-Saxons"
+  ],
+  "capital": "None; tribal confederations",
+  "summary": "Speakers of Germanic languages north of the Rhine and Danube. Roman writers described them, and they destroyed three legions at the Teutoburg Forest in 9 CE. Their migrations in the 4th–6th centuries reshaped Europe into the kingdoms of Goths, Franks, Vandals and Anglo-Saxons.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Tacitus, Germania (98 CE)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Velleius Paterculus 2.117–119; Tacitus, Annals 1.60–62 (Teutoburg)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Kalkriese battlefield, identified 1987"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Sutton Hoo ship burial (excavated 1939)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Kalkriese",
+    "lat": 52.41,
+    "lon": 8.13
+   },
+   {
+    "name": "Sutton Hoo",
+    "lat": 52.09,
+    "lon": 1.34
+   }
+  ],
+  "regions": [
+   "europe"
+  ]
+ },
+ {
+  "id": "goths",
+  "name": "Goths",
+  "start": 238,
+  "end": 711,
+  "peak": 500,
+  "color": "#A08A5A",
+  "match": [
+   "Goths",
+   "Ostrogoths",
+   "Visigoths",
+   "Visigothic Kingdom"
+  ],
+  "capital": "Ravenna (Ostrogoths); Toulouse, then Toledo (Visigoths)",
+  "summary": "A Germanic people who crossed the Danube, defeated Rome at Adrianople and sacked Rome in 410. They founded the Ostrogothic Kingdom in Italy, ended by Justinian in 553, and the Visigothic Kingdom in Spain, which fell to the Umayyads in 711.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Jordanes, Getica (551 CE)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ammianus Marcellinus 31 (Adrianople)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Codex Argenteus, Wulfila's Gothic Bible (Uppsala)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Pietroasele treasure, Romania (found 1837)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Ravenna",
+    "lat": 44.42,
+    "lon": 12.2
+   },
+   {
+    "name": "Toledo",
+    "lat": 39.86,
+    "lon": -4.02
+   }
+  ],
+  "regions": [
+   "europe"
+  ]
+ },
+ {
+  "id": "vandals",
+  "name": "Vandal Kingdom",
+  "start": 406,
+  "end": 534,
+  "peak": 477,
+  "color": "#B07F5A",
+  "match": [
+   "Vandals"
+  ],
+  "capital": "Carthage",
+  "summary": "The Vandals crossed the Rhine in 406, passed through Gaul and Spain, and under Gaiseric seized Roman Africa and Carthage in 439. They sacked Rome in 455. Belisarius destroyed the kingdom for Justinian in 533–534.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Procopius, History of the Wars, books 3–4 (Vandal War)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Victor of Vita, History of the Vandal Persecution (c. 484)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Albertini Tablets (Vandal-era deeds on wood, found 1928)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Carthage",
+    "lat": 36.85,
+    "lon": 10.32
+   }
+  ],
+  "regions": [
+   "europe",
+   "mideast"
+  ]
+ },
+ {
+  "id": "huns",
+  "name": "Huns",
+  "start": 370,
+  "end": 469,
+  "peak": 450,
+  "color": "#7A5A3A",
+  "match": [
+   "Hunnic Empire",
+   "Huns"
+  ],
+  "capital": "Royal camp on the Hungarian plain",
+  "summary": "Steppe horsemen whose arrival north of the Black Sea around 370 pushed the Goths into the Roman Empire. Under Attila they extorted gold from both Roman empires. Their realm broke apart after his death in 453.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Priscus of Panium, fragments (embassy to Attila, 449)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ammianus Marcellinus 31.2"
+   },
+   {
+    "kind": "primary",
+    "cite": "Jordanes, Getica 35–50"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Hungarian plain",
+    "lat": 47.0,
+    "lon": 20.0
+   }
+  ],
+  "regions": [
+   "steppe",
+   "europe"
+  ]
+ },
+ {
+  "id": "sasanian",
+  "name": "Sasanian Empire",
+  "start": 224,
+  "end": 651,
+  "peak": 620,
+  "color": "#3E8C8F",
+  "match": [
+   "Sasanian Empire",
+   "Sasanian dependencies"
+  ],
+  "capital": "Ctesiphon",
+  "summary": "The last pre-Islamic Persian empire, Rome's great rival for four centuries. Shapur I captured a Roman emperor in 260. Exhausted by war with Byzantium, it fell to the Arab conquests by 651.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Shapur I's trilingual inscription at the Ka'ba-ye Zartosht (ŠKZ), Naqsh-e Rostam"
+   },
+   {
+    "kind": "primary",
+    "cite": "al-Tabari, History of Prophets and Kings (10th c.)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Procopius, Persian Wars"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Taq Kasra, Ctesiphon; rock reliefs at Naqsh-e Rostam and Bishapur"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Ctesiphon (Taq Kasra)",
+    "lat": 33.09,
+    "lon": 44.58
+   },
+   {
+    "name": "Naqsh-e Rostam",
+    "lat": 29.99,
+    "lon": 52.87
+   }
+  ],
+  "regions": [
+   "mideast"
+  ]
+ },
+ {
+  "id": "gupta",
+  "name": "Gupta Empire",
+  "start": 320,
+  "end": 550,
+  "peak": 400,
+  "color": "#D08A50",
+  "match": [
+   "Gupta Empire"
+  ],
+  "capital": "Pataliputra",
+  "summary": "North India's 'classical age': Sanskrit literature, mathematics (Aryabhata) and temple art flourished under the Guptas. Hunnic invasions and fragmentation ended the empire in the 6th century.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Allahabad Pillar inscription of Samudragupta (by Harishena)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Faxian, A Record of Buddhist Kingdoms (travels 399–412)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Gupta gold coinage; Udayagiri caves (c. 401)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Pataliputra",
+    "lat": 25.61,
+    "lon": 85.14
+   },
+   {
+    "name": "Udayagiri caves",
+    "lat": 23.54,
+    "lon": 77.77
+   }
+  ],
+  "regions": [
+   "southasia"
+  ]
+ },
+ {
+  "id": "aksum",
+  "name": "Kingdom of Aksum",
+  "start": 100,
+  "end": 940,
+  "peak": 350,
+  "color": "#B5754A",
+  "match": [
+   "Axum"
+  ],
+  "capital": "Aksum",
+  "summary": "A trading power of the Ethiopian and Eritrean highlands linking Rome and India through the Red Sea. Under King Ezana in the 4th century it adopted Christianity and conquered Meroë.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Periplus of the Erythraean Sea (1st c. CE)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ezana Stone inscriptions (Ge'ez, Greek, Sabaean)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Stelae field of Aksum; Aksumite coinage"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Aksum",
+    "lat": 14.13,
+    "lon": 38.72
+   }
+  ],
+  "regions": [
+   "africa"
+  ]
+ },
+ {
+  "id": "byzantine",
+  "name": "Byzantine Empire",
+  "start": 330,
+  "end": 1453,
+  "peak": 555,
+  "color": "#8C4A9A",
+  "match": [
+   "Eastern Roman Empire",
+   "Byzantine Empire"
+  ],
+  "capital": "Constantinople",
+  "summary": "The eastern Roman Empire, which called itself Roman throughout its history and lasted a thousand years after the West fell. Justinian briefly retook Italy and Africa. Constantinople fell to the Ottomans in 1453.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Procopius, Wars, Buildings and Secret History (6th c.)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Anna Komnene, Alexiad (c. 1148)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Kritoboulos and Doukas, accounts of the fall of Constantinople"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Hagia Sophia (537); Theodosian Walls; Yenikapı harbour excavations (2004–2013)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Constantinople",
+    "lat": 41.01,
+    "lon": 28.98
+   }
+  ],
+  "regions": [
+   "europe",
+   "mideast"
+  ]
+ },
+ {
+  "id": "maya",
+  "name": "Maya civilization",
+  "start": -1000,
+  "end": 1697,
+  "peak": 750,
+  "color": "#3F9A8E",
+  "match": [
+   "Maya chiefdoms and states",
+   "Maya states",
+   "Maya city-states",
+   "Mayas",
+   "Maya",
+   "Maya Yucateco"
+  ],
+  "capital": "Rival city-states: Tikal, Calakmul, Copán, Palenque, later Chichén Itzá and Mayapán",
+  "summary": "A civilization of competing kingdoms in the Yucatán and Guatemala with the Americas' most complete writing system. The southern lowland cities collapsed in the 9th century. The last independent kingdom, Nojpetén, fell to Spain in 1697.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Classic Maya stelae and inscriptions (decipherment by Knorozov, Proskouriakoff and others from the 1950s)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Dresden Codex (13th–14th c.)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Popol Vuh (K'iche' text, recorded c. 1550s)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Tikal Project (University of Pennsylvania, 1956–70); PACUNAM lidar survey (2018)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Tikal",
+    "lat": 17.22,
+    "lon": -89.62
+   },
+   {
+    "name": "Copán",
+    "lat": 14.84,
+    "lon": -89.14
+   },
+   {
+    "name": "Chichén Itzá",
+    "lat": 20.68,
+    "lon": -88.57
+   }
+  ],
+  "regions": [
+   "americas"
+  ]
+ },
+ {
+  "id": "umayyad",
+  "name": "Umayyad Caliphate",
+  "start": 661,
+  "end": 750,
+  "peak": 720,
+  "color": "#4E9A5E",
+  "match": [
+   "Umayyad Caliphate"
+  ],
+  "capital": "Damascus",
+  "summary": "The first hereditary caliphate, which carried Arab rule from Iberia to the Indus. It was overthrown by the Abbasid revolution in 750. A surviving prince founded the Emirate (later Caliphate) of Córdoba.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Dome of the Rock dedicatory inscription (AH 72 / 691–92 CE)"
+   },
+   {
+    "kind": "primary",
+    "cite": "al-Tabari, History of Prophets and Kings"
+   },
+   {
+    "kind": "primary",
+    "cite": "Chronicle of 754 (Mozarabic Chronicle)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Damascus (Umayyad Mosque)",
+    "lat": 33.51,
+    "lon": 36.31
+   },
+   {
+    "name": "Jerusalem (Dome of the Rock)",
+    "lat": 31.78,
+    "lon": 35.24
+   }
+  ],
+  "regions": [
+   "mideast"
+  ]
+ },
+ {
+  "id": "abbasid",
+  "name": "Abbasid Caliphate",
+  "start": 750,
+  "end": 1258,
+  "peak": 800,
+  "color": "#2F7A5A",
+  "match": [
+   "Abbasid Caliphate"
+  ],
+  "capital": "Baghdad (from 762)",
+  "summary": "Moving the caliphate east to Baghdad, the Abbasids presided over a golden age of scholarship and trade. From the 10th century real power passed to regional dynasties. The Mongols sacked Baghdad and killed the last caliph there in 1258.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "al-Tabari, History of Prophets and Kings"
+   },
+   {
+    "kind": "primary",
+    "cite": "al-Ya'qubi, Kitab al-Buldan (on the founding of Baghdad)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Samarra excavations (E. Herzfeld, 1911–13)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Baghdad",
+    "lat": 33.31,
+    "lon": 44.36
+   },
+   {
+    "name": "Samarra",
+    "lat": 34.2,
+    "lon": 43.87
+   }
+  ],
+  "regions": [
+   "mideast"
+  ]
+ },
+ {
+  "id": "tang",
+  "name": "Tang dynasty",
+  "start": 618,
+  "end": 907,
+  "peak": 700,
+  "color": "#C2603F",
+  "match": [
+   "Tang Empire"
+  ],
+  "capital": "Chang'an",
+  "summary": "A cosmopolitan dynasty whose capital, Chang'an, was perhaps the world's largest city. Tang power reached into Central Asia until defeat at Talas (751) and the An Lushan rebellion (755–763) weakened it.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Old Book of Tang (Jiu Tangshu, 945) and New Book of Tang (Xin Tangshu, 1060)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Dunhuang manuscripts, Mogao Library Cave (found 1900)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Daming Palace site, Xi'an"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Chang'an (Xi'an)",
+    "lat": 34.27,
+    "lon": 108.94
+   },
+   {
+    "name": "Dunhuang",
+    "lat": 40.04,
+    "lon": 94.81
+   }
+  ],
+  "regions": [
+   "eastasia"
+  ]
+ },
+ {
+  "id": "ghana",
+  "name": "Ghana Empire (Wagadu)",
+  "start": 300,
+  "end": 1200,
+  "peak": 1050,
+  "color": "#C49A4A",
+  "match": [
+   "Empire of Ghana"
+  ],
+  "capital": "Koumbi Saleh (probable)",
+  "summary": "A Soninke kingdom in the western Sahel that grew rich taxing the trans-Saharan gold trade. Arab geographers described its king's court. It declined in the 11th–12th centuries and was succeeded by Mali.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "al-Bakri, Book of Routes and Realms (1068)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Tarikh al-Sudan and Tarikh al-Fattash (17th-c. Timbuktu chronicles)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Koumbi Saleh excavations (from 1914; Thomassey and Mauny, 1949–51)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Koumbi Saleh",
+    "lat": 15.76,
+    "lon": -7.98
+   }
+  ],
+  "regions": [
+   "africa"
+  ]
+ },
+ {
+  "id": "franks",
+  "name": "Frankish Kingdom",
+  "start": 481,
+  "end": 843,
+  "peak": 814,
+  "color": "#9A7AB5",
+  "match": [
+   "Franks",
+   "Frankish Kingdom"
+  ],
+  "capital": "Paris, Soissons, later Aachen",
+  "summary": "Clovis united the Franks and converted to Catholic Christianity. The Carolingian Charlemagne ruled most of Western Europe and was crowned emperor in 800. His grandsons divided the realm at Verdun in 843.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Gregory of Tours, Ten Books of Histories (c. 594)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Einhard, Life of Charlemagne (c. 830)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Royal Frankish Annals (741–829)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Tomb of Childeric I, Tournai (found 1653)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Tournai",
+    "lat": 50.61,
+    "lon": 3.39
+   },
+   {
+    "name": "Aachen",
+    "lat": 50.78,
+    "lon": 6.08
+   }
+  ],
+  "regions": [
+   "europe"
+  ]
+ },
+ {
+  "id": "hre",
+  "name": "Holy Roman Empire",
+  "start": 962,
+  "end": 1806,
+  "peak": 1250,
+  "color": "#BBA75A",
+  "match": [
+   "Holy Roman Empire"
+  ],
+  "capital": "No fixed capital; Vienna under the Habsburgs",
+  "summary": "A loose elective empire of German, Italian and Bohemian lands claiming the Roman imperial title from Otto I's coronation in 962. It became a federation of princes after the Peace of Westphalia. Francis II dissolved it in 1806 under pressure from Napoleon.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Widukind of Corvey, Deeds of the Saxons (10th c.)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Golden Bull of 1356"
+   },
+   {
+    "kind": "primary",
+    "cite": "Peace of Westphalia treaties (Osnabrück and Münster, 1648)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Aachen",
+    "lat": 50.78,
+    "lon": 6.08
+   },
+   {
+    "name": "Vienna",
+    "lat": 48.21,
+    "lon": 16.37
+   }
+  ],
+  "regions": [
+   "europe"
+  ]
+ },
+ {
+  "id": "kievan-rus",
+  "name": "Kievan Rus'",
+  "start": 882,
+  "end": 1240,
+  "peak": 1050,
+  "color": "#5F8FB8",
+  "match": [
+   "Kievan Rus"
+  ],
+  "capital": "Kiev",
+  "summary": "A federation of East Slavic principalities under the Rurikid dynasty, founded by Varangian (Norse) rulers. It adopted Orthodox Christianity in 988. Fragmentation and the Mongol sack of Kiev in 1240 ended it.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Primary Chronicle (Povest' vremennykh let, c. 1113)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Novgorod birch-bark letters (first found 1951)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "St Sophia Cathedral, Kiev (11th c.)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Kiev",
+    "lat": 50.45,
+    "lon": 30.52
+   },
+   {
+    "name": "Novgorod",
+    "lat": 58.52,
+    "lon": 31.27
+   }
+  ],
+  "regions": [
+   "europe"
+  ]
+ },
+ {
+  "id": "england",
+  "name": "Kingdom of England",
+  "start": 927,
+  "end": 1707,
+  "peak": 1600,
+  "color": "#B9606F",
+  "match": [
+   "England",
+   "England and Ireland",
+   "English territory"
+  ],
+  "capital": "Winchester, then London",
+  "summary": "Æthelstan unified the Anglo-Saxon kingdoms in 927. The Normans conquered England in 1066. The kingdom joined Scotland to form Great Britain in 1707.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Anglo-Saxon Chronicle (from late 9th c.)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Bayeux Tapestry (c. 1070s)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Domesday Book (1086; The National Archives E 31)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Magna Carta (1215; British Library Cotton MS Augustus II.106)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Winchester",
+    "lat": 51.06,
+    "lon": -1.31
+   },
+   {
+    "name": "London",
+    "lat": 51.51,
+    "lon": -0.13
+   }
+  ],
+  "regions": [
+   "europe"
+  ]
+ },
+ {
+  "id": "uk",
+  "name": "Great Britain / United Kingdom",
+  "start": 1707,
+  "end": 2025,
+  "peak": 1920,
+  "color": "#B9606F",
+  "match": [
+   "United Kingdom",
+   "United Kingdom of Great Britain and Ireland"
+  ],
+  "capital": "London",
+  "summary": "Formed by the union of England and Scotland, Britain built the largest empire in history, covering roughly a quarter of the world's land around 1920. Most colonies became independent between 1947 and the 1960s.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Acts of Union 1706 and 1707"
+   },
+   {
+    "kind": "primary",
+    "cite": "Government of India Act 1858"
+   },
+   {
+    "kind": "primary",
+    "cite": "Indian Independence Act 1947"
+   }
+  ],
+  "sites": [
+   {
+    "name": "London (Westminster)",
+    "lat": 51.5,
+    "lon": -0.13
+   }
+  ],
+  "regions": [
+   "europe"
+  ]
+ },
+ {
+  "id": "song",
+  "name": "Song dynasty",
+  "start": 960,
+  "end": 1279,
+  "peak": 1050,
+  "color": "#C77B4A",
+  "match": [
+   "Song Empire"
+  ],
+  "capital": "Kaifeng, later Hangzhou",
+  "summary": "An era of paper money, movable type, gunpowder weapons and a commercial revolution. The Song lost the north to the Jurchen Jin in 1127 and fell to Kublai Khan's Mongols in 1279.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Songshi (History of Song, compiled 1345)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Zhang Zeduan, Along the River During the Qingming Festival (scroll, 12th c.)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Nanhai No. 1 shipwreck (raised 2007)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Kaifeng",
+    "lat": 34.8,
+    "lon": 114.31
+   },
+   {
+    "name": "Hangzhou",
+    "lat": 30.27,
+    "lon": 120.16
+   }
+  ],
+  "regions": [
+   "eastasia"
+  ]
+ },
+ {
+  "id": "khmer",
+  "name": "Khmer Empire",
+  "start": 802,
+  "end": 1431,
+  "peak": 1200,
+  "color": "#A86BB0",
+  "match": [
+   "Khmer Empire"
+  ],
+  "capital": "Angkor",
+  "summary": "A Southeast Asian empire centred on Angkor, a vast city of temples and reservoirs that included Angkor Wat. Jayavarman VII expanded it around 1200. Angkor was abandoned as the capital after Ayutthaya's attack in 1431.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Sdok Kak Thom inscription (1052)",
+    "note": "Recounts Jayavarman II's consecration in 802."
+   },
+   {
+    "kind": "primary",
+    "cite": "Zhou Daguan, A Record of Cambodia (visit 1296–97)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Angkor lidar surveys (2012, 2015)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Angkor",
+    "lat": 13.41,
+    "lon": 103.87
+   }
+  ],
+  "regions": [
+   "eastasia"
+  ]
+ },
+ {
+  "id": "mongol",
+  "name": "Mongol Empire",
+  "start": 1206,
+  "end": 1368,
+  "peak": 1279,
+  "color": "#5A5FA8",
+  "match": [
+   "Mongol Empire",
+   "Great Khanate",
+   "Ilkhanate",
+   "Chagatai Khanate"
+  ],
+  "capital": "Karakorum, later Khanbaliq (Beijing)",
+  "summary": "Chinggis Khan united the steppe in 1206. His successors built the largest contiguous land empire in history, from Korea to Hungary. By 1260 it had split into four khanates. The Yuan dynasty in China fell in 1368.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "The Secret History of the Mongols (13th c.)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Rashid al-Din, Jami' al-Tawarikh (Compendium of Chronicles, c. 1307)"
+   },
+   {
+    "kind": "primary",
+    "cite": "William of Rubruck, Itinerarium (visit to Karakorum 1254)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Karakorum excavations (Mongolian-German project from 2000)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Karakorum",
+    "lat": 47.2,
+    "lon": 102.82
+   },
+   {
+    "name": "Khanbaliq (Beijing)",
+    "lat": 39.9,
+    "lon": 116.4
+   }
+  ],
+  "regions": [
+   "steppe",
+   "eastasia",
+   "mideast"
+  ]
+ },
+ {
+  "id": "delhi",
+  "name": "Delhi Sultanate",
+  "start": 1206,
+  "end": 1526,
+  "peak": 1330,
+  "color": "#4E8A5E",
+  "match": [
+   "Sultanate of Delhi"
+  ],
+  "capital": "Delhi",
+  "summary": "A succession of five Turkic and Afghan dynasties ruling north India from Delhi. It repelled Mongol invasions and briefly reached the far south under Muhammad bin Tughluq. Babur ended it at Panipat in 1526.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ziauddin Barani, Tarikh-i-Firuz Shahi (1357)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ibn Battuta, Rihla (in Delhi 1334–1342)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Qutb Minar complex, Delhi"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Qutb Minar, Delhi",
+    "lat": 28.52,
+    "lon": 77.19
+   }
+  ],
+  "regions": [
+   "southasia"
+  ]
+ },
+ {
+  "id": "mali",
+  "name": "Mali Empire",
+  "start": 1235,
+  "end": 1600,
+  "peak": 1330,
+  "color": "#D2A246",
+  "match": [
+   "Mali"
+  ],
+  "capital": "Niani (probable)",
+  "summary": "Founded by Sundiata Keita, Mali controlled the gold fields and trade cities of the Sahel. Mansa Musa's pilgrimage through Cairo in 1324 made it famous across the Mediterranean world.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ibn Battuta, Rihla (visited Mali 1352–53)"
+   },
+   {
+    "kind": "primary",
+    "cite": "al-'Umari, Masalik al-Absar (c. 1340)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Epic of Sundiata (oral tradition of the griots)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Catalan Atlas (1375), depicting Mansa Musa"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Timbuktu",
+    "lat": 16.77,
+    "lon": -3.0
+   },
+   {
+    "name": "Djenné",
+    "lat": 13.91,
+    "lon": -4.55
+   }
+  ],
+  "regions": [
+   "africa"
+  ]
+ },
+ {
+  "id": "ottoman",
+  "name": "Ottoman Empire",
+  "start": 1299,
+  "end": 1922,
+  "peak": 1683,
+  "color": "#A33B45",
+  "match": [
+   "Ottoman Empire",
+   "Ottoman Sultanate"
+  ],
+  "capital": "Bursa, Edirne, then Constantinople (Istanbul) from 1453",
+  "summary": "A Turkish beylik that grew into a three-continent empire. It took Constantinople in 1453 and ruled the Balkans, Middle East and North Africa for centuries. Defeat in the First World War led to the sultanate's abolition in 1922.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Aşıkpaşazade, Tevârih-i Âl-i Osman (15th c.)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Evliya Çelebi, Seyahatname (Book of Travels, 17th c.)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ottoman tax registers (tahrir defterleri), Ottoman Archives, Istanbul"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Söğüt",
+    "lat": 40.02,
+    "lon": 30.18
+   },
+   {
+    "name": "Istanbul (Topkapı)",
+    "lat": 41.01,
+    "lon": 28.98
+   }
+  ],
+  "regions": [
+   "mideast",
+   "europe"
+  ]
+ },
+ {
+  "id": "ming",
+  "name": "Ming dynasty",
+  "start": 1368,
+  "end": 1644,
+  "peak": 1450,
+  "color": "#C0533A",
+  "match": [
+   "Ming Empire",
+   "Ming Chinese Empire"
+  ],
+  "capital": "Nanjing, then Beijing (from 1421)",
+  "summary": "Founded after the expulsion of the Mongols, the Ming built the Forbidden City and most of the surviving Great Wall, and sent Zheng He's treasure fleets to Africa. Rebels took Beijing in 1644, opening the way for the Manchu Qing.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ming Shilu (Veritable Records of the Ming)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Liujiagang and Changle inscriptions of Zheng He (1431)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Ming Tombs (Dingling, excavated 1956–58)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Nanjing",
+    "lat": 32.06,
+    "lon": 118.79
+   },
+   {
+    "name": "Forbidden City, Beijing",
+    "lat": 39.92,
+    "lon": 116.39
+   }
+  ],
+  "regions": [
+   "eastasia"
+  ]
+ },
+ {
+  "id": "aztec",
+  "name": "Aztec Empire (Triple Alliance)",
+  "start": 1428,
+  "end": 1521,
+  "peak": 1519,
+  "color": "#4FA36E",
+  "match": [
+   "Aztec Empire"
+  ],
+  "capital": "Tenochtitlan",
+  "summary": "An alliance of Tenochtitlan, Texcoco and Tlacopan that dominated central Mexico through tribute. Spaniards under Cortés, with tens of thousands of Indigenous allies and helped by smallpox, captured Tenochtitlan in 1521.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Codex Mendoza (c. 1541; Bodleian Library)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Bernardino de Sahagún, Florentine Codex (1577)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Hernán Cortés, Letters from Mexico (1519–1526)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Templo Mayor excavations, Mexico City (from 1978)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Tenochtitlan (Templo Mayor)",
+    "lat": 19.43,
+    "lon": -99.13
+   }
+  ],
+  "regions": [
+   "americas"
+  ]
+ },
+ {
+  "id": "inca",
+  "name": "Inca Empire (Tawantinsuyu)",
+  "start": 1438,
+  "end": 1533,
+  "peak": 1527,
+  "color": "#C8913E",
+  "match": [
+   "Inca Empire"
+  ],
+  "capital": "Cusco",
+  "summary": "The largest empire of the pre-Columbian Americas, run without markets or writing through roads, storehouses and knotted-cord khipu records. Civil war and Pizarro's capture of Atahualpa at Cajamarca in 1532 brought its fall.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Juan de Betanzos, Suma y narración de los Incas (1551)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Felipe Guaman Poma de Ayala, Nueva corónica y buen gobierno (c. 1615)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Khipu (knotted-cord records), mostly undeciphered"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Machu Picchu (studied by Hiram Bingham, 1911); Qhapaq Ñan road system"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Cusco",
+    "lat": -13.53,
+    "lon": -71.97
+   },
+   {
+    "name": "Machu Picchu",
+    "lat": -13.16,
+    "lon": -72.55
+   }
+  ],
+  "regions": [
+   "americas"
+  ]
+ },
+ {
+  "id": "songhai",
+  "name": "Songhai Empire",
+  "start": 1464,
+  "end": 1591,
+  "peak": 1520,
+  "color": "#B07A3A",
+  "match": [
+   "Songhai"
+  ],
+  "capital": "Gao",
+  "summary": "Under Sunni Ali and Askia Muhammad, Songhai replaced Mali as the great Sahel power, with Timbuktu as a centre of learning. A Moroccan army with firearms defeated it at Tondibi in 1591.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "al-Sa'di, Tarikh al-Sudan (c. 1655)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Leo Africanus, Description of Africa (1550)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Tomb of Askia, Gao (1495)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Gao",
+    "lat": 16.27,
+    "lon": -0.04
+   },
+   {
+    "name": "Timbuktu",
+    "lat": 16.77,
+    "lon": -3.0
+   }
+  ],
+  "regions": [
+   "africa"
+  ]
+ },
+ {
+  "id": "safavid",
+  "name": "Safavid Empire",
+  "start": 1501,
+  "end": 1736,
+  "peak": 1600,
+  "color": "#3E8C8F",
+  "match": [
+   "Safavid Empire"
+  ],
+  "capital": "Tabriz, Qazvin, then Isfahan",
+  "summary": "Ismail I founded the Safavid state and made Twelver Shi'ism Iran's official religion, defining modern Iran's identity. Shah Abbas I rebuilt Isfahan as a showpiece capital.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Iskandar Beg Munshi, Tarikh-i Alam-ara-yi Abbasi (1629)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Jean Chardin, Travels in Persia (1670s)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Naqsh-e Jahan Square, Isfahan"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Tabriz",
+    "lat": 38.08,
+    "lon": 46.29
+   },
+   {
+    "name": "Isfahan",
+    "lat": 32.66,
+    "lon": 51.68
+   }
+  ],
+  "regions": [
+   "mideast"
+  ]
+ },
+ {
+  "id": "mughal",
+  "name": "Mughal Empire",
+  "start": 1526,
+  "end": 1857,
+  "peak": 1700,
+  "color": "#3F9A6E",
+  "match": [
+   "Mughal Empire"
+  ],
+  "capital": "Agra, Fatehpur Sikri, Lahore, Delhi",
+  "summary": "Babur, a Timurid prince, founded the empire after Panipat. Under Akbar, Shah Jahan and Aurangzeb it ruled most of the subcontinent and built the Taj Mahal. British forces deposed the last emperor after the 1857 rebellion.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Baburnama (memoirs of Babur)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Abu'l-Fazl, Akbarnama and Ain-i-Akbari (c. 1590s)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Fatehpur Sikri; Taj Mahal (completed c. 1648)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Agra",
+    "lat": 27.18,
+    "lon": 78.04
+   },
+   {
+    "name": "Delhi (Red Fort)",
+    "lat": 28.66,
+    "lon": 77.24
+   }
+  ],
+  "regions": [
+   "southasia"
+  ]
+ },
+ {
+  "id": "spain",
+  "name": "Spanish Empire",
+  "start": 1492,
+  "end": 1898,
+  "peak": 1790,
+  "color": "#B8733A",
+  "match": [
+   "Spain",
+   "Viceroyalty of New Spain",
+   "Cuba (Spain)",
+   "Hispaniola (Spain)",
+   "Florida (Spain)",
+   "Santo Domingo (Spain)"
+  ],
+  "capital": "Madrid (from 1561)",
+  "summary": "United Castile and Aragon launched Columbus's voyages and conquered the Aztec and Inca empires. The resulting empire stretched from California to Tierra del Fuego and the Philippines. Most of the Americas won independence by 1825, and the last overseas colonies were lost in 1898.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Christopher Columbus, log of the first voyage (abstract by Bartolomé de las Casas)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Bartolomé de las Casas, A Short Account of the Destruction of the Indies (1552)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Archivo General de Indias, Seville (founded 1785)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Seville",
+    "lat": 37.39,
+    "lon": -5.98
+   }
+  ],
+  "regions": [
+   "europe",
+   "americas"
+  ]
+ },
+ {
+  "id": "qing",
+  "name": "Qing dynasty",
+  "start": 1644,
+  "end": 1912,
+  "peak": 1790,
+  "color": "#C8913E",
+  "match": [
+   "Qing Empire"
+  ],
+  "capital": "Beijing",
+  "summary": "A Manchu dynasty that doubled China's territory by adding Mongolia, Xinjiang and Tibet. The Qing faltered in the 19th century under the Opium Wars and the Taiping Rebellion. The Xinhai Revolution forced the last emperor to abdicate in 1912.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Qing Shilu (Veritable Records)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Edict of abdication of the Xuantong Emperor (12 February 1912)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Qing Grand Council archives, First Historical Archives of China, Beijing"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Forbidden City, Beijing",
+    "lat": 39.92,
+    "lon": 116.39
+   }
+  ],
+  "regions": [
+   "eastasia"
+  ]
+ },
+ {
+  "id": "russia",
+  "name": "Muscovy, Russian Empire and USSR",
+  "start": 1283,
+  "end": 2025,
+  "peak": 1945,
+  "color": "#6A8AD0",
+  "match": [
+   "Tsardom of Muscovy",
+   "Russian Empire",
+   "USSR",
+   "Russia"
+  ],
+  "capital": "Moscow; St Petersburg 1712–1918",
+  "summary": "Muscovy threw off Golden Horde overlordship in 1480 and expanded across Siberia to the Pacific by 1639. Peter I proclaimed the Russian Empire in 1721. After the 1917 revolutions it was reborn as the Soviet Union, which dissolved in 1991.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Russian chronicles (Nikon Chronicle and others)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Treaty on the Creation of the USSR (30 December 1922)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Belovezha Accords and Alma-Ata Protocol (December 1991)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Moscow Kremlin",
+    "lat": 55.75,
+    "lon": 37.62
+   },
+   {
+    "name": "St Petersburg",
+    "lat": 59.94,
+    "lon": 30.31
+   }
+  ],
+  "regions": [
+   "europe",
+   "steppe"
+  ]
+ },
+ {
+  "id": "yamnaya",
+  "name": "Yamnaya culture",
+  "start": -3300,
+  "end": -2600,
+  "peak": -3000,
+  "color": "#8A7F5C",
+  "match": [
+   "Yamnaya culture"
+  ],
+  "regions": [
+   "steppe",
+   "europe"
+  ],
+  "capital": "None; mobile herders",
+  "summary": "Pontic-Caspian steppe herders who buried their dead under kurgan mounds and used wheeled wagons. Ancient DNA shows a large Yamnaya-related migration into Europe after 3000 BCE, and many scholars link them with early Indo-European languages.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Kurgan burials of the Pontic-Caspian steppe"
+   },
+   {
+    "kind": "scholarship",
+    "cite": "Haak et al., 'Massive migration from the steppe', Nature (2015)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Lower Volga kurgans",
+    "lat": 47.5,
+    "lon": 45.0
+   }
+  ]
+ },
+ {
+  "id": "beaker",
+  "name": "Bell Beaker culture",
+  "start": -2800,
+  "end": -1800,
+  "peak": -2400,
+  "color": "#9C8A6A",
+  "match": [
+   "Beaker"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "capital": "None",
+  "summary": "A pan-European archaeological horizon named after its bell-shaped drinking cups, spreading from Iberia to Britain and Central Europe. In Britain its arrival came with a near-total genetic turnover.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Amesbury Archer burial near Stonehenge (found 2002)"
+   },
+   {
+    "kind": "scholarship",
+    "cite": "Olalde et al., 'The Beaker phenomenon', Nature (2018)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Amesbury",
+    "lat": 51.17,
+    "lon": -1.78
+   }
+  ]
+ },
+ {
+  "id": "cycladic",
+  "name": "Cycladic culture",
+  "start": -3200,
+  "end": -2000,
+  "peak": -2700,
+  "color": "#9DB7CF",
+  "match": [
+   "Cycladic"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Island communities",
+  "summary": "Early Bronze Age culture of the Aegean Cyclades, known for its stylized marble figurines and seafaring.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Cycladic figurines; Keros sanctuary excavations (C. Renfrew, from 2006)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Keros",
+    "lat": 36.89,
+    "lon": 25.65
+   }
+  ]
+ },
+ {
+  "id": "norte-chico",
+  "name": "Norte Chico (Caral)",
+  "start": -3500,
+  "end": -1800,
+  "peak": -2600,
+  "color": "#B48A5A",
+  "match": [
+   "Norte Chico"
+  ],
+  "regions": [
+   "americas"
+  ],
+  "capital": "Caral",
+  "summary": "The oldest known complex society in the Americas: monumental platform mounds and sunken plazas in the valleys of coastal Peru, built without pottery.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Caral excavations by Ruth Shady (from 1994)"
+   },
+   {
+    "kind": "scholarship",
+    "cite": "Radiocarbon dates published in Science (2001)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Caral",
+    "lat": -10.89,
+    "lon": -77.52
+   }
+  ]
+ },
+ {
+  "id": "kerma",
+  "name": "Kerma",
+  "start": -2500,
+  "end": -1500,
+  "peak": -1750,
+  "color": "#A9784E",
+  "match": [
+   "Kerma"
+  ],
+  "regions": [
+   "africa"
+  ],
+  "capital": "Kerma",
+  "summary": "The first great kingdom of Nubia, rival of Middle Kingdom Egypt, with a massive mud-brick temple (the Western Deffufa). Egypt's New Kingdom destroyed it around 1500 BCE.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "G. A. Reisner's excavations (1913–16); Charles Bonnet's Swiss mission (from 1977)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Kerma",
+    "lat": 19.6,
+    "lon": 30.41
+   }
+  ]
+ },
+ {
+  "id": "oxus",
+  "name": "Oxus civilization (BMAC)",
+  "start": -2300,
+  "end": -1700,
+  "peak": -2000,
+  "color": "#A88E5E",
+  "match": [
+   "Oxus"
+  ],
+  "regions": [
+   "steppe"
+  ],
+  "capital": "Gonur Depe and other fortified centres",
+  "summary": "A Bronze Age civilization of fortified oasis towns in today's Turkmenistan, Uzbekistan and Afghanistan, trading with Mesopotamia and the Indus.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Gonur Depe excavations by V. Sarianidi (from 1972)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Gonur Depe",
+    "lat": 38.21,
+    "lon": 62.04
+   }
+  ]
+ },
+ {
+  "id": "andronovo",
+  "name": "Andronovo culture",
+  "start": -2000,
+  "end": -900,
+  "peak": -1500,
+  "color": "#857B58",
+  "match": [
+   "Andronovo",
+   "Sintashta"
+  ],
+  "regions": [
+   "steppe"
+  ],
+  "capital": "None",
+  "summary": "Bronze Age herders of the Central Asian steppe, linked to the spread of the chariot and of Indo-Iranian languages. Sintashta fortified settlements are its earliest phase.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Sintashta and Arkaim fortified settlements, southern Urals"
+   },
+   {
+    "kind": "scholarship",
+    "cite": "Allentoft et al., Nature (2015)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Arkaim",
+    "lat": 52.65,
+    "lon": 59.57
+   }
+  ]
+ },
+ {
+  "id": "jomon",
+  "name": "Jōmon culture",
+  "start": -14000,
+  "end": -300,
+  "peak": -3000,
+  "color": "#8C9A78",
+  "match": [
+   "Jōmon",
+   "Late Jomon culture"
+  ],
+  "regions": [
+   "eastasia"
+  ],
+  "capital": "None",
+  "summary": "Long-lived hunter-gatherer culture of Japan that made some of the world's earliest pottery, named for its cord-marked decoration.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Sannai-Maruyama settlement, Aomori (excavated from 1992)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Sannai-Maruyama",
+    "lat": 40.81,
+    "lon": 140.7
+   }
+  ]
+ },
+ {
+  "id": "xia",
+  "name": "Xia (Erlitou)",
+  "start": -2070,
+  "end": -1600,
+  "peak": -1800,
+  "color": "#A9634A",
+  "match": [
+   "Xia"
+  ],
+  "regions": [
+   "eastasia"
+  ],
+  "capital": "Erlitou (probable)",
+  "summary": "The first dynasty in Chinese tradition. No Xia writing survives; many archaeologists associate it with the Erlitou culture and its palace complex in Henan.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Sima Qian, Shiji, ch. 2 'Basic Annals of Xia'"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Erlitou site, Yanshi (excavated from 1959)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Erlitou",
+    "lat": 34.7,
+    "lon": 112.69
+   }
+  ]
+ },
+ {
+  "id": "bantu",
+  "name": "Bantu expansion",
+  "start": -1500,
+  "end": 500,
+  "peak": -500,
+  "color": "#6E7B58",
+  "match": [
+   "Bantu",
+   "Bantu peoples"
+  ],
+  "regions": [
+   "africa"
+  ],
+  "capital": "None",
+  "summary": "Over three millennia, farmers speaking Bantu languages spread from the Nigeria–Cameroon borderland across most of central, eastern and southern Africa, carrying ironworking and agriculture.",
+  "sources": [
+   {
+    "kind": "scholarship",
+    "cite": "Comparative linguistics of the Bantu family"
+   },
+   {
+    "kind": "scholarship",
+    "cite": "Patin et al., 'Dispersals of Bantu-speaking populations', Science (2017)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Grassfields (origin area)",
+    "lat": 6.0,
+    "lon": 10.5
+   }
+  ]
+ },
+ {
+  "id": "mitanni",
+  "name": "Mitanni",
+  "start": -1550,
+  "end": -1260,
+  "peak": -1400,
+  "color": "#9A6A88",
+  "match": [
+   "Hurrian Kingdoms"
+  ],
+  "regions": [
+   "mideast"
+  ],
+  "capital": "Washukanni (not yet located)",
+  "summary": "A Hurrian kingdom of northern Mesopotamia ruled by an Indo-Aryan-named elite, rival of Egypt and the Hittites. Hittite and Assyrian attacks destroyed it.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Amarna letters from Tushratta of Mitanni (EA 17–29)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Treaty between Suppiluliuma I and Shattiwaza (CTH 51)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Tell Brak",
+    "lat": 36.67,
+    "lon": 41.06
+   }
+  ]
+ },
+ {
+  "id": "israel",
+  "name": "Israel and Judah",
+  "start": -1000,
+  "end": -587,
+  "peak": -850,
+  "color": "#7A8EA8",
+  "match": [
+   "Kingdom of David and Solomon"
+  ],
+  "regions": [
+   "mideast"
+  ],
+  "capital": "Samaria (Israel), Jerusalem (Judah)",
+  "summary": "Two Iron Age kingdoms of the southern Levant. Assyria destroyed Israel in 720 BCE; Babylon destroyed Judah and Jerusalem's temple in 587 BCE. The Hebrew Bible's history was largely compiled from these traditions.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Tel Dan stele (9th c. BCE), mentioning the 'House of David'"
+   },
+   {
+    "kind": "primary",
+    "cite": "Mesha stele (c. 840 BCE, Louvre AO 5066)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Books of Kings and Chronicles"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Jerusalem",
+    "lat": 31.78,
+    "lon": 35.23
+   },
+   {
+    "name": "Samaria",
+    "lat": 32.28,
+    "lon": 35.19
+   }
+  ]
+ },
+ {
+  "id": "phoenicia",
+  "name": "Phoenician city-states",
+  "start": -1200,
+  "end": -332,
+  "peak": -800,
+  "color": "#7C4D86",
+  "match": [],
+  "regions": [
+   "mideast",
+   "europe"
+  ],
+  "capital": "Tyre, Sidon, Byblos",
+  "summary": "Canaanite trading cities of the Lebanese coast that spread the alphabet and founded colonies across the Mediterranean, including Carthage and Cádiz. Alexander's siege of Tyre in 332 BCE ended their independence.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ahiram sarcophagus inscription, Byblos"
+   },
+   {
+    "kind": "primary",
+    "cite": "Arrian, Anabasis 2.15–24 (siege of Tyre)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Excavations at Tyre and Byblos"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Tyre",
+    "lat": 33.27,
+    "lon": 35.2
+   },
+   {
+    "name": "Byblos",
+    "lat": 34.12,
+    "lon": 35.65
+   }
+  ]
+ },
+ {
+  "id": "urartu",
+  "name": "Urartu",
+  "start": -860,
+  "end": -590,
+  "peak": -750,
+  "color": "#6F8B9A",
+  "match": [
+   "Urartu"
+  ],
+  "regions": [
+   "mideast"
+  ],
+  "capital": "Tushpa (Van)",
+  "summary": "A highland kingdom around Lake Van, Assyria's northern rival, known for its fortresses and irrigation works.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Urartian royal inscriptions, Van fortress"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Erebuni fortress, Yerevan (founded 782 BCE)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Tushpa (Van)",
+    "lat": 38.5,
+    "lon": 43.34
+   }
+  ]
+ },
+ {
+  "id": "medes",
+  "name": "Media",
+  "start": -678,
+  "end": -549,
+  "peak": -600,
+  "color": "#8E7AA8",
+  "match": [],
+  "regions": [
+   "mideast"
+  ],
+  "capital": "Ecbatana",
+  "summary": "An Iranian kingdom that helped destroy Assyria in 612 BCE and ruled the Iranian plateau until Cyrus the Great absorbed it.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Herodotus 1.95–130"
+   },
+   {
+    "kind": "primary",
+    "cite": "Nabonidus Chronicle (ABC 7)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Ecbatana (Hamadan)",
+    "lat": 34.8,
+    "lon": 48.52
+   }
+  ]
+ },
+ {
+  "id": "lydia",
+  "name": "Lydia",
+  "start": -1200,
+  "end": -546,
+  "peak": -560,
+  "color": "#C29A5A",
+  "match": [],
+  "regions": [
+   "mideast"
+  ],
+  "capital": "Sardis",
+  "summary": "A western Anatolian kingdom credited with the first coins. Its last king, Croesus, fell to Cyrus in 546 BCE.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Herodotus 1.6–94"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Sardis excavations (Harvard–Cornell expedition, from 1958)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Sardis",
+    "lat": 38.49,
+    "lon": 28.04
+   }
+  ]
+ },
+ {
+  "id": "scythians",
+  "name": "Scythians",
+  "start": -700,
+  "end": 200,
+  "peak": -400,
+  "color": "#8B7A50",
+  "match": [
+   "Scythians",
+   "Proto-Scythian culture",
+   "Cimerians"
+  ],
+  "regions": [
+   "steppe"
+  ],
+  "capital": "None; nomadic royal camps",
+  "summary": "Iranian-speaking horse nomads of the Eurasian steppe, famous for gold animal-style art and rich kurgan burials. Herodotus devoted a whole book to them.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Herodotus, Histories, book 4"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Arzhan and Pazyryk kurgans; Solokha comb (Hermitage)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Arzhan",
+    "lat": 52.08,
+    "lon": 93.6
+   }
+  ]
+ },
+ {
+  "id": "celts",
+  "name": "Celtic peoples",
+  "start": -800,
+  "end": 100,
+  "peak": -300,
+  "color": "#6E8F6A",
+  "match": [
+   "Celts",
+   "Celtiberians",
+   "Celtic kingdoms"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Oppida such as Bibracte and Manching",
+  "summary": "Iron Age peoples of the Hallstatt and La Tène cultures who spread from Central Europe to Iberia, Britain and Anatolia (the Galatians). Rome conquered most of them by the first century CE.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Julius Caesar, Gallic War"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Hallstatt cemetery (from 1846); La Tène site, Lake Neuchâtel"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Hallstatt",
+    "lat": 47.56,
+    "lon": 13.65
+   },
+   {
+    "name": "Bibracte",
+    "lat": 46.92,
+    "lon": 4.04
+   }
+  ]
+ },
+ {
+  "id": "etruscans",
+  "name": "Etruscans",
+  "start": -900,
+  "end": -264,
+  "peak": -550,
+  "color": "#B07A5E",
+  "match": [],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Twelve-city league (Veii, Tarquinia, Cerveteri and others)",
+  "summary": "A non-Indo-European people of central Italy whose culture shaped early Rome. Rome absorbed their cities one by one, ending with Volsinii in 264 BCE.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Livy, books 1–10"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Painted tombs of Tarquinia; Cerveteri necropolis"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Tarquinia",
+    "lat": 42.25,
+    "lon": 11.76
+   },
+   {
+    "name": "Veii",
+    "lat": 42.02,
+    "lon": 12.4
+   }
+  ]
+ },
+ {
+  "id": "saba",
+  "name": "Saba (Sheba)",
+  "start": -1000,
+  "end": 275,
+  "peak": -600,
+  "color": "#B08A5E",
+  "match": [
+   "Saba"
+  ],
+  "regions": [
+   "mideast"
+  ],
+  "capital": "Marib",
+  "summary": "A South Arabian kingdom that grew rich on frankincense and myrrh, famous for the Marib Dam. Himyar conquered it around 275 CE.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Sabaean inscriptions (Old South Arabian script)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Marib Dam and Temple of Awwam"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Marib",
+    "lat": 15.4,
+    "lon": 45.32
+   }
+  ]
+ },
+ {
+  "id": "nabataeans",
+  "name": "Nabataean Kingdom",
+  "start": -312,
+  "end": 106,
+  "peak": 0,
+  "color": "#B66E58",
+  "match": [
+   "Nabatean Kingdom"
+  ],
+  "regions": [
+   "mideast"
+  ],
+  "capital": "Petra",
+  "summary": "Arab caravan traders who carved Petra from rose-red rock. Trajan annexed the kingdom as the province of Arabia in 106 CE.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Diodorus Siculus 19.94–100"
+   },
+   {
+    "kind": "primary",
+    "cite": "Strabo, Geography 16.4.21–26"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Petra excavations"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Petra",
+    "lat": 30.33,
+    "lon": 35.44
+   }
+  ]
+ },
+ {
+  "id": "himyar",
+  "name": "Himyarite Kingdom",
+  "start": -110,
+  "end": 525,
+  "peak": 400,
+  "color": "#9E7B55",
+  "match": [
+   "Himyarite Kingdom"
+  ],
+  "regions": [
+   "mideast"
+  ],
+  "capital": "Zafar",
+  "summary": "Dominant power of South Arabia in late antiquity whose rulers converted to Judaism. Aksum invaded and ended it around 525 CE.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Himyarite royal inscriptions (e.g., Ja 1028)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Martyrdom of Arethas (Greek, 6th c.)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Zafar",
+    "lat": 14.21,
+    "lon": 44.4
+   }
+  ]
+ },
+ {
+  "id": "dacia",
+  "name": "Dacia",
+  "start": -82,
+  "end": 106,
+  "peak": -50,
+  "color": "#8C7A6A",
+  "match": [
+   "Dacia",
+   "Dacians"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Sarmizegetusa Regia",
+  "summary": "A kingdom north of the Danube unified by Burebista and later Decebalus. Trajan conquered it in two wars (101–106 CE), commemorated on his column.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Cassius Dio 68.6–14"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Trajan's Column, Rome; Sarmizegetusa Regia (UNESCO)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Sarmizegetusa Regia",
+    "lat": 45.62,
+    "lon": 23.31
+   }
+  ]
+ },
+ {
+  "id": "pergamon",
+  "name": "Kingdom of Pergamon",
+  "start": -282,
+  "end": -133,
+  "peak": -190,
+  "color": "#5D7FA8",
+  "match": [
+   "Pergamon"
+  ],
+  "regions": [
+   "mideast"
+  ],
+  "capital": "Pergamon",
+  "summary": "A Hellenistic kingdom under the Attalid dynasty, Rome's ally against the Seleucids, famous for its library and the Great Altar. Attalus III bequeathed it to Rome.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Polybius; Strabo 13.4.1–2"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Pergamon Altar (Pergamonmuseum, Berlin)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Pergamon",
+    "lat": 39.13,
+    "lon": 27.18
+   }
+  ]
+ },
+ {
+  "id": "bactria",
+  "name": "Greco-Bactrian Kingdom",
+  "start": -256,
+  "end": -120,
+  "peak": -180,
+  "color": "#7E95C0",
+  "match": [
+   "Bactria"
+  ],
+  "regions": [
+   "steppe",
+   "southasia"
+  ],
+  "capital": "Bactra (Balkh)",
+  "summary": "The easternmost Greek state, founded by Diodotus I when he broke from the Seleucids. Its successors ruled in north-west India as the Indo-Greek kingdoms.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Strabo 11.11; Justin 41"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Ai Khanoum excavations; Greco-Bactrian coinage"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Balkh",
+    "lat": 36.76,
+    "lon": 66.9
+   }
+  ]
+ },
+ {
+  "id": "xiongnu",
+  "name": "Xiongnu",
+  "start": -209,
+  "end": 216,
+  "peak": -100,
+  "color": "#8A6E4A",
+  "match": [
+   "Xiongnu",
+   "Southern Xiongnu"
+  ],
+  "regions": [
+   "steppe"
+  ],
+  "capital": "Royal court in the Orkhon valley",
+  "summary": "The first great steppe empire, founded by Modu Chanyu, which forced the early Han dynasty to pay tribute. It split in 48 CE and its southern branch was absorbed into China.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Sima Qian, Shiji, ch. 110 'Account of the Xiongnu'"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Noin-Ula and Gol Mod elite tombs, Mongolia"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Noin-Ula",
+    "lat": 48.6,
+    "lon": 106.6
+   }
+  ]
+ },
+ {
+  "id": "kushan",
+  "name": "Kushan Empire",
+  "start": 30,
+  "end": 375,
+  "peak": 150,
+  "color": "#C98A5A",
+  "match": [
+   "Kushan Empire",
+   "Kushan Principalities"
+  ],
+  "regions": [
+   "southasia",
+   "steppe"
+  ],
+  "capital": "Purushapura (Peshawar), Mathura",
+  "summary": "A Central Asian dynasty that ruled from the Oxus to the Ganges at a crossroads of Silk Road trade. Under Kanishka it patronized Buddhism and Gandharan art.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Rabatak inscription of Kanishka (found 1993)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Hou Hanshu, ch. 118"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Surkh Kotal and Mathura sculpture"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Peshawar",
+    "lat": 34.01,
+    "lon": 71.58
+   },
+   {
+    "name": "Rabatak",
+    "lat": 36.1,
+    "lon": 68.6
+   }
+  ]
+ },
+ {
+  "id": "satavahana",
+  "name": "Satavahana Empire",
+  "start": -100,
+  "end": 220,
+  "peak": 100,
+  "color": "#B87D4A",
+  "match": [
+   "Satavahanihara"
+  ],
+  "regions": [
+   "southasia"
+  ],
+  "capital": "Pratishthana (Paithan)",
+  "summary": "A Deccan dynasty that controlled trade between the Roman world and India and patronized the Buddhist caves of western India.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Nasik cave inscriptions of Gautamiputra Satakarni"
+   },
+   {
+    "kind": "primary",
+    "cite": "Periplus of the Erythraean Sea"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Paithan",
+    "lat": 19.48,
+    "lon": 75.38
+   }
+  ]
+ },
+ {
+  "id": "teotihuacan",
+  "name": "Teotihuacan",
+  "start": -100,
+  "end": 550,
+  "peak": 450,
+  "color": "#C66A4A",
+  "match": [
+   "Teotihuacan"
+  ],
+  "regions": [
+   "americas"
+  ],
+  "capital": "Teotihuacan",
+  "summary": "A planned city of perhaps 100,000 people in the Valley of Mexico, with the Pyramids of the Sun and Moon. Its influence reached Maya cities such as Tikal in 378 CE.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Teotihuacan Mapping Project (R. Millon, 1960s)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Tikal Stela 31 (the 'entrada' of 378)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Teotihuacan",
+    "lat": 19.69,
+    "lon": -98.84
+   }
+  ]
+ },
+ {
+  "id": "moche",
+  "name": "Moche",
+  "start": 100,
+  "end": 800,
+  "peak": 500,
+  "color": "#C47F5A",
+  "match": [
+   "Moche"
+  ],
+  "regions": [
+   "americas"
+  ],
+  "capital": "Huacas del Sol y de la Luna",
+  "summary": "A society of the north coast of Peru famed for realistic portrait pottery, metalwork and adobe pyramids.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Royal tombs of Sipán (found 1987)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Huaca de la Luna excavations"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Sipán",
+    "lat": -6.8,
+    "lon": -79.6
+   }
+  ]
+ },
+ {
+  "id": "nazca",
+  "name": "Nazca",
+  "start": -100,
+  "end": 800,
+  "peak": 300,
+  "color": "#B89058",
+  "match": [
+   "Nazca",
+   "Paracas"
+  ],
+  "regions": [
+   "americas"
+  ],
+  "capital": "Cahuachi (ceremonial centre)",
+  "summary": "A culture of Peru's southern desert known for the Nazca Lines geoglyphs and polychrome pottery, successor to the Paracas culture.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Nazca Lines (studied by Maria Reiche from 1946); Cahuachi"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Nazca Lines",
+    "lat": -14.74,
+    "lon": -75.13
+   }
+  ]
+ },
+ {
+  "id": "chavin",
+  "name": "Chavín",
+  "start": -900,
+  "end": -200,
+  "peak": -500,
+  "color": "#9C8458",
+  "match": [
+   "Chavin"
+  ],
+  "regions": [
+   "americas"
+  ],
+  "capital": "Chavín de Huántar",
+  "summary": "An Andean religious and artistic horizon centred on the temple of Chavín de Huántar, whose style spread across Peru.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Chavín de Huántar, J. C. Tello (1919) and later excavations"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Chavín de Huántar",
+    "lat": -9.59,
+    "lon": -77.18
+   }
+  ]
+ },
+ {
+  "id": "zapotec",
+  "name": "Zapotec",
+  "start": -500,
+  "end": 1521,
+  "peak": 200,
+  "color": "#7A9A6A",
+  "match": [
+   "Zapotec",
+   "Zapotec Empire",
+   "Ben 'Zaa/Binnizá/Mén Diiste/Bene Xhon (Zapoteco)"
+  ],
+  "regions": [
+   "americas"
+  ],
+  "capital": "Monte Albán",
+  "summary": "A people of Oaxaca who built Monte Albán, one of Mesoamerica's first cities, and one of its earliest writing systems.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Monte Albán excavations by Alfonso Caso (1931–1958)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Monte Albán",
+    "lat": 17.04,
+    "lon": -96.77
+   }
+  ]
+ },
+ {
+  "id": "sui",
+  "name": "Sui dynasty",
+  "start": 581,
+  "end": 618,
+  "peak": 605,
+  "color": "#C47040",
+  "match": [
+   "Sui Empire"
+  ],
+  "regions": [
+   "eastasia"
+  ],
+  "capital": "Daxing (Chang'an), Luoyang",
+  "summary": "Reunified China in 589 after nearly four centuries of division and built the Grand Canal, but exhausted itself in wars against Goguryeo.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Book of Sui (Suishu, 636)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Daxing (Chang'an)",
+    "lat": 34.27,
+    "lon": 108.94
+   }
+  ]
+ },
+ {
+  "id": "gokturks",
+  "name": "Göktürk Khaganate",
+  "start": 552,
+  "end": 744,
+  "peak": 600,
+  "color": "#8E7E50",
+  "match": [
+   "Western Gokturk Khaganate"
+  ],
+  "regions": [
+   "steppe"
+  ],
+  "capital": "Ötüken (Orkhon valley)",
+  "summary": "The first Turkic empire, stretching from Manchuria to the Black Sea. It exchanged embassies with Byzantium (568) and allied with Heraclius against Persia.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Orkhon inscriptions (Kul Tigin and Bilge Khagan, 732–735)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Menander Protector, fragments (embassy of Zemarchus)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Orkhon inscriptions",
+    "lat": 47.56,
+    "lon": 102.83
+   }
+  ]
+ },
+ {
+  "id": "avars",
+  "name": "Avar Khaganate",
+  "start": 567,
+  "end": 822,
+  "peak": 600,
+  "color": "#7E6A48",
+  "match": [
+   "Avars"
+  ],
+  "regions": [
+   "steppe",
+   "europe"
+  ],
+  "capital": "Royal 'ring' on the Hungarian plain",
+  "summary": "Steppe horsemen who settled in the Carpathian Basin, extorted tribute from Byzantium and besieged Constantinople with the Persians in 626. Charlemagne's armies broke them in the 790s.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Menander Protector; Theophylact Simocatta, History"
+   },
+   {
+    "kind": "primary",
+    "cite": "Theodore Synkellos, homily on the siege of 626"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Avar cemeteries of the Carpathian Basin"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Hungarian plain",
+    "lat": 47.0,
+    "lon": 19.8
+   }
+  ]
+ },
+ {
+  "id": "slavs",
+  "name": "Early Slavs",
+  "start": 500,
+  "end": 900,
+  "peak": 650,
+  "color": "#7F8E6A",
+  "match": [
+   "Slavs",
+   "Proto-Slavs",
+   "Slavic tribes",
+   "Slavonic tribes",
+   "Moravians"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "capital": "None; tribal",
+  "summary": "Slavic-speaking groups spread across eastern and central Europe and into the Balkans from the sixth century, settling much of Greece and the Danube provinces.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Procopius, Wars 7.14"
+   },
+   {
+    "kind": "primary",
+    "cite": "Pseudo-Maurice, Strategikon, book 11"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Prague-Korchak pottery culture"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Danube frontier",
+    "lat": 44.5,
+    "lon": 24.0
+   }
+  ]
+ },
+ {
+  "id": "lombards",
+  "name": "Lombard Kingdom",
+  "start": 568,
+  "end": 774,
+  "peak": 700,
+  "color": "#A0865E",
+  "match": [
+   "Lombard principalities",
+   "Lombard duchies",
+   "Lombardy"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Pavia",
+  "summary": "A Germanic people who invaded Italy three years after Justinian's death, confining Byzantine rule to Ravenna, Rome and the south. Charlemagne conquered their kingdom in 774.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Paul the Deacon, History of the Lombards (late 8th c.)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Edict of Rothari (643)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Pavia",
+    "lat": 45.19,
+    "lon": 9.16
+   }
+  ]
+ },
+ {
+  "id": "rashidun",
+  "name": "Rashidun Caliphate",
+  "start": 632,
+  "end": 661,
+  "peak": 656,
+  "color": "#5A9E70",
+  "match": [],
+  "regions": [
+   "mideast"
+  ],
+  "capital": "Medina, then Kufa",
+  "summary": "The first four caliphs after Muhammad. Arab armies conquered Syria, Egypt and the Sasanian Empire in two decades, taking Byzantium's richest provinces.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "al-Baladhuri, Futuh al-Buldan"
+   },
+   {
+    "kind": "primary",
+    "cite": "al-Tabari, History of Prophets and Kings"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Medina",
+    "lat": 24.47,
+    "lon": 39.61
+   }
+  ]
+ },
+ {
+  "id": "bulgaria1",
+  "name": "First Bulgarian Empire",
+  "start": 681,
+  "end": 1018,
+  "peak": 917,
+  "color": "#4F8C7A",
+  "match": [
+   "Danube Bulgars",
+   "Bulgars",
+   "Bulgar Khanate"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Pliska, then Preslav, then Ohrid",
+  "summary": "Founded when Asparukh's Bulgars defeated Constantine IV south of the Danube. Under Krum and Symeon it repeatedly threatened Constantinople, until Basil II 'the Bulgar-slayer' annexed it in 1018.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Theophanes the Confessor, Chronographia"
+   },
+   {
+    "kind": "primary",
+    "cite": "Madara Rider inscriptions (8th c.)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Leo the Deacon; John Skylitzes, Synopsis"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Pliska and Preslav excavations"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Pliska",
+    "lat": 43.38,
+    "lon": 27.12
+   },
+   {
+    "name": "Preslav",
+    "lat": 43.16,
+    "lon": 26.82
+   },
+   {
+    "name": "Ohrid",
+    "lat": 41.12,
+    "lon": 20.8
+   }
+  ]
+ },
+ {
+  "id": "khazars",
+  "name": "Khazar Khaganate",
+  "start": 650,
+  "end": 969,
+  "peak": 850,
+  "color": "#93805A",
+  "match": [
+   "Khazars"
+  ],
+  "regions": [
+   "steppe"
+  ],
+  "capital": "Atil (on the lower Volga)",
+  "summary": "A Turkic khaganate between the Black Sea and the Caspian, Byzantium's ally against the Arabs. Its ruling elite adopted Judaism. Sviatoslav of Kiev destroyed it around 965–969.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Khazar Correspondence (10th c.)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Constantine VII, De Administrando Imperio"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Sarkel fortress (excavated by M. Artamonov)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Sarkel",
+    "lat": 47.7,
+    "lon": 42.2
+   }
+  ]
+ },
+ {
+  "id": "cordoba",
+  "name": "Emirate and Caliphate of Córdoba",
+  "start": 756,
+  "end": 1031,
+  "peak": 961,
+  "color": "#3F8A62",
+  "match": [
+   "Caliphate of Córdoba"
+  ],
+  "regions": [
+   "europe",
+   "mideast"
+  ],
+  "capital": "Córdoba",
+  "summary": "Founded by an Umayyad survivor, Abd al-Rahman I. In 929 Abd al-Rahman III claimed the caliphate, and Córdoba became the largest city in Western Europe before collapsing into taifa kingdoms.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ibn Hayyan, al-Muqtabis"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Great Mosque of Córdoba; Madinat al-Zahra"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Córdoba",
+    "lat": 37.88,
+    "lon": -4.78
+   }
+  ]
+ },
+ {
+  "id": "papal",
+  "name": "Papal States",
+  "start": 754,
+  "end": 1870,
+  "peak": 1500,
+  "color": "#C8B46A",
+  "match": [
+   "Papal States"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Rome",
+  "summary": "Territories in central Italy ruled by the popes, founded on Pepin's 'Donation' of former Byzantine lands. Italy annexed Rome in 1870.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Liber Pontificalis"
+   },
+   {
+    "kind": "primary",
+    "cite": "Donation of Pepin (756)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Rome (Lateran)",
+    "lat": 41.89,
+    "lon": 12.51
+   }
+  ]
+ },
+ {
+  "id": "vikings",
+  "name": "Norse and Vikings",
+  "start": 750,
+  "end": 1066,
+  "peak": 950,
+  "color": "#5E7FA0",
+  "match": [
+   "Danes",
+   "Kingdom of Norway",
+   "Swedes and Goths",
+   "Norsemen",
+   "Icelandic Commonwealth"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "capital": "None; Scandinavian chieftaincies and kingdoms",
+  "summary": "Scandinavian raiders, traders and settlers who reached from Dublin to Baghdad and Newfoundland. As Varangians they founded the Rus' state and served in the Byzantine emperor's guard.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Anglo-Saxon Chronicle"
+   },
+   {
+    "kind": "primary",
+    "cite": "Icelandic sagas (13th c.)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Runestones, e.g. the Greece runestones of Sweden"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Birka and Hedeby trading towns; Oseberg ship"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Birka",
+    "lat": 59.33,
+    "lon": 17.54
+   },
+   {
+    "name": "Hedeby",
+    "lat": 54.49,
+    "lon": 9.57
+   }
+  ]
+ },
+ {
+  "id": "tibet",
+  "name": "Tibetan Empire",
+  "start": 618,
+  "end": 842,
+  "peak": 780,
+  "color": "#9A7FA8",
+  "match": [
+   "Tibetan Empire"
+  ],
+  "regions": [
+   "eastasia"
+  ],
+  "capital": "Lhasa",
+  "summary": "Unified by Songtsen Gampo, Tibet fought the Tang for Central Asia and briefly occupied Chang'an in 763.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Old Tibetan Annals and Chronicle (Dunhuang manuscripts)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Sino-Tibetan treaty pillar, Lhasa (823)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Lhasa",
+    "lat": 29.65,
+    "lon": 91.12
+   }
+  ]
+ },
+ {
+  "id": "uyghurs",
+  "name": "Uyghur Khaganate",
+  "start": 744,
+  "end": 840,
+  "peak": 800,
+  "color": "#8C8A5A",
+  "match": [
+   "Uyghurs"
+  ],
+  "regions": [
+   "steppe"
+  ],
+  "capital": "Ordu-Baliq",
+  "summary": "Successor to the Göktürks on the Mongolian steppe, whose cavalry rescued the Tang during the An Lushan rebellion. The Kyrgyz destroyed it in 840.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Karabalgasun inscription"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Ordu-Baliq ruins, Orkhon valley"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Ordu-Baliq",
+    "lat": 47.43,
+    "lon": 102.66
+   }
+  ]
+ },
+ {
+  "id": "pala",
+  "name": "Pala Empire",
+  "start": 750,
+  "end": 1161,
+  "peak": 810,
+  "color": "#C0905A",
+  "match": [
+   "Palas"
+  ],
+  "regions": [
+   "southasia"
+  ],
+  "capital": "Pataliputra and other centres",
+  "summary": "Buddhist kings of Bengal and Bihar who patronized the great monastic universities of Nalanda and Vikramashila.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Khalimpur copper plate of Dharmapala"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Nalanda and Paharpur (Somapura) monasteries"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Nalanda",
+    "lat": 25.14,
+    "lon": 85.44
+   }
+  ]
+ },
+ {
+  "id": "rashtrakuta",
+  "name": "Rashtrakuta dynasty",
+  "start": 753,
+  "end": 982,
+  "peak": 880,
+  "color": "#B37A50",
+  "match": [
+   "Rashtrakuta",
+   "Rashtrakuta state"
+  ],
+  "regions": [
+   "southasia"
+  ],
+  "capital": "Manyakheta",
+  "summary": "A Deccan dynasty that the Arab traveller Sulaiman counted among the world's four great kingdoms. It built the rock-cut Kailasa temple at Ellora.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Akhbar al-Sin wa al-Hind (851)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Kailasa temple, Ellora"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Ellora",
+    "lat": 20.02,
+    "lon": 75.18
+   }
+  ]
+ },
+ {
+  "id": "great-moravia",
+  "name": "Great Moravia",
+  "start": 833,
+  "end": 907,
+  "peak": 880,
+  "color": "#7C9A82",
+  "match": [
+   "Great Moravia"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Mikulčice (probable)",
+  "summary": "The first major Slavic state in Central Europe, where the Byzantine missionaries Cyril and Methodius created a Slavonic liturgy and alphabet in 863. The Magyars overran it.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Life of Methodius (Old Church Slavonic)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Annals of Fulda"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Mikulčice stronghold excavations"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Mikulčice",
+    "lat": 48.8,
+    "lon": 17.05
+   }
+  ]
+ },
+ {
+  "id": "magyars",
+  "name": "Kingdom of Hungary",
+  "start": 895,
+  "end": 1526,
+  "peak": 1450,
+  "color": "#9E5E5E",
+  "match": [
+   "Magyars",
+   "Hungary",
+   "Kingdom of Hungary",
+   "Imperial Hungary"
+  ],
+  "regions": [
+   "europe",
+   "steppe"
+  ],
+  "capital": "Esztergom, Székesfehérvár, later Buda",
+  "summary": "Magyar tribes settled the Carpathian Basin in 895. Stephen I was crowned Christian king in 1000. The kingdom was a major Balkan power until the Ottomans destroyed its army at Mohács in 1526.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Constantine VII, De Administrando Imperio 38–40"
+   },
+   {
+    "kind": "primary",
+    "cite": "Gesta Hungarorum (c. 1200)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Holy Crown of Hungary"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Esztergom",
+    "lat": 47.79,
+    "lon": 18.74
+   },
+   {
+    "name": "Buda",
+    "lat": 47.5,
+    "lon": 19.03
+   }
+  ]
+ },
+ {
+  "id": "pechenegs",
+  "name": "Pechenegs",
+  "start": 850,
+  "end": 1091,
+  "peak": 950,
+  "color": "#8A7650",
+  "match": [
+   "Pechenegs"
+  ],
+  "regions": [
+   "steppe"
+  ],
+  "capital": "None; nomadic",
+  "summary": "Turkic nomads of the Black Sea steppe whom Byzantium paid to check the Rus' and Bulgars. Alexios I annihilated them at Levounion in 1091.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Constantine VII, De Administrando Imperio 1–8, 37"
+   },
+   {
+    "kind": "primary",
+    "cite": "Anna Komnene, Alexiad 8"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Black Sea steppe",
+    "lat": 47.0,
+    "lon": 33.0
+   }
+  ]
+ },
+ {
+  "id": "fatimid",
+  "name": "Fatimid Caliphate",
+  "start": 909,
+  "end": 1171,
+  "peak": 1000,
+  "color": "#3A9A8A",
+  "match": [
+   "Fatimid Caliphate"
+  ],
+  "regions": [
+   "mideast"
+  ],
+  "capital": "Mahdia, then Cairo (founded 969)",
+  "summary": "An Ismaili Shi'a caliphate that conquered Egypt and founded Cairo, rivalling both the Abbasids and Byzantium. Saladin ended it in 1171.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "al-Maqrizi, Itti'az al-Hunafa"
+   },
+   {
+    "kind": "primary",
+    "cite": "Cairo Geniza documents"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "al-Azhar Mosque (970)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Cairo",
+    "lat": 30.05,
+    "lon": 31.26
+   }
+  ]
+ },
+ {
+  "id": "liao",
+  "name": "Liao dynasty (Khitan)",
+  "start": 916,
+  "end": 1125,
+  "peak": 1050,
+  "color": "#9A8460",
+  "match": [
+   "Liao",
+   "Khitans"
+  ],
+  "regions": [
+   "eastasia",
+   "steppe"
+  ],
+  "capital": "Shangjing",
+  "summary": "A Khitan empire across Mongolia, Manchuria and northern China that extracted tribute from the Song. The Jurchen overthrew it. Its name gave 'Cathay' to European languages.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Liaoshi (History of Liao, 1344)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Treaty of Shanyuan (1005)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Shangjing",
+    "lat": 43.97,
+    "lon": 119.38
+   }
+  ]
+ },
+ {
+  "id": "goryeo",
+  "name": "Goryeo (Korea)",
+  "start": 918,
+  "end": 1392,
+  "peak": 1100,
+  "color": "#5E8EA8",
+  "match": [
+   "Goryeo",
+   "Korea",
+   "Silla"
+  ],
+  "regions": [
+   "eastasia"
+  ],
+  "capital": "Kaesong",
+  "summary": "The dynasty that gave Korea its name. It reunified the peninsula, printed the Tripitaka Koreana and endured Mongol overlordship.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Goryeosa (History of Goryeo, 1451)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Tripitaka Koreana woodblocks, Haeinsa"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Kaesong",
+    "lat": 37.97,
+    "lon": 126.55
+   }
+  ]
+ },
+ {
+  "id": "chola",
+  "name": "Chola Empire",
+  "start": 848,
+  "end": 1279,
+  "peak": 1030,
+  "color": "#C28048",
+  "match": [
+   "Chola Empire",
+   "Cholas",
+   "Chola"
+  ],
+  "regions": [
+   "southasia",
+   "eastasia"
+  ],
+  "capital": "Thanjavur, then Gangaikonda Cholapuram",
+  "summary": "A Tamil dynasty that conquered Sri Lanka and sent a naval expedition against Srivijaya in 1025. Its bronze sculptures and temples are among India's finest.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Chola copper-plate grants and temple inscriptions"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Brihadisvara temple, Thanjavur (1010)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Thanjavur",
+    "lat": 10.78,
+    "lon": 79.13
+   }
+  ]
+ },
+ {
+  "id": "srivijaya",
+  "name": "Srivijaya",
+  "start": 650,
+  "end": 1377,
+  "peak": 1000,
+  "color": "#4FA08A",
+  "match": [
+   "Srivijaya Empire"
+  ],
+  "regions": [
+   "eastasia"
+  ],
+  "capital": "Palembang",
+  "summary": "A Malay maritime empire controlling the Strait of Malacca, a centre of Buddhist learning visited by the Chinese pilgrim Yijing.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Kedukan Bukit inscription (683)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Yijing, Record of Buddhist Practices (691)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Palembang",
+    "lat": -2.98,
+    "lon": 104.76
+   }
+  ]
+ },
+ {
+  "id": "japan",
+  "name": "Japan (Yamato to Heian)",
+  "start": 250,
+  "end": 1185,
+  "peak": 1000,
+  "color": "#B86A6A",
+  "match": [
+   "Yamato",
+   "Japan",
+   "Imperial Japan (Fujiwara)"
+  ],
+  "regions": [
+   "eastasia"
+  ],
+  "capital": "Nara (710), then Heian-kyō (Kyoto, 794)",
+  "summary": "From the Yamato court of the great keyhole tombs to the Heian aristocracy of The Tale of Genji. Power passed to warrior clans after the Genpei War of 1180–85.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Nihon Shoki (720) and Kojiki (712)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Murasaki Shikibu, The Tale of Genji (c. 1010)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Daisen kofun, Sakai"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Nara",
+    "lat": 34.69,
+    "lon": 135.8
+   },
+   {
+    "name": "Kyoto",
+    "lat": 35.01,
+    "lon": 135.77
+   }
+  ]
+ },
+ {
+  "id": "toltec",
+  "name": "Toltec",
+  "start": 900,
+  "end": 1168,
+  "peak": 1000,
+  "color": "#B0704A",
+  "match": [
+   "Toltec Empire"
+  ],
+  "regions": [
+   "americas"
+  ],
+  "capital": "Tula (Tollan)",
+  "summary": "A central Mexican state centred on Tula, later idealized by the Aztecs as the source of civilization.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Annals of Cuauhtitlan (Nahuatl, 16th c.)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Tula excavations; Atlantean columns"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Tula",
+    "lat": 20.06,
+    "lon": -99.34
+   }
+  ]
+ },
+ {
+  "id": "wari",
+  "name": "Wari Empire",
+  "start": 600,
+  "end": 1000,
+  "peak": 800,
+  "color": "#A87A4E",
+  "match": [
+   "Huari Empire"
+  ],
+  "regions": [
+   "americas"
+  ],
+  "capital": "Wari (Ayacucho)",
+  "summary": "An Andean state with planned administrative centres and roads, a forerunner of Inca statecraft.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Wari site, Ayacucho; El Castillo de Huarmey royal tomb (found 2012)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Wari",
+    "lat": -13.06,
+    "lon": -74.2
+   }
+  ]
+ },
+ {
+  "id": "tiwanaku",
+  "name": "Tiwanaku",
+  "start": 500,
+  "end": 1000,
+  "peak": 800,
+  "color": "#8E8A6A",
+  "match": [],
+  "regions": [
+   "americas"
+  ],
+  "capital": "Tiwanaku",
+  "summary": "A ceremonial city near Lake Titicaca whose stone gateways and raised-field farming supported a wide sphere of influence.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Tiwanaku: Gateway of the Sun and Akapana pyramid"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Tiwanaku",
+    "lat": -16.55,
+    "lon": -68.67
+   }
+  ]
+ },
+ {
+  "id": "chimu",
+  "name": "Chimú",
+  "start": 900,
+  "end": 1470,
+  "peak": 1400,
+  "color": "#B88458",
+  "match": [
+   "Chimú Empire",
+   "Chimú"
+  ],
+  "regions": [
+   "americas"
+  ],
+  "capital": "Chan Chan",
+  "summary": "Coastal Peruvian kingdom whose capital Chan Chan was the largest adobe city in the Americas. The Inca conquered it around 1470.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Chan Chan (UNESCO)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Spanish colonial accounts of Chimú dynastic lists"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Chan Chan",
+    "lat": -8.11,
+    "lon": -79.07
+   }
+  ]
+ },
+ {
+  "id": "cahokia",
+  "name": "Mississippian culture (Cahokia)",
+  "start": 800,
+  "end": 1600,
+  "peak": 1100,
+  "color": "#8E9A6A",
+  "match": [],
+  "regions": [
+   "americas"
+  ],
+  "capital": "Cahokia",
+  "summary": "Maize-farming chiefdoms of the American Midwest and Southeast. Cahokia, near modern St. Louis, was the largest city north of Mexico around 1100, with the vast earthwork of Monks Mound.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Cahokia Mounds State Historic Site (UNESCO)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Mound 72 excavations (M. Fowler, 1967–71)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Cahokia",
+    "lat": 38.66,
+    "lon": -90.06
+   }
+  ]
+ },
+ {
+  "id": "puebloans",
+  "name": "Ancestral Puebloans",
+  "start": 700,
+  "end": 1300,
+  "peak": 1100,
+  "color": "#B49A6A",
+  "match": [
+   "Anasazi",
+   "Pueblos"
+  ],
+  "regions": [
+   "americas"
+  ],
+  "capital": "Chaco Canyon, Mesa Verde",
+  "summary": "Builders of the great houses of Chaco Canyon and the cliff dwellings of Mesa Verde. Severe drought helped drive migrations south around 1300.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Chaco Canyon great houses (Pueblo Bonito)"
+   },
+   {
+    "kind": "scholarship",
+    "cite": "Tree-ring dating of Mesa Verde cliff dwellings"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Pueblo Bonito",
+    "lat": 36.06,
+    "lon": -107.96
+   }
+  ]
+ },
+ {
+  "id": "kanem",
+  "name": "Kanem–Bornu",
+  "start": 700,
+  "end": 1893,
+  "peak": 1600,
+  "color": "#B08C52",
+  "match": [
+   "Kanem",
+   "Kanem-Bornu"
+  ],
+  "regions": [
+   "africa"
+  ],
+  "capital": "Njimi, later Ngazargamu",
+  "summary": "A Sahelian empire around Lake Chad ruled by the Sayfawa dynasty for about a thousand years, a key hub of trans-Saharan trade.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ahmad Furtu, chronicle of Mai Idris Alooma (1570s)"
+   },
+   {
+    "kind": "primary",
+    "cite": "al-Bakri (1068)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Ngazargamu",
+    "lat": 13.0,
+    "lon": 12.3
+   }
+  ]
+ },
+ {
+  "id": "makuria",
+  "name": "Makuria (Christian Nubia)",
+  "start": 500,
+  "end": 1400,
+  "peak": 1000,
+  "color": "#9A6E4E",
+  "match": [],
+  "regions": [
+   "africa"
+  ],
+  "capital": "Old Dongola",
+  "summary": "A Christian Nubian kingdom that defeated Arab invaders in 652 and signed the long-lasting Baqt treaty with Egypt.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "al-Maqrizi, citing the Baqt treaty"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Old Dongola and Faras cathedral paintings (Polish excavations)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Old Dongola",
+    "lat": 18.22,
+    "lon": 30.75
+   }
+  ]
+ },
+ {
+  "id": "ethiopia",
+  "name": "Ethiopian Empire",
+  "start": 1270,
+  "end": 1974,
+  "peak": 1550,
+  "color": "#A08048",
+  "match": [
+   "Ethiopia"
+  ],
+  "regions": [
+   "africa"
+  ],
+  "capital": "Mobile royal camp, later Gondar and Addis Ababa",
+  "summary": "The Solomonic dynasty claimed descent from Solomon and the Queen of Sheba. Its emperors ruled the Christian highlands for seven centuries.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Kebra Nagast (14th c.)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Royal chronicles of the Solomonic emperors"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Rock-hewn churches of Lalibela (Zagwe, c. 1200)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Lalibela",
+    "lat": 12.03,
+    "lon": 39.04
+   },
+   {
+    "name": "Gondar",
+    "lat": 12.61,
+    "lon": 37.47
+   }
+  ]
+ },
+ {
+  "id": "great-zimbabwe",
+  "name": "Great Zimbabwe",
+  "start": 1100,
+  "end": 1450,
+  "peak": 1350,
+  "color": "#9E7E4E",
+  "match": [
+   "Great Zimbabwe"
+  ],
+  "regions": [
+   "africa"
+  ],
+  "capital": "Great Zimbabwe",
+  "summary": "A Shona state whose capital's dry-stone enclosures held perhaps 18,000 people, wealthy from gold exports to the Swahili coast.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Great Zimbabwe ruins (UNESCO); Persian and Chinese ceramics found on site"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Great Zimbabwe",
+    "lat": -20.27,
+    "lon": 30.93
+   }
+  ]
+ },
+ {
+  "id": "swahili",
+  "name": "Swahili city-states",
+  "start": 800,
+  "end": 1500,
+  "peak": 1300,
+  "color": "#4E9A9A",
+  "match": [],
+  "regions": [
+   "africa"
+  ],
+  "capital": "Kilwa, Mombasa, Malindi, Mogadishu",
+  "summary": "Muslim trading towns of the East African coast linking African gold and ivory to the Indian Ocean world.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Kilwa Chronicle (16th c.)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ibn Battuta, Rihla (visited Kilwa 1331)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Great Mosque and Husuni Kubwa, Kilwa Kisiwani"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Kilwa Kisiwani",
+    "lat": -8.96,
+    "lon": 39.51
+   }
+  ]
+ },
+ {
+  "id": "benin",
+  "name": "Kingdom of Benin",
+  "start": 1180,
+  "end": 1897,
+  "peak": 1550,
+  "color": "#A85E48",
+  "match": [
+   "Benin"
+  ],
+  "regions": [
+   "africa"
+  ],
+  "capital": "Edo (Benin City)",
+  "summary": "A West African kingdom famous for its brass plaques and walled capital. A British punitive expedition sacked it in 1897 and looted the Benin Bronzes.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Portuguese accounts from 1485; Dapper, Description of Africa (1668)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Benin Bronzes; Benin earthworks"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Benin City",
+    "lat": 6.34,
+    "lon": 5.63
+   }
+  ]
+ },
+ {
+  "id": "kongo",
+  "name": "Kingdom of Kongo",
+  "start": 1390,
+  "end": 1914,
+  "peak": 1550,
+  "color": "#8E6A4A",
+  "match": [],
+  "regions": [
+   "africa"
+  ],
+  "capital": "Mbanza Kongo (São Salvador)",
+  "summary": "A central African kingdom whose king Afonso I (1509–1543) adopted Christianity and corresponded with Portugal and the Pope. The slave trade and civil war weakened it.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Letters of Afonso I to João III of Portugal (1526)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Mbanza Kongo",
+    "lat": -6.27,
+    "lon": 14.24
+   }
+  ]
+ },
+ {
+  "id": "oyo",
+  "name": "Oyo Empire",
+  "start": 1400,
+  "end": 1896,
+  "peak": 1750,
+  "color": "#B0784A",
+  "match": [
+   "Oyo"
+  ],
+  "regions": [
+   "africa"
+  ],
+  "capital": "Oyo-Ile",
+  "summary": "A Yoruba cavalry empire of the savanna that dominated the region of modern south-western Nigeria and Benin in the 17th–18th centuries.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Samuel Johnson, The History of the Yorubas (1897, from oral tradition)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Oyo-Ile",
+    "lat": 8.95,
+    "lon": 4.09
+   }
+  ]
+ },
+ {
+  "id": "ghaznavid",
+  "name": "Ghaznavid Empire",
+  "start": 977,
+  "end": 1186,
+  "peak": 1030,
+  "color": "#6E8A4E",
+  "match": [
+   "Ghaznavid Emirate"
+  ],
+  "regions": [
+   "mideast",
+   "southasia"
+  ],
+  "capital": "Ghazni",
+  "summary": "A Turkic dynasty whose sultan Mahmud raided deep into India. Its court sheltered the scholar al-Biruni and the poet Ferdowsi.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Abu'l-Fazl Bayhaqi, Tarikh-i Bayhaqi"
+   },
+   {
+    "kind": "primary",
+    "cite": "al-Biruni, Kitab al-Hind (c. 1030)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Ghazni",
+    "lat": 33.55,
+    "lon": 68.42
+   }
+  ]
+ },
+ {
+  "id": "seljuk",
+  "name": "Seljuk Turks",
+  "start": 1037,
+  "end": 1308,
+  "peak": 1092,
+  "color": "#5A8A5E",
+  "match": [
+   "Seljuk Empire",
+   "Seljuk Caliphate"
+  ],
+  "regions": [
+   "mideast",
+   "steppe"
+  ],
+  "capital": "Nishapur, Isfahan; Konya for the Sultanate of Rum",
+  "summary": "Oghuz Turks who took Baghdad in 1055 and broke Byzantine Anatolia at Manzikert in 1071. A branch founded the Sultanate of Rum at Konya, which dominated central Anatolia until Mongol conquest.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ibn al-Athir, al-Kamil fi al-Tarikh"
+   },
+   {
+    "kind": "primary",
+    "cite": "Nizam al-Mulk, Siyasatnama (Book of Government)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ibn Bibi, history of the Rum Seljuks"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Alaeddin Mosque and caravanserais of Anatolia"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Isfahan",
+    "lat": 32.66,
+    "lon": 51.68
+   },
+   {
+    "name": "Konya",
+    "lat": 37.87,
+    "lon": 32.49
+   }
+  ]
+ },
+ {
+  "id": "normans",
+  "name": "Normans in southern Italy and Sicily",
+  "start": 1030,
+  "end": 1194,
+  "peak": 1150,
+  "color": "#A06E7A",
+  "match": [],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Palermo",
+  "summary": "Norman adventurers took Byzantine Apulia (Bari fell in 1071) and Arab Sicily, then invaded the Byzantine Balkans under Robert Guiscard. Roger II made Sicily a kingdom in 1130.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Anna Komnene, Alexiad 1–6"
+   },
+   {
+    "kind": "primary",
+    "cite": "William of Apulia, Deeds of Robert Guiscard"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Cappella Palatina, Palermo"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Palermo",
+    "lat": 38.12,
+    "lon": 13.36
+   },
+   {
+    "name": "Bari",
+    "lat": 41.13,
+    "lon": 16.87
+   }
+  ]
+ },
+ {
+  "id": "cumans",
+  "name": "Cumans (Kipchaks)",
+  "start": 1050,
+  "end": 1240,
+  "peak": 1150,
+  "color": "#9A8A58",
+  "match": [
+   "Cuman Khanates",
+   "Cuman-Kipchak confederation"
+  ],
+  "regions": [
+   "steppe"
+  ],
+  "capital": "None; nomadic",
+  "summary": "Turkic nomads who replaced the Pechenegs on the western steppe, fought and allied with Byzantium, Rus' and Hungary, and helped found the Second Bulgarian Empire. The Mongols scattered them.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Codex Cumanicus (14th c.)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Rus' Primary Chronicle; Tale of Igor's Campaign"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Pontic steppe",
+    "lat": 47.5,
+    "lon": 36.0
+   }
+  ]
+ },
+ {
+  "id": "venice",
+  "name": "Republic of Venice",
+  "start": 697,
+  "end": 1797,
+  "peak": 1450,
+  "color": "#3E7FA0",
+  "match": [
+   "Venice"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Venice",
+  "summary": "A lagoon city that began as a Byzantine dependency and became a maritime empire. Byzantium's 1082 trade privileges enriched it, and its fleet steered the Fourth Crusade to Constantinople. Napoleon ended it in 1797.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Chrysobull of Alexios I for Venice (1082)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Geoffrey of Villehardouin, Conquest of Constantinople"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Basilica of San Marco and the looted Horses of St Mark"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Venice",
+    "lat": 45.44,
+    "lon": 12.34
+   }
+  ]
+ },
+ {
+  "id": "genoa",
+  "name": "Republic of Genoa",
+  "start": 1099,
+  "end": 1797,
+  "peak": 1300,
+  "color": "#7A5EA0",
+  "match": [
+   "Genoa"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Genoa",
+  "summary": "Venice's great commercial rival, which won privileges from Michael VIII in 1261 and held Galata across the Golden Horn and Caffa in Crimea.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Treaty of Nymphaeum (1261)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Annals of Caffaro (from 1099)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Genoa",
+    "lat": 44.41,
+    "lon": 8.93
+   },
+   {
+    "name": "Galata",
+    "lat": 41.03,
+    "lon": 28.97
+   }
+  ]
+ },
+ {
+  "id": "crusaders",
+  "name": "Crusader states",
+  "start": 1098,
+  "end": 1291,
+  "peak": 1150,
+  "color": "#C6B49A",
+  "match": [],
+  "regions": [
+   "mideast"
+  ],
+  "capital": "Jerusalem, later Acre",
+  "summary": "Kingdoms and counties founded by the First Crusade at Edessa, Antioch, Tripoli and Jerusalem. Saladin retook Jerusalem in 1187; the Mamluks took Acre, the last stronghold, in 1291.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "William of Tyre, History of Deeds Done Beyond the Sea"
+   },
+   {
+    "kind": "primary",
+    "cite": "Usama ibn Munqidh, Kitab al-I'tibar"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Krak des Chevaliers; Acre crusader city"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Jerusalem",
+    "lat": 31.78,
+    "lon": 35.23
+   },
+   {
+    "name": "Acre",
+    "lat": 32.92,
+    "lon": 35.07
+   }
+  ]
+ },
+ {
+  "id": "georgia",
+  "name": "Kingdom of Georgia",
+  "start": 1008,
+  "end": 1490,
+  "peak": 1200,
+  "color": "#A86A7A",
+  "match": [
+   "Georgia",
+   "Kingdom of Georgia",
+   "Georgian Kingdom"
+  ],
+  "regions": [
+   "mideast"
+  ],
+  "capital": "Kutaisi, then Tbilisi",
+  "summary": "United under the Bagrationi dynasty, Georgia peaked under David IV the Builder and Queen Tamar, who helped found the Empire of Trebizond in 1204.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Kartlis Tskhovreba (Georgian Chronicles)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Gelati Monastery (1106)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Tbilisi",
+    "lat": 41.69,
+    "lon": 44.8
+   }
+  ]
+ },
+ {
+  "id": "armenia",
+  "name": "Armenian kingdoms",
+  "start": -331,
+  "end": 1375,
+  "peak": 890,
+  "color": "#B27A6A",
+  "match": [
+   "Armenia",
+   "Caucasian Albania"
+  ],
+  "regions": [
+   "mideast"
+  ],
+  "capital": "Artaxata, Ani, later Sis in Cilicia",
+  "summary": "Armenia was a buffer contested by Rome and Persia and in 301 became the first state to adopt Christianity. The Bagratid kingdom fell to Byzantium in 1045, and the Cilician kingdom to the Mamluks in 1375. Several Byzantine emperors were of Armenian descent.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Movses Khorenatsi, History of the Armenians"
+   },
+   {
+    "kind": "primary",
+    "cite": "Aristakes Lastivertsi, History (on 11th-c. invasions)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Ani cathedral and walls"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Ani",
+    "lat": 40.51,
+    "lon": 43.57
+   },
+   {
+    "name": "Sis (Kozan)",
+    "lat": 37.45,
+    "lon": 35.82
+   }
+  ]
+ },
+ {
+  "id": "bulgaria2",
+  "name": "Second Bulgarian Empire",
+  "start": 1185,
+  "end": 1396,
+  "peak": 1235,
+  "color": "#5E9A82",
+  "match": [
+   "Bulgar Khanate"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Tarnovo",
+  "summary": "Founded when the brothers Peter and Asen revolted against Isaac II Angelos. Kaloyan captured the Latin emperor Baldwin I at Adrianople in 1205. It fell to the Ottomans in 1393–96.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Niketas Choniates, Historia"
+   },
+   {
+    "kind": "primary",
+    "cite": "Geoffrey of Villehardouin, Conquest of Constantinople"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Tsarevets fortress, Veliko Tarnovo"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Tarnovo",
+    "lat": 43.08,
+    "lon": 25.65
+   }
+  ]
+ },
+ {
+  "id": "serbia",
+  "name": "Medieval Serbia",
+  "start": 1166,
+  "end": 1459,
+  "peak": 1350,
+  "color": "#8A4E5E",
+  "match": [
+   "Serbia"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Ras, later Skopje and Prizren",
+  "summary": "Under the Nemanjić dynasty Serbia grew from a Byzantine vassal into the dominant Balkan power. Stefan Dušan was crowned 'Emperor of the Serbs and Greeks' in 1346. The Ottomans annexed the last Serbian despotate in 1459.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Dušan's Code (1349)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Lives of Serbian kings by Archbishop Danilo II"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Studenica and Visoki Dečani monasteries"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Studenica",
+    "lat": 43.49,
+    "lon": 20.53
+   },
+   {
+    "name": "Prizren",
+    "lat": 42.21,
+    "lon": 20.74
+   }
+  ]
+ },
+ {
+  "id": "latin-empire",
+  "name": "Latin Empire",
+  "start": 1204,
+  "end": 1261,
+  "peak": 1210,
+  "color": "#C4A0A0",
+  "match": [],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Constantinople",
+  "summary": "The crusader state set up after the Fourth Crusade sacked Constantinople, ruled by Flemish and French nobles, with Venice controlling much of the Aegean. Nicaea recaptured the city in 1261.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Geoffrey of Villehardouin, Conquest of Constantinople"
+   },
+   {
+    "kind": "primary",
+    "cite": "Robert de Clari, Conquest of Constantinople"
+   },
+   {
+    "kind": "primary",
+    "cite": "Niketas Choniates, Historia"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Constantinople",
+    "lat": 41.01,
+    "lon": 28.98
+   }
+  ]
+ },
+ {
+  "id": "nicaea",
+  "name": "Empire of Nicaea",
+  "start": 1204,
+  "end": 1261,
+  "peak": 1254,
+  "color": "#9A5AA8",
+  "match": [],
+  "regions": [
+   "mideast",
+   "europe"
+  ],
+  "capital": "Nicaea (İznik), Nymphaion",
+  "summary": "The most successful Byzantine successor state after 1204, built by Theodore I Laskaris and John III Vatatzes. Michael VIII Palaiologos retook Constantinople in 1261.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "George Akropolites, History"
+   },
+   {
+    "kind": "primary",
+    "cite": "George Pachymeres, History"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Nicaea (İznik)",
+    "lat": 40.43,
+    "lon": 29.72
+   },
+   {
+    "name": "Nymphaion",
+    "lat": 38.44,
+    "lon": 27.38
+   }
+  ]
+ },
+ {
+  "id": "trebizond",
+  "name": "Empire of Trebizond",
+  "start": 1204,
+  "end": 1461,
+  "peak": 1350,
+  "color": "#B47AB0",
+  "match": [
+   "Trebizond"
+  ],
+  "regions": [
+   "mideast"
+  ],
+  "capital": "Trebizond (Trabzon)",
+  "summary": "Founded by the Komnenos grandsons of Andronikos I with Georgian help. It outlasted Constantinople by eight years before surrendering to Mehmed II in 1461.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Michael Panaretos, Chronicle of Trebizond"
+   },
+   {
+    "kind": "primary",
+    "cite": "Bessarion, Encomium of Trebizond"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Hagia Sophia of Trebizond (13th c.)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Trebizond",
+    "lat": 41.0,
+    "lon": 39.72
+   }
+  ]
+ },
+ {
+  "id": "epirus",
+  "name": "Despotate of Epirus",
+  "start": 1205,
+  "end": 1479,
+  "peak": 1225,
+  "color": "#8E6AA8",
+  "match": [],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Arta",
+  "summary": "A Byzantine successor state in western Greece. Under Theodore Komnenos Doukas it took Thessalonica in 1224 and rivalled Nicaea, until defeat by Bulgaria at Klokotnitsa in 1230.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "George Akropolites, History"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Panagia Parigoritissa, Arta"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Arta",
+    "lat": 39.16,
+    "lon": 20.99
+   }
+  ]
+ },
+ {
+  "id": "ayyubid",
+  "name": "Ayyubid Sultanate",
+  "start": 1171,
+  "end": 1260,
+  "peak": 1190,
+  "color": "#5E8A6A",
+  "match": [],
+  "regions": [
+   "mideast"
+  ],
+  "capital": "Cairo, Damascus",
+  "summary": "Founded by Saladin, who ended the Fatimid caliphate, defeated the crusaders at Hattin and retook Jerusalem in 1187. Its Mamluk soldiers overthrew the dynasty in Egypt in 1250.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Baha al-Din ibn Shaddad, Life of Saladin"
+   },
+   {
+    "kind": "primary",
+    "cite": "Imad al-Din al-Isfahani"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Cairo Citadel"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Cairo Citadel",
+    "lat": 30.03,
+    "lon": 31.26
+   }
+  ]
+ },
+ {
+  "id": "mamluk",
+  "name": "Mamluk Sultanate",
+  "start": 1250,
+  "end": 1517,
+  "peak": 1330,
+  "color": "#4E7E66",
+  "match": [
+   "Mamluke Sultanate"
+  ],
+  "regions": [
+   "mideast"
+  ],
+  "capital": "Cairo",
+  "summary": "A regime of slave-soldiers that stopped the Mongols at Ain Jalut and expelled the last crusaders. The Ottomans conquered it in 1516–17.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "al-Maqrizi, Kitab al-Suluk"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ibn Iyas, Bada'i' al-Zuhur"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Cairo",
+    "lat": 30.04,
+    "lon": 31.24
+   }
+  ]
+ },
+ {
+  "id": "golden-horde",
+  "name": "Golden Horde",
+  "start": 1242,
+  "end": 1502,
+  "peak": 1340,
+  "color": "#7A6EA8",
+  "match": [
+   "Khanate of the Golden Horde",
+   "Golden Horde"
+  ],
+  "regions": [
+   "steppe"
+  ],
+  "capital": "Sarai",
+  "summary": "The north-western khanate of the Mongol Empire, overlord of the Rus' principalities and a trading partner of Byzantium, Genoa and Mamluk Egypt.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ibn Battuta, Rihla (visited 1332–33)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Russian chronicles"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Sarai excavations, lower Volga"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Sarai",
+    "lat": 47.0,
+    "lon": 46.6
+   }
+  ]
+ },
+ {
+  "id": "timurids",
+  "name": "Timurid Empire",
+  "start": 1370,
+  "end": 1507,
+  "peak": 1405,
+  "color": "#5E7EB0",
+  "match": [
+   "Timurid Empire",
+   "Timurid Emirates"
+  ],
+  "regions": [
+   "steppe",
+   "mideast"
+  ],
+  "capital": "Samarkand, later Herat",
+  "summary": "Timur's conquests devastated Persia, Syria and India. His victory at Ankara in 1402 nearly destroyed the Ottomans and bought Byzantium half a century. His heirs presided over a Persianate cultural flowering.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ruy González de Clavijo, Embassy to Tamerlane"
+   },
+   {
+    "kind": "primary",
+    "cite": "Sharaf al-Din Ali Yazdi, Zafarnama"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Registan and Gur-e-Amir, Samarkand"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Samarkand",
+    "lat": 39.65,
+    "lon": 66.97
+   }
+  ]
+ },
+ {
+  "id": "lithuania",
+  "name": "Grand Duchy of Lithuania",
+  "start": 1236,
+  "end": 1795,
+  "peak": 1430,
+  "color": "#6A9A7A",
+  "match": [
+   "Lithuania",
+   "Poland-Lithuania",
+   "Polish–Lithuanian Commonwealth"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Vilnius",
+  "summary": "Europe's last pagan state became, after union with Poland, one of the largest states in Europe, stretching from the Baltic to the Black Sea.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Letters of Grand Duke Gediminas (1323)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Union of Lublin (1569)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Vilnius",
+    "lat": 54.69,
+    "lon": 25.28
+   }
+  ]
+ },
+ {
+  "id": "poland",
+  "name": "Kingdom of Poland",
+  "start": 966,
+  "end": 1795,
+  "peak": 1600,
+  "color": "#B85A6A",
+  "match": [
+   "Poland"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Gniezno, Kraków, later Warsaw",
+  "summary": "From Mieszko I's baptism in 966 to the Polish–Lithuanian Commonwealth. Partitioned out of existence by Russia, Prussia and Austria in 1795.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Gallus Anonymus, Gesta principum Polonorum"
+   },
+   {
+    "kind": "primary",
+    "cite": "Dagome iudex (c. 991)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Kraków",
+    "lat": 50.06,
+    "lon": 19.94
+   }
+  ]
+ },
+ {
+  "id": "teutonic",
+  "name": "Teutonic Order state",
+  "start": 1226,
+  "end": 1525,
+  "peak": 1400,
+  "color": "#9E9E8A",
+  "match": [
+   "Teutonic Knights",
+   "Prussians"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Marienburg (Malbork)",
+  "summary": "A crusading order that conquered the pagan Prussians and ruled the southern Baltic. It was defeated at Grunwald in 1410 and secularized as the Duchy of Prussia in 1525.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Peter of Dusburg, Chronicle of the Prussian Land"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Malbork Castle"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Malbork",
+    "lat": 54.04,
+    "lon": 19.03
+   }
+  ]
+ },
+ {
+  "id": "novgorod",
+  "name": "Novgorod Republic",
+  "start": 1136,
+  "end": 1478,
+  "peak": 1300,
+  "color": "#6A8AB0",
+  "match": [
+   "Novgorod",
+   "Principality of Novgorod"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Novgorod",
+  "summary": "A merchant republic of northern Rus' with an elected prince, trading with the Hanseatic League. Ivan III annexed it to Muscovy in 1478.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Novgorod First Chronicle"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Birch-bark letters (over 1,000 found since 1951)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Novgorod",
+    "lat": 58.52,
+    "lon": 31.27
+   }
+  ]
+ },
+ {
+  "id": "france",
+  "name": "Kingdom of France",
+  "start": 987,
+  "end": 1792,
+  "peak": 1680,
+  "color": "#4E6EA8",
+  "match": [
+   "Kingdom of France",
+   "France"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Paris",
+  "summary": "From Hugh Capet's election to the monarchy's fall in the Revolution. French crusaders led the Fourth Crusade, and French dynasties ruled Latin Constantinople and Achaea.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Grandes Chroniques de France"
+   },
+   {
+    "kind": "primary",
+    "cite": "Joinville, Life of Saint Louis"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Paris",
+    "lat": 48.86,
+    "lon": 2.35
+   }
+  ]
+ },
+ {
+  "id": "castile",
+  "name": "Crown of Castile",
+  "start": 1065,
+  "end": 1516,
+  "peak": 1492,
+  "color": "#C08A3A",
+  "match": [
+   "Castile",
+   "Castilla",
+   "Castille"
+  ],
+  "regions": [
+   "europe"
+  ],
+  "capital": "Burgos, Toledo, Valladolid",
+  "summary": "The leading kingdom of the Christian reconquest of Iberia. With Aragon it formed the core of the Spanish monarchy after the marriage of Isabella and Ferdinand.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Cantar de mio Cid"
+   },
+   {
+    "kind": "primary",
+    "cite": "Siete Partidas of Alfonso X"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Toledo",
+    "lat": 39.86,
+    "lon": -4.02
+   },
+   {
+    "name": "Burgos",
+    "lat": 42.34,
+    "lon": -3.7
+   }
+  ]
+ },
+ {
+  "id": "almoravid",
+  "name": "Almoravid and Almohad empires",
+  "start": 1040,
+  "end": 1269,
+  "peak": 1150,
+  "color": "#4E8A72",
+  "match": [
+   "Almoravid dynasty",
+   "Almohad Caliphate"
+  ],
+  "regions": [
+   "mideast",
+   "africa"
+  ],
+  "capital": "Marrakesh",
+  "summary": "Two successive Berber religious-reform empires that ruled the Maghreb and al-Andalus, halting the Christian advance in Iberia for a century and a half.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ibn Abi Zar, Rawd al-Qirtas"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ibn Khaldun, Kitab al-'Ibar"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Koutoubia Mosque, Marrakesh"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Marrakesh",
+    "lat": 31.63,
+    "lon": -7.99
+   }
+  ]
+ },
+ {
+  "id": "khwarazm",
+  "name": "Khwarazmian Empire",
+  "start": 1077,
+  "end": 1231,
+  "peak": 1215,
+  "color": "#7A9A5A",
+  "match": [
+   "Khwarazmian dynasty"
+  ],
+  "regions": [
+   "steppe",
+   "mideast"
+  ],
+  "capital": "Gurganj, later Samarkand",
+  "summary": "A Central Asian power whose shah provoked Chinggis Khan by killing his envoys in 1218, bringing the Mongol storm to the Islamic world.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ata-Malik Juvayni, History of the World Conqueror"
+   },
+   {
+    "kind": "primary",
+    "cite": "al-Nasawi, Life of Jalal al-Din"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Konye-Urgench",
+    "lat": 42.33,
+    "lon": 59.15
+   }
+  ]
+ },
+ {
+  "id": "xixia",
+  "name": "Western Xia",
+  "start": 1038,
+  "end": 1227,
+  "peak": 1150,
+  "color": "#A0866A",
+  "match": [
+   "Xixia"
+  ],
+  "regions": [
+   "eastasia"
+  ],
+  "capital": "Xingqing (Yinchuan)",
+  "summary": "A Tangut state on the Silk Road with its own script, destroyed by Chinggis Khan in 1227.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Tangut documents from Khara-Khoto (found 1908)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Western Xia imperial tombs, Yinchuan"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Yinchuan",
+    "lat": 38.47,
+    "lon": 106.27
+   }
+  ]
+ },
+ {
+  "id": "jin",
+  "name": "Jin dynasty (Jurchen)",
+  "start": 1115,
+  "end": 1234,
+  "peak": 1180,
+  "color": "#8A9A6A",
+  "match": [
+   "Jin Empire"
+  ],
+  "regions": [
+   "eastasia"
+  ],
+  "capital": "Zhongdu (Beijing), later Kaifeng",
+  "summary": "Jurchen conquerors who destroyed the Liao and took northern China from the Song in 1127. The Mongols ended it in 1234.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Jinshi (History of Jin, 1344)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Zhongdu",
+    "lat": 39.9,
+    "lon": 116.4
+   }
+  ]
+ },
+ {
+  "id": "champa",
+  "name": "Champa",
+  "start": 192,
+  "end": 1832,
+  "peak": 1000,
+  "color": "#7EA08A",
+  "match": [
+   "Champa",
+   "Champa City States"
+  ],
+  "regions": [
+   "eastasia"
+  ],
+  "capital": "Indrapura, Vijaya",
+  "summary": "Cham kingdoms on the coast of central Vietnam, rivals of the Khmer and Đại Việt, known for brick temples such as My Son.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Cham inscriptions in Sanskrit and Old Cham"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "My Son sanctuary (UNESCO)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "My Son",
+    "lat": 15.76,
+    "lon": 108.12
+   }
+  ]
+ },
+ {
+  "id": "daiviet",
+  "name": "Đại Việt",
+  "start": 939,
+  "end": 1802,
+  "peak": 1450,
+  "color": "#B05E58",
+  "match": [
+   "Annam"
+  ],
+  "regions": [
+   "eastasia"
+  ],
+  "capital": "Thăng Long (Hanoi)",
+  "summary": "The independent Vietnamese state from Ngô Quyền's victory at Bạch Đằng in 938 onward. It repelled three Mongol invasions and expanded south at Champa's expense.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Đại Việt sử ký toàn thư (1479)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Thăng Long (Hanoi)",
+    "lat": 21.03,
+    "lon": 105.84
+   }
+  ]
+ },
+ {
+  "id": "pagan",
+  "name": "Pagan Kingdom",
+  "start": 849,
+  "end": 1297,
+  "peak": 1150,
+  "color": "#B0805A",
+  "match": [
+   "Pagan",
+   "Kingdom of Pagan"
+  ],
+  "regions": [
+   "eastasia"
+  ],
+  "capital": "Bagan",
+  "summary": "The first Burmese empire, which filled the plain of Bagan with more than 2,000 surviving Buddhist temples.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Myazedi inscription (1113)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Bagan temples (UNESCO)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Bagan",
+    "lat": 21.17,
+    "lon": 94.86
+   }
+  ]
+ },
+ {
+  "id": "majapahit",
+  "name": "Majapahit",
+  "start": 1293,
+  "end": 1527,
+  "peak": 1350,
+  "color": "#5E9A7A",
+  "match": [],
+  "regions": [
+   "eastasia"
+  ],
+  "capital": "Trowulan",
+  "summary": "A Javanese thalassocracy that claimed overlordship of much of the Indonesian archipelago under the minister Gajah Mada.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Nagarakretagama (1365)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Trowulan archaeological site"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Trowulan",
+    "lat": -7.56,
+    "lon": 112.38
+   }
+  ]
+ },
+ {
+  "id": "ayutthaya",
+  "name": "Ayutthaya Kingdom",
+  "start": 1351,
+  "end": 1767,
+  "peak": 1650,
+  "color": "#9A7AB0",
+  "match": [
+   "Ayutthaya",
+   "Sukhothai",
+   "Kingdom of Sukhotai"
+  ],
+  "regions": [
+   "eastasia"
+  ],
+  "capital": "Ayutthaya",
+  "summary": "A Siamese kingdom that sacked Angkor in 1431 and became a cosmopolitan trading hub, until Burmese armies destroyed its capital in 1767.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Royal Chronicles of Ayutthaya"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Ayutthaya historical park (UNESCO)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Ayutthaya",
+    "lat": 14.35,
+    "lon": 100.57
+   }
+  ]
+ },
+ {
+  "id": "vijayanagara",
+  "name": "Vijayanagara Empire",
+  "start": 1336,
+  "end": 1646,
+  "peak": 1520,
+  "color": "#C0784A",
+  "match": [],
+  "regions": [
+   "southasia"
+  ],
+  "capital": "Vijayanagara (Hampi)",
+  "summary": "A south Indian Hindu empire whose capital at Hampi astonished Persian and Portuguese visitors. It was defeated at Talikota in 1565.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Domingo Paes, account of Vijayanagara (c. 1520)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Abdur Razzaq, embassy narrative (1443)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Hampi ruins (UNESCO)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Hampi",
+    "lat": 15.34,
+    "lon": 76.46
+   }
+  ]
+ },
+ {
+  "id": "mixtec",
+  "name": "Mixtec kingdoms",
+  "start": 900,
+  "end": 1522,
+  "peak": 1100,
+  "color": "#8AA06A",
+  "match": [
+   "Mixtec Empire",
+   "Mixtecs",
+   "Ñuu Savi (Mixtecapan)"
+  ],
+  "regions": [
+   "americas"
+  ],
+  "capital": "Tilantongo, Tututepec",
+  "summary": "City-kingdoms of Oaxaca whose screenfold codices record genealogies, such as that of the 11th-century ruler Eight Deer Jaguar Claw.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Codex Zouche-Nuttall; Codex Bodley"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Tomb 7, Monte Albán (Mixtec gold, found 1932)"
+   }
+  ],
+  "sites": [
+   {
+    "name": "Tilantongo",
+    "lat": 17.25,
+    "lon": -97.29
+   }
+  ]
+ }
+]

@@ -1,0 +1,2204 @@
+[
+ {
+  "id": "constantinople",
+  "names": [
+   {
+    "name": "Byzantion",
+    "until": 329
+   },
+   {
+    "name": "Constantinople",
+    "until": 1453
+   },
+   {
+    "name": "Istanbul",
+    "until": null
+   }
+  ],
+  "lat": 41.01,
+  "lon": 28.98,
+  "rank": 1,
+  "from": -657,
+  "to": null
+ },
+ {
+  "id": "thessalonica",
+  "names": [
+   {
+    "name": "Thessalonica",
+    "until": 1430
+   },
+   {
+    "name": "Selanik",
+    "until": 1912
+   },
+   {
+    "name": "Thessaloniki",
+    "until": null
+   }
+  ],
+  "lat": 40.64,
+  "lon": 22.94,
+  "rank": 2,
+  "from": -315,
+  "to": null
+ },
+ {
+  "id": "adrianople",
+  "names": [
+   {
+    "name": "Hadrianopolis",
+    "until": 1369
+   },
+   {
+    "name": "Edirne",
+    "until": null
+   }
+  ],
+  "lat": 41.68,
+  "lon": 26.56,
+  "rank": 2,
+  "from": 125,
+  "to": null
+ },
+ {
+  "id": "nicaea",
+  "names": [
+   {
+    "name": "Nicaea",
+    "until": 1331
+   },
+   {
+    "name": "İznik",
+    "until": null
+   }
+  ],
+  "lat": 40.43,
+  "lon": 29.72,
+  "rank": 2,
+  "from": -300,
+  "to": null
+ },
+ {
+  "id": "nicomedia",
+  "names": [
+   {
+    "name": "Nicomedia",
+    "until": 1337
+   },
+   {
+    "name": "İzmit",
+    "until": null
+   }
+  ],
+  "lat": 40.77,
+  "lon": 29.92,
+  "rank": 3,
+  "from": -264,
+  "to": null
+ },
+ {
+  "id": "chalcedon",
+  "names": [
+   {
+    "name": "Chalcedon",
+    "until": 1453
+   },
+   {
+    "name": "Kadıköy",
+    "until": null
+   }
+  ],
+  "lat": 40.99,
+  "lon": 29.03,
+  "rank": 3,
+  "from": -685,
+  "to": null
+ },
+ {
+  "id": "prusa",
+  "names": [
+   {
+    "name": "Prusa",
+    "until": 1326
+   },
+   {
+    "name": "Bursa",
+    "until": null
+   }
+  ],
+  "lat": 40.19,
+  "lon": 29.06,
+  "rank": 2,
+  "from": -200,
+  "to": null
+ },
+ {
+  "id": "kyzikos",
+  "names": [
+   {
+    "name": "Kyzikos",
+    "until": null
+   }
+  ],
+  "lat": 40.38,
+  "lon": 27.88,
+  "rank": 3,
+  "from": -756,
+  "to": 1300
+ },
+ {
+  "id": "abydos",
+  "names": [
+   {
+    "name": "Abydos",
+    "until": null
+   }
+  ],
+  "lat": 40.2,
+  "lon": 26.4,
+  "rank": 3,
+  "from": -700,
+  "to": 1350
+ },
+ {
+  "id": "gallipoli",
+  "names": [
+   {
+    "name": "Kallipolis",
+    "until": 1354
+   },
+   {
+    "name": "Gelibolu",
+    "until": null
+   }
+  ],
+  "lat": 40.41,
+  "lon": 26.67,
+  "rank": 3,
+  "from": -500,
+  "to": null
+ },
+ {
+  "id": "philippopolis",
+  "names": [
+   {
+    "name": "Philippopolis",
+    "until": 1363
+   },
+   {
+    "name": "Plovdiv",
+    "until": null
+   }
+  ],
+  "lat": 42.14,
+  "lon": 24.75,
+  "rank": 3,
+  "from": -340,
+  "to": null
+ },
+ {
+  "id": "serdica",
+  "names": [
+   {
+    "name": "Serdica",
+    "until": 809
+   },
+   {
+    "name": "Sredets",
+    "until": 1382
+   },
+   {
+    "name": "Sofia",
+    "until": null
+   }
+  ],
+  "lat": 42.7,
+  "lon": 23.32,
+  "rank": 2,
+  "from": -29,
+  "to": null
+ },
+ {
+  "id": "singidunum",
+  "names": [
+   {
+    "name": "Singidunum",
+    "until": 878
+   },
+   {
+    "name": "Belgrade",
+    "until": null
+   }
+  ],
+  "lat": 44.82,
+  "lon": 20.46,
+  "rank": 2,
+  "from": -279,
+  "to": null
+ },
+ {
+  "id": "sirmium",
+  "names": [
+   {
+    "name": "Sirmium",
+    "until": 582
+   }
+  ],
+  "lat": 44.97,
+  "lon": 19.61,
+  "rank": 3,
+  "from": -100,
+  "to": 582
+ },
+ {
+  "id": "dyrrhachium",
+  "names": [
+   {
+    "name": "Dyrrhachium",
+    "until": 1501
+   },
+   {
+    "name": "Durrës",
+    "until": null
+   }
+  ],
+  "lat": 41.32,
+  "lon": 19.45,
+  "rank": 2,
+  "from": -627,
+  "to": null
+ },
+ {
+  "id": "ohrid",
+  "names": [
+   {
+    "name": "Ohrid",
+    "until": null
+   }
+  ],
+  "lat": 41.12,
+  "lon": 20.8,
+  "rank": 3,
+  "from": -350,
+  "to": null
+ },
+ {
+  "id": "pliska",
+  "names": [
+   {
+    "name": "Pliska",
+    "until": 893
+   }
+  ],
+  "lat": 43.38,
+  "lon": 27.12,
+  "rank": 3,
+  "from": 681,
+  "to": 1000
+ },
+ {
+  "id": "preslav",
+  "names": [
+   {
+    "name": "Preslav",
+    "until": null
+   }
+  ],
+  "lat": 43.16,
+  "lon": 26.82,
+  "rank": 3,
+  "from": 893,
+  "to": 1388
+ },
+ {
+  "id": "tarnovo",
+  "names": [
+   {
+    "name": "Tarnovo",
+    "until": null
+   }
+  ],
+  "lat": 43.08,
+  "lon": 25.65,
+  "rank": 3,
+  "from": 1185,
+  "to": null
+ },
+ {
+  "id": "dorostolon",
+  "names": [
+   {
+    "name": "Durostorum",
+    "until": 680
+   },
+   {
+    "name": "Dorostolon",
+    "until": 1388
+   },
+   {
+    "name": "Silistra",
+    "until": null
+   }
+  ],
+  "lat": 44.12,
+  "lon": 27.26,
+  "rank": 3,
+  "from": 100,
+  "to": null
+ },
+ {
+  "id": "varna",
+  "names": [
+   {
+    "name": "Odessos",
+    "until": 680
+   },
+   {
+    "name": "Varna",
+    "until": null
+   }
+  ],
+  "lat": 43.21,
+  "lon": 27.91,
+  "rank": 3,
+  "from": -570,
+  "to": null
+ },
+ {
+  "id": "athens",
+  "names": [
+   {
+    "name": "Athens",
+    "until": null
+   }
+  ],
+  "lat": 37.97,
+  "lon": 23.73,
+  "rank": 1,
+  "from": -3000,
+  "to": null
+ },
+ {
+  "id": "corinth",
+  "names": [
+   {
+    "name": "Corinth",
+    "until": null
+   }
+  ],
+  "lat": 37.91,
+  "lon": 22.88,
+  "rank": 3,
+  "from": -900,
+  "to": null
+ },
+ {
+  "id": "thebes-gr",
+  "names": [
+   {
+    "name": "Thebes",
+    "until": null
+   }
+  ],
+  "lat": 38.32,
+  "lon": 23.32,
+  "rank": 3,
+  "from": -1600,
+  "to": null
+ },
+ {
+  "id": "mistras",
+  "names": [
+   {
+    "name": "Mistras",
+    "until": 1460
+   }
+  ],
+  "lat": 37.07,
+  "lon": 22.37,
+  "rank": 3,
+  "from": 1249,
+  "to": 1830
+ },
+ {
+  "id": "monemvasia",
+  "names": [
+   {
+    "name": "Monemvasia",
+    "until": null
+   }
+  ],
+  "lat": 36.69,
+  "lon": 23.05,
+  "rank": 3,
+  "from": 583,
+  "to": null
+ },
+ {
+  "id": "patras",
+  "names": [
+   {
+    "name": "Patras",
+    "until": null
+   }
+  ],
+  "lat": 38.25,
+  "lon": 21.73,
+  "rank": 3,
+  "from": -500,
+  "to": null
+ },
+ {
+  "id": "arta",
+  "names": [
+   {
+    "name": "Arta",
+    "until": null
+   }
+  ],
+  "lat": 39.16,
+  "lon": 20.99,
+  "rank": 3,
+  "from": 1205,
+  "to": null
+ },
+ {
+  "id": "sparta",
+  "names": [
+   {
+    "name": "Sparta",
+    "until": null
+   }
+  ],
+  "lat": 37.07,
+  "lon": 22.43,
+  "rank": 2,
+  "from": -900,
+  "to": 1249
+ },
+ {
+  "id": "ephesus",
+  "names": [
+   {
+    "name": "Ephesus",
+    "until": null
+   }
+  ],
+  "lat": 37.94,
+  "lon": 27.34,
+  "rank": 2,
+  "from": -1000,
+  "to": 1426
+ },
+ {
+  "id": "smyrna",
+  "names": [
+   {
+    "name": "Smyrna",
+    "until": 1930
+   },
+   {
+    "name": "İzmir",
+    "until": null
+   }
+  ],
+  "lat": 38.42,
+  "lon": 27.14,
+  "rank": 2,
+  "from": -1000,
+  "to": null
+ },
+ {
+  "id": "sardis",
+  "names": [
+   {
+    "name": "Sardis",
+    "until": null
+   }
+  ],
+  "lat": 38.49,
+  "lon": 28.04,
+  "rank": 3,
+  "from": -1200,
+  "to": 1402
+ },
+ {
+  "id": "pergamon-c",
+  "names": [
+   {
+    "name": "Pergamon",
+    "until": null
+   }
+  ],
+  "lat": 39.13,
+  "lon": 27.18,
+  "rank": 3,
+  "from": -400,
+  "to": 1300
+ },
+ {
+  "id": "philadelphia",
+  "names": [
+   {
+    "name": "Philadelphia",
+    "until": 1390
+   },
+   {
+    "name": "Alaşehir",
+    "until": null
+   }
+  ],
+  "lat": 38.35,
+  "lon": 28.52,
+  "rank": 3,
+  "from": -189,
+  "to": null
+ },
+ {
+  "id": "dorylaeum",
+  "names": [
+   {
+    "name": "Dorylaeum",
+    "until": 1240
+   },
+   {
+    "name": "Eskişehir",
+    "until": null
+   }
+  ],
+  "lat": 39.78,
+  "lon": 30.52,
+  "rank": 3,
+  "from": -300,
+  "to": null
+ },
+ {
+  "id": "amorium",
+  "names": [
+   {
+    "name": "Amorium",
+    "until": null
+   }
+  ],
+  "lat": 39.02,
+  "lon": 31.29,
+  "rank": 3,
+  "from": -300,
+  "to": 1100
+ },
+ {
+  "id": "ankyra",
+  "names": [
+   {
+    "name": "Ankyra",
+    "until": 1354
+   },
+   {
+    "name": "Ankara",
+    "until": null
+   }
+  ],
+  "lat": 39.94,
+  "lon": 32.86,
+  "rank": 2,
+  "from": -300,
+  "to": null
+ },
+ {
+  "id": "iconium",
+  "names": [
+   {
+    "name": "Iconium",
+    "until": 1076
+   },
+   {
+    "name": "Konya",
+    "until": null
+   }
+  ],
+  "lat": 37.87,
+  "lon": 32.49,
+  "rank": 2,
+  "from": -800,
+  "to": null
+ },
+ {
+  "id": "caesarea-cap",
+  "names": [
+   {
+    "name": "Caesarea (Cappadocia)",
+    "until": 1074
+   },
+   {
+    "name": "Kayseri",
+    "until": null
+   }
+  ],
+  "lat": 38.72,
+  "lon": 35.49,
+  "rank": 3,
+  "from": -300,
+  "to": null
+ },
+ {
+  "id": "attaleia",
+  "names": [
+   {
+    "name": "Attaleia",
+    "until": 1207
+   },
+   {
+    "name": "Antalya",
+    "until": null
+   }
+  ],
+  "lat": 36.89,
+  "lon": 30.71,
+  "rank": 3,
+  "from": -150,
+  "to": null
+ },
+ {
+  "id": "tarsus",
+  "names": [
+   {
+    "name": "Tarsus",
+    "until": null
+   }
+  ],
+  "lat": 36.92,
+  "lon": 34.89,
+  "rank": 3,
+  "from": -1000,
+  "to": null
+ },
+ {
+  "id": "trebizond",
+  "names": [
+   {
+    "name": "Trapezous",
+    "until": 1204
+   },
+   {
+    "name": "Trebizond",
+    "until": 1461
+   },
+   {
+    "name": "Trabzon",
+    "until": null
+   }
+  ],
+  "lat": 41.0,
+  "lon": 39.72,
+  "rank": 2,
+  "from": -756,
+  "to": null
+ },
+ {
+  "id": "sinope",
+  "names": [
+   {
+    "name": "Sinope",
+    "until": null
+   }
+  ],
+  "lat": 42.02,
+  "lon": 35.15,
+  "rank": 3,
+  "from": -630,
+  "to": null
+ },
+ {
+  "id": "melitene",
+  "names": [
+   {
+    "name": "Melitene",
+    "until": 1515
+   },
+   {
+    "name": "Malatya",
+    "until": null
+   }
+  ],
+  "lat": 38.35,
+  "lon": 38.31,
+  "rank": 3,
+  "from": -700,
+  "to": null
+ },
+ {
+  "id": "theodosiopolis",
+  "names": [
+   {
+    "name": "Theodosiopolis",
+    "until": 1071
+   },
+   {
+    "name": "Erzurum",
+    "until": null
+   }
+  ],
+  "lat": 39.9,
+  "lon": 41.27,
+  "rank": 3,
+  "from": 415,
+  "to": null
+ },
+ {
+  "id": "manzikert",
+  "names": [
+   {
+    "name": "Manzikert",
+    "until": null
+   }
+  ],
+  "lat": 39.14,
+  "lon": 42.54,
+  "rank": 3,
+  "from": 800,
+  "to": null
+ },
+ {
+  "id": "ani",
+  "names": [
+   {
+    "name": "Ani",
+    "until": null
+   }
+  ],
+  "lat": 40.51,
+  "lon": 43.57,
+  "rank": 3,
+  "from": 500,
+  "to": 1300
+ },
+ {
+  "id": "tbilisi",
+  "names": [
+   {
+    "name": "Tbilisi",
+    "until": null
+   }
+  ],
+  "lat": 41.69,
+  "lon": 44.8,
+  "rank": 2,
+  "from": 450,
+  "to": null
+ },
+ {
+  "id": "edessa",
+  "names": [
+   {
+    "name": "Edessa",
+    "until": 1144
+   },
+   {
+    "name": "Urfa",
+    "until": null
+   }
+  ],
+  "lat": 37.16,
+  "lon": 38.79,
+  "rank": 2,
+  "from": -304,
+  "to": null
+ },
+ {
+  "id": "nisibis",
+  "names": [
+   {
+    "name": "Nisibis",
+    "until": null
+   }
+  ],
+  "lat": 37.07,
+  "lon": 41.21,
+  "rank": 3,
+  "from": -300,
+  "to": null
+ },
+ {
+  "id": "dara",
+  "names": [
+   {
+    "name": "Dara",
+    "until": null
+   }
+  ],
+  "lat": 37.18,
+  "lon": 40.95,
+  "rank": 3,
+  "from": 505,
+  "to": 640
+ },
+ {
+  "id": "cherson",
+  "names": [
+   {
+    "name": "Chersonesos",
+    "until": null
+   }
+  ],
+  "lat": 44.61,
+  "lon": 33.49,
+  "rank": 3,
+  "from": -528,
+  "to": 1399
+ },
+ {
+  "id": "caffa",
+  "names": [
+   {
+    "name": "Theodosia",
+    "until": 1266
+   },
+   {
+    "name": "Caffa",
+    "until": 1475
+   },
+   {
+    "name": "Kefe",
+    "until": 1783
+   },
+   {
+    "name": "Feodosia",
+    "until": null
+   }
+  ],
+  "lat": 45.03,
+  "lon": 35.38,
+  "rank": 3,
+  "from": -600,
+  "to": null
+ },
+ {
+  "id": "antioch",
+  "names": [
+   {
+    "name": "Antioch",
+    "until": null
+   }
+  ],
+  "lat": 36.2,
+  "lon": 36.16,
+  "rank": 1,
+  "from": -300,
+  "to": null
+ },
+ {
+  "id": "damascus",
+  "names": [
+   {
+    "name": "Damascus",
+    "until": null
+   }
+  ],
+  "lat": 33.51,
+  "lon": 36.29,
+  "rank": 1,
+  "from": -2000,
+  "to": null
+ },
+ {
+  "id": "aleppo",
+  "names": [
+   {
+    "name": "Aleppo",
+    "until": null
+   }
+  ],
+  "lat": 36.2,
+  "lon": 37.16,
+  "rank": 2,
+  "from": -2500,
+  "to": null
+ },
+ {
+  "id": "jerusalem",
+  "names": [
+   {
+    "name": "Jerusalem",
+    "until": 130
+   },
+   {
+    "name": "Aelia Capitolina",
+    "until": 324
+   },
+   {
+    "name": "Jerusalem",
+    "until": null
+   }
+  ],
+  "lat": 31.78,
+  "lon": 35.23,
+  "rank": 1,
+  "from": -1800,
+  "to": null
+ },
+ {
+  "id": "tyre",
+  "names": [
+   {
+    "name": "Tyre",
+    "until": null
+   }
+  ],
+  "lat": 33.27,
+  "lon": 35.2,
+  "rank": 2,
+  "from": -2750,
+  "to": null
+ },
+ {
+  "id": "acre",
+  "names": [
+   {
+    "name": "Ptolemais",
+    "until": 637
+   },
+   {
+    "name": "Acre",
+    "until": null
+   }
+  ],
+  "lat": 32.92,
+  "lon": 35.07,
+  "rank": 3,
+  "from": -1500,
+  "to": null
+ },
+ {
+  "id": "caesarea-mar",
+  "names": [
+   {
+    "name": "Caesarea Maritima",
+    "until": null
+   }
+  ],
+  "lat": 32.5,
+  "lon": 34.89,
+  "rank": 3,
+  "from": -22,
+  "to": 1265
+ },
+ {
+  "id": "palmyra",
+  "names": [
+   {
+    "name": "Palmyra",
+    "until": null
+   }
+  ],
+  "lat": 34.55,
+  "lon": 38.27,
+  "rank": 3,
+  "from": -1000,
+  "to": 273
+ },
+ {
+  "id": "ctesiphon",
+  "names": [
+   {
+    "name": "Ctesiphon",
+    "until": null
+   }
+  ],
+  "lat": 33.09,
+  "lon": 44.58,
+  "rank": 1,
+  "from": -120,
+  "to": 800
+ },
+ {
+  "id": "baghdad",
+  "names": [
+   {
+    "name": "Baghdad",
+    "until": null
+   }
+  ],
+  "lat": 33.31,
+  "lon": 44.36,
+  "rank": 1,
+  "from": 762,
+  "to": null
+ },
+ {
+  "id": "babylon",
+  "names": [
+   {
+    "name": "Babylon",
+    "until": null
+   }
+  ],
+  "lat": 32.54,
+  "lon": 44.42,
+  "rank": 1,
+  "from": -2300,
+  "to": 100
+ },
+ {
+  "id": "nineveh",
+  "names": [
+   {
+    "name": "Nineveh",
+    "until": null
+   }
+  ],
+  "lat": 36.36,
+  "lon": 43.15,
+  "rank": 1,
+  "from": -3000,
+  "to": -612
+ },
+ {
+  "id": "assur",
+  "names": [
+   {
+    "name": "Assur",
+    "until": null
+   }
+  ],
+  "lat": 35.46,
+  "lon": 43.26,
+  "rank": 2,
+  "from": -2600,
+  "to": -614
+ },
+ {
+  "id": "ur",
+  "names": [
+   {
+    "name": "Ur",
+    "until": null
+   }
+  ],
+  "lat": 30.96,
+  "lon": 46.1,
+  "rank": 1,
+  "from": -3800,
+  "to": -500
+ },
+ {
+  "id": "uruk",
+  "names": [
+   {
+    "name": "Uruk",
+    "until": null
+   }
+  ],
+  "lat": 31.32,
+  "lon": 45.64,
+  "rank": 1,
+  "from": -4000,
+  "to": -300
+ },
+ {
+  "id": "susa",
+  "names": [
+   {
+    "name": "Susa",
+    "until": null
+   }
+  ],
+  "lat": 32.19,
+  "lon": 48.26,
+  "rank": 2,
+  "from": -4000,
+  "to": 1200
+ },
+ {
+  "id": "persepolis",
+  "names": [
+   {
+    "name": "Persepolis",
+    "until": null
+   }
+  ],
+  "lat": 29.93,
+  "lon": 52.89,
+  "rank": 1,
+  "from": -518,
+  "to": -330
+ },
+ {
+  "id": "isfahan",
+  "names": [
+   {
+    "name": "Isfahan",
+    "until": null
+   }
+  ],
+  "lat": 32.66,
+  "lon": 51.68,
+  "rank": 2,
+  "from": -500,
+  "to": null
+ },
+ {
+  "id": "merv",
+  "names": [
+   {
+    "name": "Merv",
+    "until": null
+   }
+  ],
+  "lat": 37.66,
+  "lon": 62.19,
+  "rank": 2,
+  "from": -500,
+  "to": 1221
+ },
+ {
+  "id": "samarkand",
+  "names": [
+   {
+    "name": "Maracanda",
+    "until": -329
+   },
+   {
+    "name": "Samarkand",
+    "until": null
+   }
+  ],
+  "lat": 39.65,
+  "lon": 66.97,
+  "rank": 2,
+  "from": -700,
+  "to": null
+ },
+ {
+  "id": "mosul",
+  "names": [
+   {
+    "name": "Mosul",
+    "until": null
+   }
+  ],
+  "lat": 36.34,
+  "lon": 43.13,
+  "rank": 3,
+  "from": 600,
+  "to": null
+ },
+ {
+  "id": "mecca",
+  "names": [
+   {
+    "name": "Mecca",
+    "until": null
+   }
+  ],
+  "lat": 21.42,
+  "lon": 39.83,
+  "rank": 1,
+  "from": 400,
+  "to": null
+ },
+ {
+  "id": "medina",
+  "names": [
+   {
+    "name": "Yathrib",
+    "until": 622
+   },
+   {
+    "name": "Medina",
+    "until": null
+   }
+  ],
+  "lat": 24.47,
+  "lon": 39.61,
+  "rank": 2,
+  "from": -500,
+  "to": null
+ },
+ {
+  "id": "hattusa",
+  "names": [
+   {
+    "name": "Hattusa",
+    "until": null
+   }
+  ],
+  "lat": 40.02,
+  "lon": 34.62,
+  "rank": 1,
+  "from": -1700,
+  "to": -1185
+ },
+ {
+  "id": "troy-c",
+  "names": [
+   {
+    "name": "Troy",
+    "until": null
+   }
+  ],
+  "lat": 39.96,
+  "lon": 26.24,
+  "rank": 2,
+  "from": -3000,
+  "to": 500
+ },
+ {
+  "id": "alexandria",
+  "names": [
+   {
+    "name": "Alexandria",
+    "until": null
+   }
+  ],
+  "lat": 31.2,
+  "lon": 29.92,
+  "rank": 1,
+  "from": -331,
+  "to": null
+ },
+ {
+  "id": "memphis",
+  "names": [
+   {
+    "name": "Memphis",
+    "until": null
+   }
+  ],
+  "lat": 29.85,
+  "lon": 31.25,
+  "rank": 1,
+  "from": -3100,
+  "to": 640
+ },
+ {
+  "id": "thebes-eg",
+  "names": [
+   {
+    "name": "Thebes",
+    "until": null
+   }
+  ],
+  "lat": 25.7,
+  "lon": 32.64,
+  "rank": 1,
+  "from": -2100,
+  "to": -27
+ },
+ {
+  "id": "cairo",
+  "names": [
+   {
+    "name": "Fustat",
+    "until": 968
+   },
+   {
+    "name": "Cairo",
+    "until": null
+   }
+  ],
+  "lat": 30.04,
+  "lon": 31.24,
+  "rank": 1,
+  "from": 641,
+  "to": null
+ },
+ {
+  "id": "carthage",
+  "names": [
+   {
+    "name": "Carthage",
+    "until": -146
+   },
+   {
+    "name": "Carthage (Roman)",
+    "until": 698
+   }
+  ],
+  "lat": 36.85,
+  "lon": 10.32,
+  "rank": 1,
+  "from": -814,
+  "to": 698
+ },
+ {
+  "id": "tunis",
+  "names": [
+   {
+    "name": "Tunis",
+    "until": null
+   }
+  ],
+  "lat": 36.81,
+  "lon": 10.18,
+  "rank": 3,
+  "from": 698,
+  "to": null
+ },
+ {
+  "id": "kairouan",
+  "names": [
+   {
+    "name": "Kairouan",
+    "until": null
+   }
+  ],
+  "lat": 35.68,
+  "lon": 10.1,
+  "rank": 3,
+  "from": 670,
+  "to": null
+ },
+ {
+  "id": "hippo",
+  "names": [
+   {
+    "name": "Hippo Regius",
+    "until": null
+   }
+  ],
+  "lat": 36.88,
+  "lon": 7.75,
+  "rank": 3,
+  "from": -400,
+  "to": 700
+ },
+ {
+  "id": "meroe",
+  "names": [
+   {
+    "name": "Meroë",
+    "until": null
+   }
+  ],
+  "lat": 16.94,
+  "lon": 33.75,
+  "rank": 2,
+  "from": -800,
+  "to": 350
+ },
+ {
+  "id": "aksum",
+  "names": [
+   {
+    "name": "Aksum",
+    "until": null
+   }
+  ],
+  "lat": 14.13,
+  "lon": 38.72,
+  "rank": 2,
+  "from": 100,
+  "to": null
+ },
+ {
+  "id": "timbuktu",
+  "names": [
+   {
+    "name": "Timbuktu",
+    "until": null
+   }
+  ],
+  "lat": 16.77,
+  "lon": -3.0,
+  "rank": 2,
+  "from": 1100,
+  "to": null
+ },
+ {
+  "id": "gao",
+  "names": [
+   {
+    "name": "Gao",
+    "until": null
+   }
+  ],
+  "lat": 16.27,
+  "lon": -0.04,
+  "rank": 3,
+  "from": 800,
+  "to": null
+ },
+ {
+  "id": "kilwa",
+  "names": [
+   {
+    "name": "Kilwa",
+    "until": null
+   }
+  ],
+  "lat": -8.96,
+  "lon": 39.51,
+  "rank": 3,
+  "from": 900,
+  "to": 1600
+ },
+ {
+  "id": "great-zimbabwe-c",
+  "names": [
+   {
+    "name": "Great Zimbabwe",
+    "until": null
+   }
+  ],
+  "lat": -20.27,
+  "lon": 30.93,
+  "rank": 3,
+  "from": 1100,
+  "to": 1450
+ },
+ {
+  "id": "marrakesh",
+  "names": [
+   {
+    "name": "Marrakesh",
+    "until": null
+   }
+  ],
+  "lat": 31.63,
+  "lon": -7.99,
+  "rank": 2,
+  "from": 1070,
+  "to": null
+ },
+ {
+  "id": "rome",
+  "names": [
+   {
+    "name": "Rome",
+    "until": null
+   }
+  ],
+  "lat": 41.89,
+  "lon": 12.49,
+  "rank": 1,
+  "from": -753,
+  "to": null
+ },
+ {
+  "id": "ravenna",
+  "names": [
+   {
+    "name": "Ravenna",
+    "until": null
+   }
+  ],
+  "lat": 44.42,
+  "lon": 12.2,
+  "rank": 2,
+  "from": -200,
+  "to": null
+ },
+ {
+  "id": "milan",
+  "names": [
+   {
+    "name": "Mediolanum",
+    "until": 500
+   },
+   {
+    "name": "Milan",
+    "until": null
+   }
+  ],
+  "lat": 45.46,
+  "lon": 9.19,
+  "rank": 2,
+  "from": -400,
+  "to": null
+ },
+ {
+  "id": "naples",
+  "names": [
+   {
+    "name": "Neapolis",
+    "until": 600
+   },
+   {
+    "name": "Naples",
+    "until": null
+   }
+  ],
+  "lat": 40.85,
+  "lon": 14.27,
+  "rank": 2,
+  "from": -600,
+  "to": null
+ },
+ {
+  "id": "syracuse",
+  "names": [
+   {
+    "name": "Syracuse",
+    "until": null
+   }
+  ],
+  "lat": 37.08,
+  "lon": 15.29,
+  "rank": 2,
+  "from": -734,
+  "to": null
+ },
+ {
+  "id": "palermo",
+  "names": [
+   {
+    "name": "Panormus",
+    "until": 831
+   },
+   {
+    "name": "Palermo",
+    "until": null
+   }
+  ],
+  "lat": 38.12,
+  "lon": 13.36,
+  "rank": 2,
+  "from": -734,
+  "to": null
+ },
+ {
+  "id": "bari",
+  "names": [
+   {
+    "name": "Bari",
+    "until": null
+   }
+  ],
+  "lat": 41.13,
+  "lon": 16.87,
+  "rank": 3,
+  "from": -300,
+  "to": null
+ },
+ {
+  "id": "pavia",
+  "names": [
+   {
+    "name": "Ticinum",
+    "until": 568
+   },
+   {
+    "name": "Pavia",
+    "until": null
+   }
+  ],
+  "lat": 45.19,
+  "lon": 9.16,
+  "rank": 3,
+  "from": -89,
+  "to": null
+ },
+ {
+  "id": "venice-c",
+  "names": [
+   {
+    "name": "Venice",
+    "until": null
+   }
+  ],
+  "lat": 45.44,
+  "lon": 12.34,
+  "rank": 2,
+  "from": 697,
+  "to": null
+ },
+ {
+  "id": "genoa-c",
+  "names": [
+   {
+    "name": "Genoa",
+    "until": null
+   }
+  ],
+  "lat": 44.41,
+  "lon": 8.93,
+  "rank": 3,
+  "from": -500,
+  "to": null
+ },
+ {
+  "id": "amalfi",
+  "names": [
+   {
+    "name": "Amalfi",
+    "until": null
+   }
+  ],
+  "lat": 40.63,
+  "lon": 14.6,
+  "rank": 3,
+  "from": 839,
+  "to": null
+ },
+ {
+  "id": "aachen",
+  "names": [
+   {
+    "name": "Aachen",
+    "until": null
+   }
+  ],
+  "lat": 50.78,
+  "lon": 6.08,
+  "rank": 3,
+  "from": 765,
+  "to": null
+ },
+ {
+  "id": "paris",
+  "names": [
+   {
+    "name": "Lutetia",
+    "until": 360
+   },
+   {
+    "name": "Paris",
+    "until": null
+   }
+  ],
+  "lat": 48.86,
+  "lon": 2.35,
+  "rank": 1,
+  "from": -52,
+  "to": null
+ },
+ {
+  "id": "london",
+  "names": [
+   {
+    "name": "Londinium",
+    "until": 410
+   },
+   {
+    "name": "London",
+    "until": null
+   }
+  ],
+  "lat": 51.51,
+  "lon": -0.13,
+  "rank": 1,
+  "from": 47,
+  "to": null
+ },
+ {
+  "id": "cordoba",
+  "names": [
+   {
+    "name": "Corduba",
+    "until": 711
+   },
+   {
+    "name": "Córdoba",
+    "until": null
+   }
+  ],
+  "lat": 37.88,
+  "lon": -4.78,
+  "rank": 2,
+  "from": -169,
+  "to": null
+ },
+ {
+  "id": "toledo",
+  "names": [
+   {
+    "name": "Toledo",
+    "until": null
+   }
+  ],
+  "lat": 39.86,
+  "lon": -4.02,
+  "rank": 3,
+  "from": -190,
+  "to": null
+ },
+ {
+  "id": "trier",
+  "names": [
+   {
+    "name": "Augusta Treverorum",
+    "until": 480
+   },
+   {
+    "name": "Trier",
+    "until": null
+   }
+  ],
+  "lat": 49.75,
+  "lon": 6.64,
+  "rank": 3,
+  "from": -16,
+  "to": null
+ },
+ {
+  "id": "vienna",
+  "names": [
+   {
+    "name": "Vindobona",
+    "until": 800
+   },
+   {
+    "name": "Vienna",
+    "until": null
+   }
+  ],
+  "lat": 48.21,
+  "lon": 16.37,
+  "rank": 2,
+  "from": 1,
+  "to": null
+ },
+ {
+  "id": "buda",
+  "names": [
+   {
+    "name": "Aquincum",
+    "until": 430
+   },
+   {
+    "name": "Buda",
+    "until": null
+   }
+  ],
+  "lat": 47.5,
+  "lon": 19.03,
+  "rank": 3,
+  "from": 90,
+  "to": null
+ },
+ {
+  "id": "kiev",
+  "names": [
+   {
+    "name": "Kiev",
+    "until": null
+   }
+  ],
+  "lat": 50.45,
+  "lon": 30.52,
+  "rank": 1,
+  "from": 850,
+  "to": null
+ },
+ {
+  "id": "novgorod-c",
+  "names": [
+   {
+    "name": "Novgorod",
+    "until": null
+   }
+  ],
+  "lat": 58.52,
+  "lon": 31.27,
+  "rank": 2,
+  "from": 859,
+  "to": null
+ },
+ {
+  "id": "moscow",
+  "names": [
+   {
+    "name": "Moscow",
+    "until": null
+   }
+  ],
+  "lat": 55.75,
+  "lon": 37.62,
+  "rank": 1,
+  "from": 1147,
+  "to": null
+ },
+ {
+  "id": "itil",
+  "names": [
+   {
+    "name": "Atil",
+    "until": null
+   }
+  ],
+  "lat": 46.4,
+  "lon": 48.0,
+  "rank": 3,
+  "from": 750,
+  "to": 970
+ },
+ {
+  "id": "sarai",
+  "names": [
+   {
+    "name": "Sarai",
+    "until": null
+   }
+  ],
+  "lat": 47.0,
+  "lon": 46.6,
+  "rank": 3,
+  "from": 1250,
+  "to": 1480
+ },
+ {
+  "id": "karakorum",
+  "names": [
+   {
+    "name": "Karakorum",
+    "until": null
+   }
+  ],
+  "lat": 47.2,
+  "lon": 102.82,
+  "rank": 2,
+  "from": 1220,
+  "to": 1388
+ },
+ {
+  "id": "pataliputra",
+  "names": [
+   {
+    "name": "Pataliputra",
+    "until": 1541
+   },
+   {
+    "name": "Patna",
+    "until": null
+   }
+  ],
+  "lat": 25.61,
+  "lon": 85.14,
+  "rank": 1,
+  "from": -490,
+  "to": null
+ },
+ {
+  "id": "delhi",
+  "names": [
+   {
+    "name": "Delhi",
+    "until": null
+   }
+  ],
+  "lat": 28.61,
+  "lon": 77.21,
+  "rank": 1,
+  "from": 1052,
+  "to": null
+ },
+ {
+  "id": "taxila",
+  "names": [
+   {
+    "name": "Taxila",
+    "until": null
+   }
+  ],
+  "lat": 33.75,
+  "lon": 72.79,
+  "rank": 3,
+  "from": -1000,
+  "to": 500
+ },
+ {
+  "id": "vijayanagara-c",
+  "names": [
+   {
+    "name": "Vijayanagara",
+    "until": null
+   }
+  ],
+  "lat": 15.34,
+  "lon": 76.46,
+  "rank": 3,
+  "from": 1336,
+  "to": 1565
+ },
+ {
+  "id": "thanjavur",
+  "names": [
+   {
+    "name": "Thanjavur",
+    "until": null
+   }
+  ],
+  "lat": 10.78,
+  "lon": 79.13,
+  "rank": 3,
+  "from": 850,
+  "to": null
+ },
+ {
+  "id": "changan",
+  "names": [
+   {
+    "name": "Chang'an",
+    "until": 904
+   },
+   {
+    "name": "Xi'an",
+    "until": null
+   }
+  ],
+  "lat": 34.27,
+  "lon": 108.94,
+  "rank": 1,
+  "from": -202,
+  "to": null
+ },
+ {
+  "id": "luoyang",
+  "names": [
+   {
+    "name": "Luoyang",
+    "until": null
+   }
+  ],
+  "lat": 34.62,
+  "lon": 112.45,
+  "rank": 1,
+  "from": -1046,
+  "to": null
+ },
+ {
+  "id": "anyang",
+  "names": [
+   {
+    "name": "Yin (Anyang)",
+    "until": -1046
+   }
+  ],
+  "lat": 36.12,
+  "lon": 114.31,
+  "rank": 1,
+  "from": -1300,
+  "to": -1046
+ },
+ {
+  "id": "kaifeng",
+  "names": [
+   {
+    "name": "Kaifeng",
+    "until": null
+   }
+  ],
+  "lat": 34.8,
+  "lon": 114.31,
+  "rank": 1,
+  "from": 800,
+  "to": null
+ },
+ {
+  "id": "hangzhou",
+  "names": [
+   {
+    "name": "Hangzhou",
+    "until": null
+   }
+  ],
+  "lat": 30.27,
+  "lon": 120.16,
+  "rank": 2,
+  "from": 600,
+  "to": null
+ },
+ {
+  "id": "nanjing",
+  "names": [
+   {
+    "name": "Jiankang",
+    "until": 589
+   },
+   {
+    "name": "Nanjing",
+    "until": null
+   }
+  ],
+  "lat": 32.06,
+  "lon": 118.79,
+  "rank": 1,
+  "from": 229,
+  "to": null
+ },
+ {
+  "id": "beijing",
+  "names": [
+   {
+    "name": "Zhongdu",
+    "until": 1215
+   },
+   {
+    "name": "Khanbaliq",
+    "until": 1368
+   },
+   {
+    "name": "Beijing",
+    "until": null
+   }
+  ],
+  "lat": 39.9,
+  "lon": 116.4,
+  "rank": 1,
+  "from": 1153,
+  "to": null
+ },
+ {
+  "id": "nara",
+  "names": [
+   {
+    "name": "Nara",
+    "until": null
+   }
+  ],
+  "lat": 34.69,
+  "lon": 135.8,
+  "rank": 2,
+  "from": 710,
+  "to": null
+ },
+ {
+  "id": "kyoto",
+  "names": [
+   {
+    "name": "Heian-kyō",
+    "until": 1180
+   },
+   {
+    "name": "Kyoto",
+    "until": null
+   }
+  ],
+  "lat": 35.01,
+  "lon": 135.77,
+  "rank": 1,
+  "from": 794,
+  "to": null
+ },
+ {
+  "id": "angkor",
+  "names": [
+   {
+    "name": "Angkor",
+    "until": null
+   }
+  ],
+  "lat": 13.41,
+  "lon": 103.87,
+  "rank": 1,
+  "from": 802,
+  "to": 1431
+ },
+ {
+  "id": "bagan",
+  "names": [
+   {
+    "name": "Bagan",
+    "until": null
+   }
+  ],
+  "lat": 21.17,
+  "lon": 94.86,
+  "rank": 3,
+  "from": 849,
+  "to": 1300
+ },
+ {
+  "id": "tenochtitlan",
+  "names": [
+   {
+    "name": "Tenochtitlan",
+    "until": 1521
+   },
+   {
+    "name": "Mexico City",
+    "until": null
+   }
+  ],
+  "lat": 19.43,
+  "lon": -99.13,
+  "rank": 1,
+  "from": 1325,
+  "to": null
+ },
+ {
+  "id": "teotihuacan-c",
+  "names": [
+   {
+    "name": "Teotihuacan",
+    "until": null
+   }
+  ],
+  "lat": 19.69,
+  "lon": -98.84,
+  "rank": 1,
+  "from": -100,
+  "to": 550
+ },
+ {
+  "id": "tikal",
+  "names": [
+   {
+    "name": "Tikal",
+    "until": null
+   }
+  ],
+  "lat": 17.22,
+  "lon": -89.62,
+  "rank": 2,
+  "from": -600,
+  "to": 900
+ },
+ {
+  "id": "chichen",
+  "names": [
+   {
+    "name": "Chichén Itzá",
+    "until": null
+   }
+  ],
+  "lat": 20.68,
+  "lon": -88.57,
+  "rank": 2,
+  "from": 600,
+  "to": 1250
+ },
+ {
+  "id": "cusco",
+  "names": [
+   {
+    "name": "Cusco",
+    "until": null
+   }
+  ],
+  "lat": -13.53,
+  "lon": -71.97,
+  "rank": 1,
+  "from": 1200,
+  "to": null
+ },
+ {
+  "id": "chanchan",
+  "names": [
+   {
+    "name": "Chan Chan",
+    "until": null
+   }
+  ],
+  "lat": -8.11,
+  "lon": -79.07,
+  "rank": 3,
+  "from": 900,
+  "to": 1470
+ },
+ {
+  "id": "cahokia-c",
+  "names": [
+   {
+    "name": "Cahokia",
+    "until": null
+   }
+  ],
+  "lat": 38.66,
+  "lon": -90.06,
+  "rank": 2,
+  "from": 800,
+  "to": 1350
+ }
+]

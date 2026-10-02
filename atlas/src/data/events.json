@@ -1,0 +1,6557 @@
+[
+ {
+  "id": "uruk-writing",
+  "year": -3200,
+  "approx": true,
+  "type": "milestone",
+  "title": "Earliest writing at Uruk",
+  "lat": 31.32,
+  "lon": 45.64,
+  "polities": [
+   "sumer"
+  ],
+  "summary": "Proto-cuneiform tablets from the Eanna precinct record temple accounts — the oldest known writing system.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Uruk IV–III tablets, Eanna precinct (German excavations)"
+   }
+  ]
+ },
+ {
+  "id": "narmer",
+  "year": -3100,
+  "approx": true,
+  "type": "founding",
+  "title": "Narmer unites Upper and Lower Egypt",
+  "lat": 25.1,
+  "lon": 32.78,
+  "polities": [
+   "egypt"
+  ],
+  "summary": "The first dynasty of pharaohs rules a single Egyptian state from the Nile Delta to the First Cataract.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Narmer Palette (Egyptian Museum, Cairo JE 32169)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Manetho, Aegyptiaca (fragments)"
+   }
+  ]
+ },
+ {
+  "id": "yamnaya-migration",
+  "year": -2900,
+  "approx": true,
+  "type": "milestone",
+  "title": "Steppe migration into Europe",
+  "lat": 48.5,
+  "lon": 30.0,
+  "polities": [
+   "yamnaya",
+   "beaker"
+  ],
+  "summary": "Ancient DNA shows people with Yamnaya-related ancestry moving into central and northern Europe, forming the Corded Ware culture.",
+  "sources": [
+   {
+    "kind": "scholarship",
+    "cite": "Haak et al., Nature (2015)"
+   },
+   {
+    "kind": "scholarship",
+    "cite": "Allentoft et al., Nature (2015)"
+   }
+  ]
+ },
+ {
+  "id": "mohenjo-daro",
+  "year": -2600,
+  "approx": true,
+  "type": "milestone",
+  "title": "Indus cities at their height",
+  "lat": 27.33,
+  "lon": 68.14,
+  "polities": [
+   "indus"
+  ],
+  "summary": "The Mature Harappan phase begins: planned cities such as Mohenjo-daro and Harappa share standard bricks, weights and seals.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "J. Marshall, Mohenjo-daro and the Indus Civilization (1931)"
+   }
+  ]
+ },
+ {
+  "id": "caral",
+  "year": -2600,
+  "approx": true,
+  "type": "milestone",
+  "title": "Caral's pyramids rise in Peru",
+  "lat": -10.89,
+  "lon": -77.52,
+  "polities": [
+   "norte-chico"
+  ],
+  "summary": "Monumental platform mounds at Caral make it one of the oldest cities in the Americas.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Shady Solís et al., Science (2001)"
+   }
+  ]
+ },
+ {
+  "id": "great-pyramid",
+  "year": -2560,
+  "approx": true,
+  "type": "milestone",
+  "title": "Great Pyramid of Khufu built",
+  "lat": 29.98,
+  "lon": 31.13,
+  "polities": [
+   "egypt"
+  ],
+  "summary": "Logbooks of an inspector named Merer record hauling limestone blocks to Giza for Khufu's pyramid.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Wadi al-Jarf papyri ('Diary of Merer'), found 2013"
+   }
+  ]
+ },
+ {
+  "id": "sargon",
+  "year": -2334,
+  "approx": true,
+  "type": "founding",
+  "title": "Sargon founds the Akkadian Empire",
+  "lat": 33.1,
+  "lon": 44.1,
+  "polities": [
+   "akkad",
+   "sumer"
+  ],
+  "summary": "Sargon of Akkad conquers the Sumerian city-states and campaigns to the Mediterranean. The location of his capital, Akkad, is unknown, so this marker is approximate.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Sargon's inscriptions, Old Babylonian copies from Nippur (RIME 2)"
+   }
+  ]
+ },
+ {
+  "id": "ur-iii",
+  "year": -2112,
+  "approx": true,
+  "type": "founding",
+  "title": "Ur-Nammu founds the Third Dynasty of Ur",
+  "lat": 30.96,
+  "lon": 46.1,
+  "polities": [
+   "sumer"
+  ],
+  "summary": "A last Sumerian empire rises at Ur, building the great ziggurat and issuing the oldest surviving law code.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Code of Ur-Nammu (tablets from Nippur and Ur)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Ziggurat of Ur, excavated by C. L. Woolley"
+   }
+  ]
+ },
+ {
+  "id": "fall-of-ur",
+  "year": -2004,
+  "approx": true,
+  "type": "collapse",
+  "title": "Elamites sack Ur",
+  "lat": 30.96,
+  "lon": 46.1,
+  "polities": [
+   "sumer",
+   "elam"
+  ],
+  "summary": "Elamite armies capture Ur and carry off its last king, Ibbi-Sin, ending Sumerian political dominance.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Lament for Ur (Sumerian composition)"
+   }
+  ]
+ },
+ {
+  "id": "hammurabi",
+  "year": -1754,
+  "approx": true,
+  "type": "milestone",
+  "title": "Code of Hammurabi",
+  "lat": 32.54,
+  "lon": 44.42,
+  "polities": [
+   "babylonia"
+  ],
+  "summary": "Having unified Mesopotamia, Hammurabi of Babylon publishes 282 laws on a basalt stele.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Stele of Hammurabi (Louvre Sb 8), found at Susa 1901"
+   }
+  ]
+ },
+ {
+  "id": "hattusa-capital",
+  "year": -1650,
+  "approx": true,
+  "type": "founding",
+  "title": "Hittite Old Kingdom at Hattusa",
+  "lat": 40.02,
+  "lon": 34.62,
+  "polities": [
+   "hittites"
+  ],
+  "summary": "Hattusili I rules from Hattusa and campaigns into Syria, founding the Hittite kingdom.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Bilingual Testament of Hattusili I (CTH 6)"
+   }
+  ]
+ },
+ {
+  "id": "shang-founded",
+  "year": -1600,
+  "approx": true,
+  "type": "founding",
+  "title": "Shang dynasty established",
+  "lat": 34.75,
+  "lon": 113.65,
+  "polities": [
+   "shang"
+  ],
+  "summary": "Tradition dates the Shang to c. 1600 BCE; its early capital is often identified with the walled site at Zhengzhou.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Sima Qian, Shiji, ch. 3"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Zhengzhou Shang City (excavated from 1950s)"
+   }
+  ]
+ },
+ {
+  "id": "sack-babylon",
+  "year": -1595,
+  "approx": true,
+  "type": "battle",
+  "title": "Hittites sack Babylon",
+  "lat": 32.54,
+  "lon": 44.42,
+  "polities": [
+   "hittites",
+   "babylonia"
+  ],
+  "summary": "Mursili I raids deep into Mesopotamia and ends Hammurabi's dynasty (date by the middle chronology).",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Proclamation of Telipinu (CTH 19)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Babylonian Chronicle of Early Kings (ABC 20)"
+   }
+  ]
+ },
+ {
+  "id": "thutmose-kerma",
+  "year": -1500,
+  "approx": true,
+  "type": "collapse",
+  "title": "Egypt destroys Kerma",
+  "lat": 19.6,
+  "lon": 30.41,
+  "polities": [
+   "kerma",
+   "egypt"
+  ],
+  "summary": "New Kingdom armies under Thutmose I sack the Nubian capital and push the frontier to the Fourth Cataract.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Tombos inscription of Thutmose I"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Destruction layers at Kerma"
+   }
+  ]
+ },
+ {
+  "id": "megiddo",
+  "year": -1457,
+  "approx": true,
+  "type": "battle",
+  "title": "Battle of Megiddo",
+  "lat": 32.585,
+  "lon": 35.185,
+  "polities": [
+   "egypt"
+  ],
+  "summary": "Thutmose III defeats a Canaanite coalition — the first battle recorded in detail — opening Egypt's Levantine empire.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Annals of Thutmose III, Temple of Karnak"
+   }
+  ]
+ },
+ {
+  "id": "amarna",
+  "year": -1346,
+  "approx": true,
+  "type": "milestone",
+  "title": "Akhenaten founds Amarna",
+  "lat": 27.65,
+  "lon": 30.9,
+  "polities": [
+   "egypt"
+  ],
+  "summary": "A new capital for the sun-disc Aten. Its archive of diplomatic letters links Egypt, Babylon, Mitanni, Assyria and the Hittites.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Amarna letters (EA corpus), found 1887"
+   },
+   {
+    "kind": "primary",
+    "cite": "Boundary stelae of Akhetaten"
+   }
+  ]
+ },
+ {
+  "id": "mitanni-falls",
+  "year": -1340,
+  "approx": true,
+  "type": "collapse",
+  "title": "Suppiluliuma I breaks Mitanni",
+  "lat": 36.67,
+  "lon": 41.06,
+  "polities": [
+   "mitanni",
+   "hittites"
+  ],
+  "summary": "The Hittite king sacks Washukanni and installs a vassal, ending Mitanni as a great power.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Treaty of Suppiluliuma I and Shattiwaza (CTH 51)"
+   }
+  ]
+ },
+ {
+  "id": "alaksandu",
+  "year": -1280,
+  "approx": true,
+  "type": "treaty",
+  "title": "Hittite treaty with Alaksandu of Wilusa",
+  "lat": 39.96,
+  "lon": 26.24,
+  "polities": [
+   "hittites",
+   "troy"
+  ],
+  "summary": "Muwatalli II binds Alaksandu, king of Wilusa — widely identified with Troy (Ilios) — as a Hittite vassal.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Alaksandu Treaty (CTH 76)"
+   }
+  ]
+ },
+ {
+  "id": "kadesh",
+  "year": -1274,
+  "approx": true,
+  "type": "battle",
+  "title": "Battle of Kadesh",
+  "lat": 34.56,
+  "lon": 36.52,
+  "polities": [
+   "egypt",
+   "hittites"
+  ],
+  "summary": "Ramesses II and Muwatalli II clash in Syria in perhaps the largest chariot battle ever fought. Both sides claimed victory.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Kadesh 'Poem' and 'Bulletin' at Abu Simbel, Karnak, Luxor and the Ramesseum"
+   }
+  ]
+ },
+ {
+  "id": "kadesh-treaty",
+  "year": -1259,
+  "approx": true,
+  "type": "treaty",
+  "title": "Egyptian–Hittite peace treaty",
+  "lat": 40.02,
+  "lon": 34.62,
+  "polities": [
+   "egypt",
+   "hittites"
+  ],
+  "summary": "Ramesses II and Hattusili III sign the earliest peace treaty whose text survives on both sides.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Hittite clay tablet from Hattusa (Istanbul Archaeology Museums)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Egyptian hieroglyphic version, Karnak and Ramesseum"
+   }
+  ]
+ },
+ {
+  "id": "fall-hattusa",
+  "year": -1185,
+  "approx": true,
+  "type": "collapse",
+  "title": "Hattusa abandoned",
+  "lat": 40.02,
+  "lon": 34.62,
+  "polities": [
+   "hittites"
+  ],
+  "summary": "The Hittite capital is emptied and partly burned during the Late Bronze Age collapse. The kingdom does not recover.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "J. Seeher's excavations at Hattusa (1994–2005)"
+   }
+  ]
+ },
+ {
+  "id": "troy-viia",
+  "year": -1180,
+  "approx": true,
+  "type": "collapse",
+  "title": "Destruction of Troy VIIa",
+  "lat": 39.96,
+  "lon": 26.24,
+  "polities": [
+   "troy"
+  ],
+  "summary": "The citadel at Hisarlık is destroyed by fire, with signs of warfare. It is the leading archaeological candidate for Homer's Troy.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "C. Blegen, Troy IV (1958)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Homer, Iliad (later epic tradition)"
+   }
+  ]
+ },
+ {
+  "id": "sea-peoples",
+  "year": -1177,
+  "approx": true,
+  "type": "battle",
+  "title": "Ramesses III fights the Sea Peoples",
+  "lat": 31.2,
+  "lon": 31.8,
+  "polities": [
+   "egypt"
+  ],
+  "summary": "Egypt repels a migrating coalition by land and sea in the Nile Delta, as states across the eastern Mediterranean collapse.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Medinet Habu inscriptions and reliefs, Year 8 of Ramesses III"
+   }
+  ]
+ },
+ {
+  "id": "muye",
+  "year": -1046,
+  "approx": true,
+  "type": "battle",
+  "title": "Battle of Muye",
+  "lat": 35.3,
+  "lon": 114.1,
+  "polities": [
+   "shang",
+   "zhou"
+  ],
+  "summary": "King Wu of Zhou defeats the last Shang king, founding the Zhou dynasty and the 'Mandate of Heaven' doctrine.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Li gui bronze inscription (found 1976)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Sima Qian, Shiji, ch. 4"
+   }
+  ]
+ },
+ {
+  "id": "tel-dan",
+  "year": -840,
+  "approx": true,
+  "type": "milestone",
+  "title": "Tel Dan and Mesha steles",
+  "lat": 33.25,
+  "lon": 35.65,
+  "polities": [
+   "israel"
+  ],
+  "summary": "Aramean and Moabite victory inscriptions name the kings of Israel and the 'House of David', the earliest outside references.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Tel Dan stele (found 1993)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Mesha stele (found 1868, Louvre)"
+   }
+  ]
+ },
+ {
+  "id": "carthage-founded",
+  "year": -814,
+  "approx": true,
+  "type": "founding",
+  "title": "Carthage founded",
+  "lat": 36.85,
+  "lon": 10.32,
+  "polities": [
+   "carthage"
+  ],
+  "summary": "Phoenician settlers from Tyre found Carthage. The traditional date comes from the historian Timaeus; radiocarbon dates from the earliest layers are close.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Timaeus of Tauromenium, via Dionysius of Halicarnassus, Roman Antiquities 1.74"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Early Carthage radiocarbon studies (Docter et al., 2005)"
+   }
+  ]
+ },
+ {
+  "id": "olympics",
+  "year": -776,
+  "approx": false,
+  "type": "milestone",
+  "title": "First recorded Olympic Games",
+  "lat": 37.64,
+  "lon": 21.63,
+  "polities": [
+   "greeks"
+  ],
+  "summary": "The base date of Greek Olympiad chronology, from a victor list compiled by Hippias of Elis.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Hippias of Elis's Olympic victor list, via Eusebius, Chronicle"
+   }
+  ]
+ },
+ {
+  "id": "rome-founded",
+  "year": -753,
+  "approx": true,
+  "type": "founding",
+  "title": "Traditional founding of Rome",
+  "lat": 41.89,
+  "lon": 12.49,
+  "polities": [
+   "rome"
+  ],
+  "summary": "Romulus founds the city, according to the date calculated by Varro. Huts on the Palatine Hill date to roughly this period.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Livy, Ab Urbe Condita 1.4–7"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Iron Age huts on the Palatine (A. Carandini's excavations)"
+   }
+  ]
+ },
+ {
+  "id": "piye",
+  "year": -727,
+  "approx": true,
+  "type": "battle",
+  "title": "Piye of Kush conquers Egypt",
+  "lat": 29.85,
+  "lon": 31.25,
+  "polities": [
+   "kush",
+   "egypt"
+  ],
+  "summary": "The Kushite king sails north and takes Memphis, founding Egypt's 25th Dynasty.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Victory Stela of Piye (Cairo JE 48862)"
+   }
+  ]
+ },
+ {
+  "id": "samaria",
+  "year": -720,
+  "approx": true,
+  "type": "collapse",
+  "title": "Assyria destroys the Kingdom of Israel",
+  "lat": 32.28,
+  "lon": 35.19,
+  "polities": [
+   "assyria"
+  ],
+  "summary": "Samaria falls, and Sargon II claims to have deported 27,290 inhabitants.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Annals of Sargon II, Khorsabad"
+   },
+   {
+    "kind": "primary",
+    "cite": "2 Kings 17"
+   }
+  ]
+ },
+ {
+  "id": "lachish",
+  "year": -701,
+  "approx": false,
+  "type": "battle",
+  "title": "Sennacherib besieges Lachish",
+  "lat": 31.56,
+  "lon": 34.85,
+  "polities": [
+   "assyria"
+  ],
+  "summary": "Sennacherib's campaign against Judah is known from Assyrian annals, palace reliefs, the Hebrew Bible and the excavated siege ramp.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Taylor Prism (BM 91032)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Lachish reliefs (British Museum); Assyrian siege ramp at Tel Lachish"
+   }
+  ]
+ },
+ {
+  "id": "susa-sack",
+  "year": -646,
+  "approx": true,
+  "type": "collapse",
+  "title": "Ashurbanipal sacks Susa",
+  "lat": 32.19,
+  "lon": 48.26,
+  "polities": [
+   "assyria",
+   "elam"
+  ],
+  "summary": "Assyria devastates the Elamite capital, desecrating royal tombs.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Annals of Ashurbanipal, Rassam Cylinder (BM 91026)"
+   }
+  ]
+ },
+ {
+  "id": "nineveh-falls",
+  "year": -612,
+  "approx": false,
+  "type": "collapse",
+  "title": "Fall of Nineveh",
+  "lat": 36.36,
+  "lon": 43.15,
+  "polities": [
+   "assyria",
+   "babylonia"
+  ],
+  "summary": "Babylonians and Medes storm the Assyrian capital. The empire is extinguished by 609 BCE.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Babylonian Chronicle ABC 3 (BM 21901)"
+   }
+  ]
+ },
+ {
+  "id": "jerusalem-587",
+  "year": -587,
+  "approx": true,
+  "type": "collapse",
+  "title": "Babylon destroys Jerusalem",
+  "lat": 31.78,
+  "lon": 35.23,
+  "polities": [
+   "babylonia"
+  ],
+  "summary": "Nebuchadnezzar II destroys the First Temple and deports Judah's elite to Babylon.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "2 Kings 25; Jeremiah 52"
+   },
+   {
+    "kind": "primary",
+    "cite": "Babylonian Chronicle ABC 5 (for the 597 BCE capture)"
+   }
+  ]
+ },
+ {
+  "id": "cyrus-rise",
+  "year": -550,
+  "approx": false,
+  "type": "founding",
+  "title": "Cyrus defeats the Medes",
+  "lat": 30.2,
+  "lon": 53.17,
+  "polities": [
+   "achaemenid"
+  ],
+  "summary": "Astyages' army mutinies and Cyrus of Anshan takes the Median capital, Ecbatana, founding the Persian Empire.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Nabonidus Chronicle (ABC 7, BM 35382)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Herodotus 1.123–130"
+   }
+  ]
+ },
+ {
+  "id": "croesus",
+  "year": -546,
+  "approx": false,
+  "type": "collapse",
+  "title": "Cyrus conquers Lydia",
+  "lat": 38.49,
+  "lon": 28.04,
+  "polities": [
+   "lydia",
+   "achaemenid"
+  ],
+  "summary": "Croesus is defeated and Sardis taken, bringing the Greek cities of Ionia under Persian rule.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Herodotus 1.75–86"
+   },
+   {
+    "kind": "primary",
+    "cite": "Nabonidus Chronicle (ABC 7)"
+   }
+  ]
+ },
+ {
+  "id": "babylon-539",
+  "year": -539,
+  "approx": false,
+  "type": "battle",
+  "title": "Cyrus takes Babylon",
+  "lat": 32.54,
+  "lon": 44.42,
+  "polities": [
+   "achaemenid",
+   "babylonia"
+  ],
+  "summary": "Babylon falls almost without a fight. Cyrus presents himself as restorer of the city's gods.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Cyrus Cylinder (BM 90920)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Nabonidus Chronicle (ABC 7)"
+   }
+  ]
+ },
+ {
+  "id": "behistun",
+  "year": -520,
+  "approx": true,
+  "type": "milestone",
+  "title": "Darius I carves the Behistun Inscription",
+  "lat": 34.39,
+  "lon": 47.44,
+  "polities": [
+   "achaemenid"
+  ],
+  "summary": "A trilingual rock inscription justifying Darius's seizure of the throne. Its decipherment unlocked cuneiform.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Behistun Inscription (DB)"
+   }
+  ]
+ },
+ {
+  "id": "republic",
+  "year": -509,
+  "approx": true,
+  "type": "founding",
+  "title": "Roman Republic founded",
+  "lat": 41.89,
+  "lon": 12.49,
+  "polities": [
+   "rome"
+  ],
+  "summary": "Romans expel King Tarquinius Superbus and elect two consuls annually.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Livy 1.57–2.1"
+   },
+   {
+    "kind": "primary",
+    "cite": "Polybius 3.22 (first treaty with Carthage)"
+   }
+  ]
+ },
+ {
+  "id": "marathon",
+  "year": -490,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Marathon",
+  "lat": 38.15,
+  "lon": 23.96,
+  "polities": [
+   "greeks",
+   "achaemenid"
+  ],
+  "summary": "Athens and Plataea defeat a Persian expeditionary force sent by Darius I.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Herodotus, Histories 6.102–117"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Soros burial mound of the Athenian dead"
+   }
+  ]
+ },
+ {
+  "id": "salamis",
+  "year": -480,
+  "approx": false,
+  "type": "battle",
+  "title": "Thermopylae and Salamis",
+  "lat": 37.95,
+  "lon": 23.57,
+  "polities": [
+   "greeks",
+   "achaemenid"
+  ],
+  "summary": "Xerxes forces the pass at Thermopylae and burns Athens, but the Greek fleet destroys the Persian navy at Salamis.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Herodotus, Histories 7–8"
+   },
+   {
+    "kind": "primary",
+    "cite": "Aeschylus, The Persians (472 BCE, by a veteran)"
+   }
+  ]
+ },
+ {
+  "id": "peloponnesian",
+  "year": -431,
+  "approx": false,
+  "type": "battle",
+  "title": "Peloponnesian War begins",
+  "lat": 37.07,
+  "lon": 22.43,
+  "polities": [
+   "greeks"
+  ],
+  "summary": "Athens and Sparta begin a 27-year war that ends Athens' empire in 404 BCE.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Thucydides, History of the Peloponnesian War"
+   },
+   {
+    "kind": "primary",
+    "cite": "Xenophon, Hellenica"
+   }
+  ]
+ },
+ {
+  "id": "tyre-332",
+  "year": -332,
+  "approx": false,
+  "type": "battle",
+  "title": "Siege of Tyre",
+  "lat": 33.27,
+  "lon": 35.2,
+  "polities": [
+   "alexander",
+   "phoenicia"
+  ],
+  "summary": "Alexander builds a causeway to the island city and takes it after seven months.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Arrian, Anabasis 2.15–24"
+   },
+   {
+    "kind": "primary",
+    "cite": "Diodorus Siculus 17.40–46"
+   }
+  ]
+ },
+ {
+  "id": "gaugamela",
+  "year": -331,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Gaugamela",
+  "lat": 36.57,
+  "lon": 43.44,
+  "polities": [
+   "alexander",
+   "achaemenid"
+  ],
+  "summary": "Alexander defeats Darius III decisively, and Babylon, Susa and Persepolis fall within months.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Arrian, Anabasis 3.8–15"
+   },
+   {
+    "kind": "primary",
+    "cite": "Babylonian Astronomical Diary (BM 36761)"
+   }
+  ]
+ },
+ {
+  "id": "alexander-dies",
+  "year": -323,
+  "approx": false,
+  "type": "collapse",
+  "title": "Death of Alexander at Babylon",
+  "lat": 32.54,
+  "lon": 44.42,
+  "polities": [
+   "alexander"
+  ],
+  "summary": "Alexander dies at 32. His generals' wars of succession carve up the empire.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Babylonian Astronomical Diary BM 45962"
+   },
+   {
+    "kind": "primary",
+    "cite": "Arrian, Anabasis 7.24–28"
+   }
+  ]
+ },
+ {
+  "id": "maurya-founded",
+  "year": -322,
+  "approx": true,
+  "type": "founding",
+  "title": "Chandragupta founds the Maurya Empire",
+  "lat": 25.61,
+  "lon": 85.14,
+  "polities": [
+   "maurya"
+  ],
+  "summary": "Chandragupta overthrows the Nanda dynasty of Magadha and expands to the Indus.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Justin, Epitome of Pompeius Trogus 15.4"
+   },
+   {
+    "kind": "primary",
+    "cite": "Megasthenes, Indica (fragments)"
+   }
+  ]
+ },
+ {
+  "id": "seleucid-era",
+  "year": -312,
+  "approx": false,
+  "type": "founding",
+  "title": "Seleucus retakes Babylon",
+  "lat": 32.54,
+  "lon": 44.42,
+  "polities": [
+   "seleucid"
+  ],
+  "summary": "This starts the Seleucid Era, the first continuous year count, used in the Near East for over a thousand years.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Diodorus Siculus 19.90–92"
+   },
+   {
+    "kind": "primary",
+    "cite": "Babylonian Chronicle of the Diadochi (BM 34660)"
+   }
+  ]
+ },
+ {
+  "id": "ptolemy-king",
+  "year": -305,
+  "approx": false,
+  "type": "founding",
+  "title": "Ptolemy I proclaims himself king of Egypt",
+  "lat": 31.2,
+  "lon": 29.92,
+  "polities": [
+   "ptolemaic"
+  ],
+  "summary": "Alexander's general takes the royal title, founding the dynasty that would end with Cleopatra.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Diodorus Siculus 20.53"
+   },
+   {
+    "kind": "primary",
+    "cite": "Parian Marble (Marmor Parium)"
+   }
+  ]
+ },
+ {
+  "id": "kalinga",
+  "year": -261,
+  "approx": true,
+  "type": "battle",
+  "title": "Ashoka's Kalinga War",
+  "lat": 20.19,
+  "lon": 85.84,
+  "polities": [
+   "maurya"
+  ],
+  "summary": "The conquest kills, by Ashoka's own account, 100,000 people. His remorse leads him to promote dhamma.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ashoka, Major Rock Edict XIII"
+   }
+  ]
+ },
+ {
+  "id": "qin-unifies",
+  "year": -221,
+  "approx": false,
+  "type": "founding",
+  "title": "Qin unifies China",
+  "lat": 34.33,
+  "lon": 108.71,
+  "polities": [
+   "qin",
+   "zhou"
+  ],
+  "summary": "Having conquered the last Warring State, King Zheng takes the title Shi Huangdi, 'First Emperor'.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Sima Qian, Shiji, ch. 6"
+   }
+  ]
+ },
+ {
+  "id": "cannae",
+  "year": -216,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Cannae",
+  "lat": 41.31,
+  "lon": 16.13,
+  "polities": [
+   "carthage",
+   "rome"
+  ],
+  "summary": "Hannibal encircles and destroys a Roman army of about 80,000 in southern Italy.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Polybius 3.107–117"
+   },
+   {
+    "kind": "primary",
+    "cite": "Livy 22.44–52"
+   }
+  ]
+ },
+ {
+  "id": "han-founded",
+  "year": -202,
+  "approx": false,
+  "type": "founding",
+  "title": "Liu Bang founds the Han dynasty",
+  "lat": 34.27,
+  "lon": 108.94,
+  "polities": [
+   "han",
+   "qin"
+  ],
+  "summary": "After the Qin collapse, Liu Bang defeats his rival Xiang Yu and becomes Emperor Gaozu.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Sima Qian, Shiji, ch. 8"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ban Gu, Hanshu, ch. 1"
+   }
+  ]
+ },
+ {
+  "id": "zama",
+  "year": -202,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Zama",
+  "lat": 36.3,
+  "lon": 9.45,
+  "polities": [
+   "rome",
+   "carthage"
+  ],
+  "summary": "Scipio defeats Hannibal in Africa, ending the Second Punic War and Carthage's empire.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Polybius 15.9–16"
+   },
+   {
+    "kind": "primary",
+    "cite": "Livy 30.29–35"
+   }
+  ]
+ },
+ {
+  "id": "rosetta",
+  "year": -196,
+  "approx": false,
+  "type": "milestone",
+  "title": "Memphis Decree (Rosetta Stone)",
+  "lat": 31.4,
+  "lon": 30.42,
+  "polities": [
+   "ptolemaic"
+  ],
+  "summary": "A priestly decree honouring Ptolemy V, in hieroglyphic, Demotic and Greek. In 1822 it enabled Champollion to decipher hieroglyphs.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Rosetta Stone (British Museum EA 24)"
+   }
+  ]
+ },
+ {
+  "id": "magnesia",
+  "year": -190,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Magnesia",
+  "lat": 38.62,
+  "lon": 27.43,
+  "polities": [
+   "rome",
+   "seleucid"
+  ],
+  "summary": "Rome defeats Antiochus III. The Treaty of Apamea strips the Seleucids of Anatolia.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Livy 37.37–44"
+   },
+   {
+    "kind": "primary",
+    "cite": "Appian, Syrian Wars 30–36"
+   }
+  ]
+ },
+ {
+  "id": "carthage-destroyed",
+  "year": -146,
+  "approx": false,
+  "type": "collapse",
+  "title": "Rome destroys Carthage and Corinth",
+  "lat": 36.85,
+  "lon": 10.32,
+  "polities": [
+   "rome",
+   "carthage",
+   "greeks"
+  ],
+  "summary": "At the end of the Third Punic War Carthage is razed. The same year Corinth is sacked and Greece falls under Roman control.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Appian, Punic Wars 127–135"
+   },
+   {
+    "kind": "primary",
+    "cite": "Polybius 38–39 (fragments; he was an eyewitness at Carthage)"
+   }
+  ]
+ },
+ {
+  "id": "parthia-seleucia",
+  "year": -141,
+  "approx": false,
+  "type": "battle",
+  "title": "Parthians take Seleucia",
+  "lat": 33.1,
+  "lon": 44.52,
+  "polities": [
+   "parthia",
+   "seleucid"
+  ],
+  "summary": "Mithridates I conquers Mesopotamia, confining the Seleucids to Syria.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Babylonian Astronomical Diaries (Arsacid entries, 141 BCE)"
+   }
+  ]
+ },
+ {
+  "id": "pergamon-bequest",
+  "year": -133,
+  "approx": false,
+  "type": "treaty",
+  "title": "Attalus III bequeaths Pergamon to Rome",
+  "lat": 39.13,
+  "lon": 27.18,
+  "polities": [
+   "pergamon",
+   "rome"
+  ],
+  "summary": "The last Attalid king wills his kingdom to Rome, which makes it the province of Asia.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Strabo 13.4.2"
+   },
+   {
+    "kind": "primary",
+    "cite": "OGIS 435 (Senate decree)"
+   }
+  ]
+ },
+ {
+  "id": "carrhae",
+  "year": -53,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Carrhae",
+  "lat": 36.86,
+  "lon": 39.03,
+  "polities": [
+   "parthia",
+   "rome"
+  ],
+  "summary": "Parthian horse archers annihilate Crassus' legions, and Crassus is killed.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Plutarch, Life of Crassus 23–33"
+   },
+   {
+    "kind": "primary",
+    "cite": "Cassius Dio 40.16–27"
+   }
+  ]
+ },
+ {
+  "id": "actium",
+  "year": -31,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Actium",
+  "lat": 38.95,
+  "lon": 20.75,
+  "polities": [
+   "rome",
+   "ptolemaic"
+  ],
+  "summary": "Octavian's fleet defeats Antony and Cleopatra. Egypt is annexed the next year, ending the Ptolemaic kingdom.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Cassius Dio 50.31–35"
+   },
+   {
+    "kind": "primary",
+    "cite": "Res Gestae Divi Augusti 25–27"
+   }
+  ]
+ },
+ {
+  "id": "augustus",
+  "year": -27,
+  "approx": false,
+  "type": "founding",
+  "title": "Octavian becomes Augustus",
+  "lat": 41.89,
+  "lon": 12.49,
+  "polities": [
+   "rome"
+  ],
+  "summary": "The Senate grants Octavian the name Augustus, conventionally marking the start of the Roman Empire.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Res Gestae Divi Augusti 34"
+   }
+  ]
+ },
+ {
+  "id": "teutoburg",
+  "year": 9,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of the Teutoburg Forest",
+  "lat": 52.41,
+  "lon": 8.13,
+  "polities": [
+   "germanic",
+   "rome"
+  ],
+  "summary": "Arminius' Germanic coalition destroys three legions under Varus. Rome abandons conquest east of the Rhine.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Velleius Paterculus 2.117–119"
+   },
+   {
+    "kind": "primary",
+    "cite": "Tacitus, Annals 1.60–62"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Kalkriese battlefield (identified 1987)"
+   }
+  ]
+ },
+ {
+  "id": "pompeii",
+  "year": 79,
+  "approx": false,
+  "type": "milestone",
+  "title": "Vesuvius buries Pompeii",
+  "lat": 40.75,
+  "lon": 14.49,
+  "polities": [
+   "rome"
+  ],
+  "summary": "The eruption preserves two Roman towns, a frozen picture of everyday life.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Pliny the Younger, Letters 6.16 and 6.20"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Pompeii and Herculaneum excavations (from 1738/1748)"
+   }
+  ]
+ },
+ {
+  "id": "dacia-conquered",
+  "year": 106,
+  "approx": false,
+  "type": "collapse",
+  "title": "Trajan conquers Dacia",
+  "lat": 45.62,
+  "lon": 23.31,
+  "polities": [
+   "dacia",
+   "rome"
+  ],
+  "summary": "Sarmizegetusa falls and Decebalus kills himself. Rome's new province is rich in gold.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Cassius Dio 68.14"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Trajan's Column"
+   }
+  ]
+ },
+ {
+  "id": "petra-annexed",
+  "year": 106,
+  "approx": false,
+  "type": "collapse",
+  "title": "Rome annexes the Nabataean kingdom",
+  "lat": 30.33,
+  "lon": 35.44,
+  "polities": [
+   "nabataeans",
+   "rome"
+  ],
+  "summary": "The province of Arabia Petraea is created after the death of the last Nabataean king.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Cassius Dio 68.14.5"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Via Nova Traiana milestones"
+   }
+  ]
+ },
+ {
+  "id": "trajan",
+  "year": 117,
+  "approx": false,
+  "type": "milestone",
+  "title": "Roman Empire at its greatest extent",
+  "lat": 33.0,
+  "lon": 44.0,
+  "polities": [
+   "rome"
+  ],
+  "summary": "Trajan's conquests reach the Persian Gulf. Hadrian gives up Mesopotamia shortly after.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Cassius Dio 68.17–33"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Trajan's Column, Rome (113 CE)"
+   }
+  ]
+ },
+ {
+  "id": "kanishka",
+  "year": 127,
+  "approx": true,
+  "type": "founding",
+  "title": "Kanishka becomes Kushan emperor",
+  "lat": 34.01,
+  "lon": 71.58,
+  "polities": [
+   "kushan"
+  ],
+  "summary": "The greatest Kushan ruler begins a new era; his reign is dated by the Rabatak inscription.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Rabatak inscription"
+   }
+  ]
+ },
+ {
+  "id": "han-ends",
+  "year": 220,
+  "approx": false,
+  "type": "collapse",
+  "title": "End of the Han dynasty",
+  "lat": 34.62,
+  "lon": 112.45,
+  "polities": [
+   "han"
+  ],
+  "summary": "Emperor Xian abdicates to Cao Pi, beginning the Three Kingdoms period.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Chen Shou, Records of the Three Kingdoms (Sanguozhi)"
+   }
+  ]
+ },
+ {
+  "id": "ardashir",
+  "year": 224,
+  "approx": false,
+  "type": "founding",
+  "title": "Ardashir overthrows the Parthians",
+  "lat": 28.85,
+  "lon": 52.53,
+  "polities": [
+   "sasanian",
+   "parthia"
+  ],
+  "summary": "Ardashir I defeats Artabanus IV and founds the Sasanian Empire.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Rock reliefs at Firuzabad and Naqsh-e Rostam"
+   },
+   {
+    "kind": "primary",
+    "cite": "al-Tabari, History of Prophets and Kings"
+   }
+  ]
+ },
+ {
+  "id": "valerian",
+  "year": 260,
+  "approx": false,
+  "type": "battle",
+  "title": "Shapur I captures Emperor Valerian",
+  "lat": 37.16,
+  "lon": 38.79,
+  "polities": [
+   "sasanian",
+   "rome"
+  ],
+  "summary": "Near Edessa a Roman emperor is taken prisoner for the first and only time.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Shapur I's inscription at the Ka'ba-ye Zartosht (ŠKZ)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Triumph relief of Shapur I, Naqsh-e Rostam"
+   }
+  ]
+ },
+ {
+  "id": "milvian-bridge",
+  "year": 312,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of the Milvian Bridge",
+  "lat": 41.94,
+  "lon": 12.47,
+  "polities": [
+   "rome"
+  ],
+  "summary": "Constantine defeats Maxentius outside Rome, reportedly after a vision of the Christian sign.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Lactantius, On the Deaths of the Persecutors 44"
+   },
+   {
+    "kind": "primary",
+    "cite": "Eusebius, Life of Constantine 1.28–38"
+   }
+  ]
+ },
+ {
+  "id": "gupta-founded",
+  "year": 320,
+  "approx": true,
+  "type": "founding",
+  "title": "Chandragupta I founds the Gupta Empire",
+  "lat": 25.61,
+  "lon": 85.14,
+  "polities": [
+   "gupta"
+  ],
+  "summary": "The start of the Gupta era. His son Samudragupta's conquests are listed on the Allahabad pillar.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Allahabad Pillar inscription of Samudragupta"
+   }
+  ]
+ },
+ {
+  "id": "nicaea-325",
+  "year": 325,
+  "approx": false,
+  "type": "milestone",
+  "title": "First Council of Nicaea",
+  "lat": 40.43,
+  "lon": 29.72,
+  "polities": [
+   "rome",
+   "byzantine"
+  ],
+  "summary": "Constantine convenes the bishops to settle the Arian controversy; the council issues the Nicene Creed.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Eusebius, Life of Constantine 3.6–14"
+   },
+   {
+    "kind": "primary",
+    "cite": "Canons of Nicaea"
+   }
+  ]
+ },
+ {
+  "id": "constantinople",
+  "year": 330,
+  "approx": false,
+  "type": "founding",
+  "title": "Constantinople dedicated",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "byzantine",
+   "rome"
+  ],
+  "summary": "Constantine refounds Byzantium as a new Rome. It would be capital of the Eastern Empire for 1,100 years.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Chronicon Paschale (7th c.), entry for 330"
+   },
+   {
+    "kind": "primary",
+    "cite": "Eusebius, Life of Constantine 3.48"
+   }
+  ]
+ },
+ {
+  "id": "ezana",
+  "year": 340,
+  "approx": true,
+  "type": "milestone",
+  "title": "Ezana of Aksum adopts Christianity",
+  "lat": 14.13,
+  "lon": 38.72,
+  "polities": [
+   "aksum"
+  ],
+  "summary": "Aksum's coinage switches from pagan symbols to the cross, making it one of the first Christian states.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ezana Stone inscriptions"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Aksumite coins of Ezana"
+   },
+   {
+    "kind": "primary",
+    "cite": "Rufinus, Ecclesiastical History 10.9–10"
+   }
+  ]
+ },
+ {
+  "id": "julian-persia",
+  "year": 363,
+  "approx": false,
+  "type": "battle",
+  "title": "Julian dies on campaign in Persia",
+  "lat": 33.5,
+  "lon": 44.0,
+  "polities": [
+   "rome",
+   "sasanian"
+  ],
+  "summary": "The last pagan emperor is killed retreating from Ctesiphon; Jovian cedes Nisibis to Shapur II.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ammianus Marcellinus 24–25 (an eyewitness)"
+   }
+  ]
+ },
+ {
+  "id": "adrianople",
+  "year": 378,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Adrianople",
+  "lat": 41.68,
+  "lon": 26.56,
+  "polities": [
+   "goths",
+   "rome"
+  ],
+  "summary": "Gothic refugees fleeing the Huns destroy the eastern Roman field army and kill Emperor Valens.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ammianus Marcellinus 31.12–13"
+   }
+  ]
+ },
+ {
+  "id": "tikal-378",
+  "year": 378,
+  "approx": false,
+  "type": "battle",
+  "title": "Teotihuacan 'arrival' at Tikal",
+  "lat": 17.22,
+  "lon": -89.62,
+  "polities": [
+   "teotihuacan",
+   "maya"
+  ],
+  "summary": "A Teotihuacan general, Siyaj K'ak', arrives and a new dynasty takes power at Tikal.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Tikal Stela 31; El Perú Stela 15"
+   },
+   {
+    "kind": "scholarship",
+    "cite": "D. Stuart, 'The Arrival of Strangers' (2000)"
+   }
+  ]
+ },
+ {
+  "id": "empire-divided",
+  "year": 395,
+  "approx": false,
+  "type": "milestone",
+  "title": "Roman Empire permanently divided",
+  "lat": 44.0,
+  "lon": 19.5,
+  "polities": [
+   "rome",
+   "byzantine"
+  ],
+  "summary": "On Theodosius I's death his sons Arcadius and Honorius rule the East and West separately.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Notitia Dignitatum (c. 400)",
+    "note": "Lists the separate eastern and western administrations."
+   },
+   {
+    "kind": "primary",
+    "cite": "Zosimus, New History 4.59–5.1"
+   }
+  ]
+ },
+ {
+  "id": "rhine-406",
+  "year": 406,
+  "approx": false,
+  "type": "battle",
+  "title": "Vandals, Alans and Suebi cross the Rhine",
+  "lat": 50.0,
+  "lon": 8.27,
+  "polities": [
+   "vandals",
+   "rome"
+  ],
+  "summary": "On the last day of 406 (traditional date) a migrant coalition breaks into Gaul, near Mainz.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Prosper of Aquitaine, Chronicle, s.a. 406"
+   },
+   {
+    "kind": "primary",
+    "cite": "Jerome, Letter 123"
+   }
+  ]
+ },
+ {
+  "id": "rome-410",
+  "year": 410,
+  "approx": false,
+  "type": "battle",
+  "title": "Visigoths sack Rome",
+  "lat": 41.89,
+  "lon": 12.49,
+  "polities": [
+   "goths",
+   "rome"
+  ],
+  "summary": "Alaric's army plunders Rome for three days, the first time in 800 years that the city falls to a foreign enemy.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Orosius, Seven Books of History Against the Pagans 7.39"
+   },
+   {
+    "kind": "primary",
+    "cite": "Augustine, City of God 1.1–7"
+   }
+  ]
+ },
+ {
+  "id": "theodosian-walls",
+  "year": 413,
+  "approx": false,
+  "type": "milestone",
+  "title": "Theodosian Walls built",
+  "lat": 41.02,
+  "lon": 28.92,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "A triple land wall is completed across the peninsula of Constantinople. It would hold for a thousand years.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Codex Theodosianus 15.1.51 (413)"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Theodosian Walls (UNESCO)"
+   }
+  ]
+ },
+ {
+  "id": "vandal-carthage",
+  "year": 439,
+  "approx": false,
+  "type": "battle",
+  "title": "Vandals seize Carthage",
+  "lat": 36.85,
+  "lon": 10.32,
+  "polities": [
+   "vandals",
+   "rome"
+  ],
+  "summary": "Gaiseric takes Rome's richest African city and its fleet, founding the Vandal Kingdom.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Victor of Vita, History of the Vandal Persecution 1.12"
+   },
+   {
+    "kind": "primary",
+    "cite": "Procopius, Wars 3.4–5"
+   }
+  ]
+ },
+ {
+  "id": "catalaunian",
+  "year": 451,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of the Catalaunian Plains",
+  "lat": 48.96,
+  "lon": 4.36,
+  "polities": [
+   "huns",
+   "rome",
+   "goths"
+  ],
+  "summary": "Aetius' Romans and Theodoric's Visigoths halt Attila's invasion of Gaul.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Jordanes, Getica 36–41"
+   },
+   {
+    "kind": "primary",
+    "cite": "Hydatius, Chronicle"
+   }
+  ]
+ },
+ {
+  "id": "chalcedon-451",
+  "year": 451,
+  "approx": false,
+  "type": "milestone",
+  "title": "Council of Chalcedon",
+  "lat": 40.99,
+  "lon": 29.03,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "Defines Christ as one person in two natures; its rejection by many in Egypt and Syria divides the eastern churches for good.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Acts of the Council of Chalcedon"
+   }
+  ]
+ },
+ {
+  "id": "attila-dies",
+  "year": 453,
+  "approx": false,
+  "type": "collapse",
+  "title": "Death of Attila",
+  "lat": 47.0,
+  "lon": 20.0,
+  "polities": [
+   "huns"
+  ],
+  "summary": "Attila dies on his wedding night. His sons' quarrels and the Gepid revolt at Nedao (454) break up the Hunnic realm.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Priscus, via Jordanes, Getica 49–50"
+   }
+  ]
+ },
+ {
+  "id": "rome-455",
+  "year": 455,
+  "approx": false,
+  "type": "battle",
+  "title": "Vandals sack Rome",
+  "lat": 41.89,
+  "lon": 12.49,
+  "polities": [
+   "vandals",
+   "rome"
+  ],
+  "summary": "Gaiseric's fleet plunders Rome for two weeks and carries off the empress and treasure, including spoils from Jerusalem's Temple.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Procopius, Wars 3.5"
+   },
+   {
+    "kind": "primary",
+    "cite": "Prosper of Aquitaine, Chronicle, s.a. 455"
+   }
+  ]
+ },
+ {
+  "id": "rome-476",
+  "year": 476,
+  "approx": false,
+  "type": "collapse",
+  "title": "Odoacer deposes the last western emperor",
+  "lat": 44.42,
+  "lon": 12.2,
+  "polities": [
+   "rome"
+  ],
+  "summary": "Romulus Augustulus is retired at Ravenna, and Odoacer sends the imperial regalia to Constantinople. The Western Empire ends.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Anonymus Valesianus 8.37–38"
+   },
+   {
+    "kind": "primary",
+    "cite": "Marcellinus Comes, Chronicle, s.a. 476"
+   }
+  ]
+ },
+ {
+  "id": "theodoric-italy",
+  "year": 493,
+  "approx": false,
+  "type": "founding",
+  "title": "Theodoric founds the Ostrogothic Kingdom",
+  "lat": 44.42,
+  "lon": 12.2,
+  "polities": [
+   "goths",
+   "byzantine"
+  ],
+  "summary": "Sent by Zeno against Odoacer, Theodoric takes Ravenna and rules Italy in nominal loyalty to Constantinople.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Anonymus Valesianus 11"
+   },
+   {
+    "kind": "primary",
+    "cite": "Cassiodorus, Variae"
+   }
+  ]
+ },
+ {
+  "id": "clovis",
+  "year": 496,
+  "approx": true,
+  "type": "milestone",
+  "title": "Baptism of Clovis",
+  "lat": 49.25,
+  "lon": 4.03,
+  "polities": [
+   "franks"
+  ],
+  "summary": "The Frankish king accepts Catholic baptism at Reims, binding the Franks to the Roman church. The date is debated (496–508).",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Gregory of Tours, Histories 2.30–31"
+   },
+   {
+    "kind": "primary",
+    "cite": "Letter of Avitus of Vienne to Clovis"
+   }
+  ]
+ },
+ {
+  "id": "justinian-code",
+  "year": 529,
+  "approx": false,
+  "type": "milestone",
+  "title": "Justinian's Code issued",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "The first edition of the Codex Justinianus; with the Digest (533) and Institutes it becomes the basis of later European civil law.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Corpus Iuris Civilis"
+   },
+   {
+    "kind": "primary",
+    "cite": "Constitutions Haec and Summa"
+   }
+  ]
+ },
+ {
+  "id": "dara-530",
+  "year": 530,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Dara",
+  "lat": 37.18,
+  "lon": 40.95,
+  "polities": [
+   "byzantine",
+   "sasanian"
+  ],
+  "summary": "Belisarius wins his first great victory, defeating a larger Persian army in Mesopotamia.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Procopius, Wars 1.13–14"
+   }
+  ]
+ },
+ {
+  "id": "nika",
+  "year": 532,
+  "approx": false,
+  "type": "collapse",
+  "title": "Nika riots",
+  "lat": 41.006,
+  "lon": 28.975,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "Circus factions rise against Justinian and burn much of Constantinople; Belisarius and Mundus massacre the crowd in the Hippodrome.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Procopius, Wars 1.24"
+   },
+   {
+    "kind": "primary",
+    "cite": "John Malalas, Chronicle 18"
+   },
+   {
+    "kind": "primary",
+    "cite": "Chronicon Paschale, s.a. 532"
+   }
+  ]
+ },
+ {
+  "id": "ad-decimum",
+  "year": 533,
+  "approx": false,
+  "type": "battle",
+  "title": "Belisarius destroys the Vandal Kingdom",
+  "lat": 36.8,
+  "lon": 10.2,
+  "polities": [
+   "byzantine",
+   "vandals"
+  ],
+  "summary": "Victories at Ad Decimum and Tricamarum return Africa to Roman rule. The last Vandal king, Gelimer, surrenders in 534.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Procopius, Wars 3.17–4.9 (an eyewitness)"
+   }
+  ]
+ },
+ {
+  "id": "gothic-war",
+  "year": 535,
+  "approx": false,
+  "type": "battle",
+  "title": "Gothic War begins",
+  "lat": 37.08,
+  "lon": 15.29,
+  "polities": [
+   "byzantine",
+   "goths"
+  ],
+  "summary": "Belisarius invades Sicily and Italy. The war drags on for almost twenty years and devastates the peninsula.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Procopius, Wars 5–8"
+   }
+  ]
+ },
+ {
+  "id": "hagia-sophia",
+  "year": 537,
+  "approx": false,
+  "type": "milestone",
+  "title": "Hagia Sophia completed",
+  "lat": 41.008,
+  "lon": 28.98,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "Justinian's cathedral, built in under six years, holds the record for the world's largest dome for nearly a thousand years.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Procopius, On Buildings 1.1"
+   },
+   {
+    "kind": "primary",
+    "cite": "Paul the Silentiary, Description of Hagia Sophia (563)"
+   }
+  ]
+ },
+ {
+  "id": "ravenna-540",
+  "year": 540,
+  "approx": false,
+  "type": "battle",
+  "title": "Belisarius takes Ravenna",
+  "lat": 44.42,
+  "lon": 12.2,
+  "polities": [
+   "byzantine",
+   "goths"
+  ],
+  "summary": "The Ostrogothic capital surrenders. The same year Khosrow I sacks Antioch in the east.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Procopius, Wars 6.29"
+   }
+  ]
+ },
+ {
+  "id": "antioch-540",
+  "year": 540,
+  "approx": false,
+  "type": "battle",
+  "title": "Khosrow I sacks Antioch",
+  "lat": 36.2,
+  "lon": 36.16,
+  "polities": [
+   "sasanian",
+   "byzantine"
+  ],
+  "summary": "The Persian king breaks the 'Eternal Peace', plunders Antioch and deports its people to a new city near Ctesiphon.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Procopius, Wars 2.8–14"
+   }
+  ]
+ },
+ {
+  "id": "plague-541",
+  "year": 541,
+  "approx": false,
+  "type": "milestone",
+  "title": "Plague of Justinian",
+  "lat": 31.2,
+  "lon": 29.92,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "Bubonic plague spreads from Egypt to Constantinople in 542, killing a large share of the population in recurring waves.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Procopius, Wars 2.22–23"
+   },
+   {
+    "kind": "primary",
+    "cite": "John of Ephesus, Ecclesiastical History"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Yersinia pestis DNA from 6th-c. burials (Wagner et al., 2014)"
+   }
+  ]
+ },
+ {
+  "id": "taginae",
+  "year": 552,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Taginae (Busta Gallorum)",
+  "lat": 43.3,
+  "lon": 12.7,
+  "polities": [
+   "byzantine",
+   "goths"
+  ],
+  "summary": "Narses defeats and kills the Gothic king Totila, effectively ending the Gothic War.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Procopius, Wars 8.29–32"
+   }
+  ]
+ },
+ {
+  "id": "gokturk-552",
+  "year": 552,
+  "approx": false,
+  "type": "founding",
+  "title": "Göktürk Khaganate founded",
+  "lat": 47.5,
+  "lon": 102.0,
+  "polities": [
+   "gokturks"
+  ],
+  "summary": "Bumin overthrows the Rouran and founds the first Turkic empire.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Book of Zhou (Zhoushu), ch. 50"
+   }
+  ]
+ },
+ {
+  "id": "lombards-568",
+  "year": 568,
+  "approx": false,
+  "type": "founding",
+  "title": "Lombards invade Italy",
+  "lat": 46.07,
+  "lon": 13.23,
+  "polities": [
+   "lombards",
+   "byzantine"
+  ],
+  "summary": "Alboin's Lombards cross the Julian Alps; within a few years most of inland Italy is lost to Byzantium.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Paul the Deacon, History of the Lombards 2.7–9"
+   }
+  ]
+ },
+ {
+  "id": "avars-sirmium",
+  "year": 582,
+  "approx": false,
+  "type": "battle",
+  "title": "Avars take Sirmium",
+  "lat": 44.97,
+  "lon": 19.61,
+  "polities": [
+   "avars",
+   "byzantine"
+  ],
+  "summary": "After a long blockade the key Danube city falls, opening the Balkans to Avar and Slav raids.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Menander Protector, fr. 25–27"
+   },
+   {
+    "kind": "primary",
+    "cite": "John of Ephesus 6.30–32"
+   }
+  ]
+ },
+ {
+  "id": "sui-unify",
+  "year": 589,
+  "approx": false,
+  "type": "founding",
+  "title": "Sui reunifies China",
+  "lat": 32.06,
+  "lon": 118.79,
+  "polities": [
+   "sui"
+  ],
+  "summary": "The capture of Jiankang (Nanjing) ends nearly four centuries of division.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Book of Sui"
+   }
+  ]
+ },
+ {
+  "id": "maurice-khosrow",
+  "year": 591,
+  "approx": false,
+  "type": "treaty",
+  "title": "Maurice restores Khosrow II",
+  "lat": 34.3,
+  "lon": 45.0,
+  "polities": [
+   "byzantine",
+   "sasanian"
+  ],
+  "summary": "Byzantine troops put the exiled Persian prince back on his throne; Persia cedes much of Armenia in return.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Theophylact Simocatta, History 4–5"
+   }
+  ]
+ },
+ {
+  "id": "phocas-602",
+  "year": 602,
+  "approx": false,
+  "type": "collapse",
+  "title": "Phocas overthrows Maurice",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "The Danube army mutinies; Maurice and his sons are executed. Khosrow II uses the murder as a pretext for war.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Theophylact Simocatta, History 8"
+   },
+   {
+    "kind": "primary",
+    "cite": "Theophanes, Chronographia AM 6094"
+   }
+  ]
+ },
+ {
+  "id": "heraclius-610",
+  "year": 610,
+  "approx": false,
+  "type": "founding",
+  "title": "Heraclius seizes the throne",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "Sailing from Carthage, Heraclius overthrows Phocas as Persian armies pour into the eastern provinces.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Chronicon Paschale, s.a. 610"
+   },
+   {
+    "kind": "primary",
+    "cite": "Nikephoros, Short History 1"
+   }
+  ]
+ },
+ {
+  "id": "jerusalem-614",
+  "year": 614,
+  "approx": false,
+  "type": "battle",
+  "title": "Persians capture Jerusalem",
+  "lat": 31.78,
+  "lon": 35.23,
+  "polities": [
+   "sasanian",
+   "byzantine"
+  ],
+  "summary": "Shahrbaraz takes Jerusalem and carries off the relic of the True Cross.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Antiochus Strategos, Capture of Jerusalem"
+   },
+   {
+    "kind": "primary",
+    "cite": "Sebeos, History"
+   }
+  ]
+ },
+ {
+  "id": "tang-founded",
+  "year": 618,
+  "approx": false,
+  "type": "founding",
+  "title": "Tang dynasty founded",
+  "lat": 34.27,
+  "lon": 108.94,
+  "polities": [
+   "tang"
+  ],
+  "summary": "Li Yuan takes power as the Sui collapses and becomes Emperor Gaozu of Tang.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Old Book of Tang (Jiu Tangshu), ch. 1"
+   }
+  ]
+ },
+ {
+  "id": "songtsen",
+  "year": 618,
+  "approx": true,
+  "type": "founding",
+  "title": "Songtsen Gampo unifies Tibet",
+  "lat": 29.65,
+  "lon": 91.12,
+  "polities": [
+   "tibet"
+  ],
+  "summary": "The king creates the Tibetan Empire and a written script based on Indian models.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Old Tibetan Chronicle"
+   }
+  ]
+ },
+ {
+  "id": "egypt-619",
+  "year": 619,
+  "approx": false,
+  "type": "battle",
+  "title": "Persians conquer Egypt",
+  "lat": 31.2,
+  "lon": 29.92,
+  "polities": [
+   "sasanian",
+   "byzantine"
+  ],
+  "summary": "Alexandria falls, cutting Constantinople off from its grain supply.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Sebeos, History"
+   },
+   {
+    "kind": "primary",
+    "cite": "Papyri of the Persian occupation"
+   }
+  ]
+ },
+ {
+  "id": "hijra",
+  "year": 622,
+  "approx": false,
+  "type": "founding",
+  "title": "The Hijra to Medina",
+  "lat": 24.47,
+  "lon": 39.61,
+  "polities": [],
+  "summary": "Muhammad and his followers move from Mecca to Yathrib (Medina), founding the first Muslim community-state. Year 1 of the Islamic calendar.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ibn Ishaq, Sirat Rasul Allah (via Ibn Hisham, 9th c.)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Constitution of Medina (preserved by Ibn Ishaq)"
+   }
+  ]
+ },
+ {
+  "id": "sutton-hoo",
+  "year": 625,
+  "approx": true,
+  "type": "milestone",
+  "title": "Sutton Hoo ship burial",
+  "lat": 52.09,
+  "lon": 1.34,
+  "polities": [
+   "germanic"
+  ],
+  "summary": "An East Anglian king, probably Rædwald, is buried in a 27-metre ship with treasures from Byzantium to Scandinavia.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Excavated by Basil Brown, 1939 (British Museum)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Bede, Ecclesiastical History 2.15 (on Rædwald)"
+   }
+  ]
+ },
+ {
+  "id": "siege-626",
+  "year": 626,
+  "approx": false,
+  "type": "battle",
+  "title": "Avar–Persian siege of Constantinople",
+  "lat": 41.03,
+  "lon": 28.93,
+  "polities": [
+   "avars",
+   "sasanian",
+   "byzantine"
+  ],
+  "summary": "With Heraclius away in the Caucasus, the city beats off an Avar-Slav assault while a Persian army waits across the Bosporus.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Theodore Synkellos, homily on the siege"
+   },
+   {
+    "kind": "primary",
+    "cite": "Chronicon Paschale, s.a. 626"
+   },
+   {
+    "kind": "primary",
+    "cite": "George of Pisidia, Bellum Avaricum"
+   }
+  ]
+ },
+ {
+  "id": "nineveh-627",
+  "year": 627,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Nineveh",
+  "lat": 36.36,
+  "lon": 43.15,
+  "polities": [
+   "byzantine",
+   "sasanian"
+  ],
+  "summary": "Heraclius destroys a Persian army; Khosrow II is overthrown and killed the next year, and the True Cross is returned.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Theophanes, Chronographia AM 6118"
+   },
+   {
+    "kind": "primary",
+    "cite": "Chronicon Paschale (Heraclius's dispatch)"
+   }
+  ]
+ },
+ {
+  "id": "yarmouk",
+  "year": 636,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of the Yarmuk",
+  "lat": 32.8,
+  "lon": 35.95,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "Arab Muslim armies defeat Heraclius' forces. Syria and Palestine are lost to Byzantium.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "al-Baladhuri, Futuh al-Buldan"
+   },
+   {
+    "kind": "primary",
+    "cite": "Theophanes the Confessor, Chronographia"
+   }
+  ]
+ },
+ {
+  "id": "alexandria-641",
+  "year": 641,
+  "approx": false,
+  "type": "collapse",
+  "title": "Arabs conquer Egypt",
+  "lat": 31.2,
+  "lon": 29.92,
+  "polities": [
+   "rashidun",
+   "byzantine"
+  ],
+  "summary": "Amr ibn al-As takes Babylon fortress and then Alexandria by treaty, ending nearly seven centuries of Roman rule in Egypt.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "John of Nikiu, Chronicle"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ibn Abd al-Hakam, Futuh Misr"
+   }
+  ]
+ },
+ {
+  "id": "sasanian-end",
+  "year": 651,
+  "approx": false,
+  "type": "collapse",
+  "title": "Death of Yazdegerd III",
+  "lat": 37.66,
+  "lon": 62.19,
+  "polities": [
+   "sasanian"
+  ],
+  "summary": "The last Sasanian shah is killed near Merv while fleeing the Arab conquest.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "al-Tabari, History of Prophets and Kings"
+   }
+  ]
+ },
+ {
+  "id": "baqt",
+  "year": 652,
+  "approx": false,
+  "type": "treaty",
+  "title": "The Baqt treaty with Makuria",
+  "lat": 18.22,
+  "lon": 30.75,
+  "polities": [
+   "makuria",
+   "rashidun"
+  ],
+  "summary": "After Nubian archers repel an Arab attack on Dongola, a trade-and-truce agreement lasts some 600 years.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "al-Maqrizi, Khitat"
+   },
+   {
+    "kind": "primary",
+    "cite": "al-Baladhuri"
+   }
+  ]
+ },
+ {
+  "id": "phoenix-655",
+  "year": 655,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of the Masts",
+  "lat": 36.3,
+  "lon": 30.5,
+  "polities": [
+   "rashidun",
+   "byzantine"
+  ],
+  "summary": "The new Arab navy defeats Constans II off Lycia, ending Byzantine naval supremacy.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Theophanes, Chronographia AM 6146"
+   },
+   {
+    "kind": "primary",
+    "cite": "al-Tabari"
+   }
+  ]
+ },
+ {
+  "id": "umayyad-founded",
+  "year": 661,
+  "approx": false,
+  "type": "founding",
+  "title": "Mu'awiya founds the Umayyad Caliphate",
+  "lat": 33.51,
+  "lon": 36.29,
+  "polities": [
+   "umayyad"
+  ],
+  "summary": "After the first civil war, the governor of Syria rules as caliph from Damascus and founds a hereditary dynasty.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "al-Tabari, History of Prophets and Kings"
+   }
+  ]
+ },
+ {
+  "id": "constans-sicily",
+  "year": 663,
+  "approx": false,
+  "type": "milestone",
+  "title": "Constans II moves west to Syracuse",
+  "lat": 37.08,
+  "lon": 15.29,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "The emperor visits Rome and settles in Sicily, where he is murdered in his bath in 668.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Liber Pontificalis, Life of Vitalian"
+   },
+   {
+    "kind": "primary",
+    "cite": "Theophanes AM 6160"
+   }
+  ]
+ },
+ {
+  "id": "siege-674",
+  "year": 674,
+  "approx": false,
+  "type": "battle",
+  "title": "Arab siege of Constantinople and Greek fire",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "umayyad",
+   "byzantine"
+  ],
+  "summary": "Repeated Umayyad attacks (c. 674–678) are repulsed, helped by 'Greek fire', newly invented by Kallinikos.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Theophanes, Chronographia AM 6165"
+   }
+  ]
+ },
+ {
+  "id": "ongal",
+  "year": 680,
+  "approx": false,
+  "type": "battle",
+  "title": "Bulgars defeat Constantine IV",
+  "lat": 45.2,
+  "lon": 28.8,
+  "polities": [
+   "bulgaria1",
+   "byzantine"
+  ],
+  "summary": "Asparukh's Bulgars rout a Byzantine army in the Danube delta; the peace of 681 recognizes the Bulgar state.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Theophanes AM 6171"
+   },
+   {
+    "kind": "primary",
+    "cite": "Nikephoros, Short History 36"
+   }
+  ]
+ },
+ {
+  "id": "council-681",
+  "year": 681,
+  "approx": false,
+  "type": "milestone",
+  "title": "Sixth Ecumenical Council",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "Condemns Monothelitism, the compromise doctrine promoted under Heraclius.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Acts of the Third Council of Constantinople"
+   }
+  ]
+ },
+ {
+  "id": "dome-of-rock",
+  "year": 691,
+  "approx": false,
+  "type": "milestone",
+  "title": "Dome of the Rock completed",
+  "lat": 31.78,
+  "lon": 35.24,
+  "polities": [
+   "umayyad"
+  ],
+  "summary": "Built by Abd al-Malik, it is the oldest surviving major Islamic monument. Its mosaic inscription is dated AH 72.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Dedicatory inscription, Dome of the Rock (AH 72)"
+   }
+  ]
+ },
+ {
+  "id": "carthage-698",
+  "year": 698,
+  "approx": false,
+  "type": "collapse",
+  "title": "Arabs take Carthage",
+  "lat": 36.85,
+  "lon": 10.32,
+  "polities": [
+   "umayyad",
+   "byzantine"
+  ],
+  "summary": "The fall of Carthage ends Byzantine Africa. The Arabs found Tunis nearby.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Nikephoros, Short History 41"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ibn Abd al-Hakam"
+   }
+  ]
+ },
+ {
+  "id": "justinian-ii-return",
+  "year": 705,
+  "approx": false,
+  "type": "founding",
+  "title": "Justinian II returns with Bulgar help",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "byzantine",
+   "bulgaria1"
+  ],
+  "summary": "The emperor, mutilated and exiled in 695, regains his throne with Tervel's army and rewards him with the title of Caesar.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Nikephoros, Short History 42"
+   },
+   {
+    "kind": "primary",
+    "cite": "Theophanes AM 6197"
+   }
+  ]
+ },
+ {
+  "id": "guadalete",
+  "year": 711,
+  "approx": false,
+  "type": "battle",
+  "title": "Umayyad conquest of Iberia",
+  "lat": 36.6,
+  "lon": -5.9,
+  "polities": [
+   "umayyad",
+   "goths"
+  ],
+  "summary": "Tariq ibn Ziyad defeats King Roderic, and the Visigothic Kingdom collapses within a few years.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Chronicle of 754 (Mozarabic Chronicle)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ibn Abd al-Hakam, Futuh Misr"
+   }
+  ]
+ },
+ {
+  "id": "siege-717",
+  "year": 717,
+  "approx": false,
+  "type": "battle",
+  "title": "Second Arab siege of Constantinople",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "umayyad",
+   "byzantine",
+   "bulgaria1"
+  ],
+  "summary": "Leo III, Greek fire, a harsh winter and Bulgar attacks destroy the huge Umayyad army and fleet (717–718).",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Theophanes AM 6209–6210"
+   },
+   {
+    "kind": "primary",
+    "cite": "Nikephoros, Short History 54"
+   }
+  ]
+ },
+ {
+  "id": "iconoclasm-726",
+  "year": 726,
+  "approx": true,
+  "type": "milestone",
+  "title": "Iconoclasm begins",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "Leo III moves against icon veneration (726–730), beginning a century-long dispute over religious images.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Theophanes AM 6218"
+   },
+   {
+    "kind": "primary",
+    "cite": "Nikephoros, Short History 60"
+   }
+  ]
+ },
+ {
+  "id": "tours",
+  "year": 732,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Tours (Poitiers)",
+  "lat": 46.7,
+  "lon": 0.4,
+  "polities": [
+   "franks",
+   "umayyad"
+  ],
+  "summary": "Charles Martel's Franks defeat an Umayyad raid led by Abd al-Rahman al-Ghafiqi.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Chronicle of 754"
+   },
+   {
+    "kind": "primary",
+    "cite": "Continuations of Fredegar"
+   }
+  ]
+ },
+ {
+  "id": "akroinon",
+  "year": 740,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Akroinon",
+  "lat": 38.76,
+  "lon": 30.54,
+  "polities": [
+   "byzantine",
+   "umayyad"
+  ],
+  "summary": "Leo III and Constantine V crush a major Arab invasion of Anatolia.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Theophanes AM 6231"
+   }
+  ]
+ },
+ {
+  "id": "abbasid-revolution",
+  "year": 750,
+  "approx": false,
+  "type": "collapse",
+  "title": "Abbasid revolution",
+  "lat": 36.5,
+  "lon": 43.8,
+  "polities": [
+   "umayyad",
+   "abbasid"
+  ],
+  "summary": "The Umayyads are defeated at the Battle of the Zab and massacred. A surviving prince flees to Córdoba.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "al-Tabari, History of Prophets and Kings"
+   }
+  ]
+ },
+ {
+  "id": "talas",
+  "year": 751,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Talas",
+  "lat": 42.52,
+  "lon": 72.23,
+  "polities": [
+   "abbasid",
+   "tang"
+  ],
+  "summary": "An Abbasid army defeats Tang forces in Central Asia, checking Chinese expansion westward.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Du Huan, Jingxing ji (a Tang prisoner's account)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ibn al-Athir, al-Kamil fi al-Tarikh"
+   }
+  ]
+ },
+ {
+  "id": "ravenna-751",
+  "year": 751,
+  "approx": false,
+  "type": "collapse",
+  "title": "Lombards take Ravenna",
+  "lat": 44.42,
+  "lon": 12.2,
+  "polities": [
+   "lombards",
+   "byzantine"
+  ],
+  "summary": "The Exarchate of Ravenna falls; the Pope turns to the Franks for protection.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Liber Pontificalis, Life of Stephen II"
+   }
+  ]
+ },
+ {
+  "id": "hieria",
+  "year": 754,
+  "approx": false,
+  "type": "milestone",
+  "title": "Iconoclast Council of Hieria",
+  "lat": 40.98,
+  "lon": 29.04,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "Constantine V's council formally condemns icons.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Horos of Hieria (preserved in the Acts of Nicaea II)"
+   }
+  ]
+ },
+ {
+  "id": "an-lushan",
+  "year": 755,
+  "approx": false,
+  "type": "collapse",
+  "title": "An Lushan rebellion",
+  "lat": 39.9,
+  "lon": 116.4,
+  "polities": [
+   "tang",
+   "uyghurs"
+  ],
+  "summary": "A frontier general's revolt (755–763) devastates Tang China; Uyghur cavalry help restore the dynasty.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Old Book of Tang"
+   },
+   {
+    "kind": "primary",
+    "cite": "Du Fu's poems on the rebellion"
+   }
+  ]
+ },
+ {
+  "id": "baghdad-founded",
+  "year": 762,
+  "approx": false,
+  "type": "founding",
+  "title": "Baghdad founded",
+  "lat": 33.31,
+  "lon": 44.36,
+  "polities": [
+   "abbasid"
+  ],
+  "summary": "Caliph al-Mansur builds his circular 'City of Peace' on the Tigris.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "al-Ya'qubi, Kitab al-Buldan"
+   },
+   {
+    "kind": "primary",
+    "cite": "al-Khatib al-Baghdadi, History of Baghdad"
+   }
+  ]
+ },
+ {
+  "id": "nicaea-787",
+  "year": 787,
+  "approx": false,
+  "type": "milestone",
+  "title": "Second Council of Nicaea",
+  "lat": 40.43,
+  "lon": 29.72,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "Convened under Empress Irene, it restores the veneration of icons.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Acts of the Second Council of Nicaea"
+   }
+  ]
+ },
+ {
+  "id": "lindisfarne",
+  "year": 793,
+  "approx": false,
+  "type": "battle",
+  "title": "Viking raid on Lindisfarne",
+  "lat": 55.67,
+  "lon": -1.8,
+  "polities": [
+   "germanic"
+  ],
+  "summary": "Norse raiders sack the island monastery, conventionally the start of the Viking Age.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Anglo-Saxon Chronicle (MS D/E), s.a. 793"
+   },
+   {
+    "kind": "primary",
+    "cite": "Alcuin of York, letter to King Æthelred of Northumbria"
+   }
+  ]
+ },
+ {
+  "id": "irene-797",
+  "year": 797,
+  "approx": false,
+  "type": "milestone",
+  "title": "Irene rules as sole empress",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "Irene blinds her son Constantine VI and reigns in her own right, which the West treats as a vacant throne when crowning Charlemagne.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Theophanes AM 6289"
+   }
+  ]
+ },
+ {
+  "id": "charlemagne",
+  "year": 800,
+  "approx": false,
+  "type": "founding",
+  "title": "Charlemagne crowned emperor",
+  "lat": 41.9,
+  "lon": 12.45,
+  "polities": [
+   "franks"
+  ],
+  "summary": "Pope Leo III crowns the Frankish king Emperor of the Romans on Christmas Day in St Peter's.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Royal Frankish Annals, s.a. 801 (new year counted from Christmas)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Einhard, Life of Charlemagne 28"
+   }
+  ]
+ },
+ {
+  "id": "khmer-founded",
+  "year": 802,
+  "approx": false,
+  "type": "founding",
+  "title": "Jayavarman II proclaimed universal monarch",
+  "lat": 13.55,
+  "lon": 104.1,
+  "polities": [
+   "khmer"
+  ],
+  "summary": "A consecration on Phnom Kulen declares Khmer independence from 'Java' and founds the Angkorian empire.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Sdok Kak Thom inscription (1052)"
+   }
+  ]
+ },
+ {
+  "id": "pliska-811",
+  "year": 811,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Pliska",
+  "lat": 43.0,
+  "lon": 26.9,
+  "polities": [
+   "bulgaria1",
+   "byzantine"
+  ],
+  "summary": "Krum traps and kills Emperor Nikephoros I in a mountain pass and makes a drinking cup from his skull.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Theophanes AM 6303"
+   },
+   {
+    "kind": "primary",
+    "cite": "Chronicle of 811 (Dujčev fragment)"
+   }
+  ]
+ },
+ {
+  "id": "versinikia",
+  "year": 813,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Versinikia",
+  "lat": 41.9,
+  "lon": 26.6,
+  "polities": [
+   "bulgaria1",
+   "byzantine"
+  ],
+  "summary": "Krum routs Michael I, leading to Leo V's coup; Krum besieges Constantinople but dies in 814.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Theophanes AM 6305"
+   },
+   {
+    "kind": "primary",
+    "cite": "Scriptor Incertus"
+   }
+  ]
+ },
+ {
+  "id": "crete-824",
+  "year": 824,
+  "approx": true,
+  "type": "battle",
+  "title": "Andalusi exiles seize Crete",
+  "lat": 35.34,
+  "lon": 25.13,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "Refugees from Córdoba found an emirate on Crete that raids the Aegean for 140 years.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Theophanes Continuatus 2.21–24"
+   },
+   {
+    "kind": "primary",
+    "cite": "Genesios"
+   }
+  ]
+ },
+ {
+  "id": "sicily-827",
+  "year": 827,
+  "approx": false,
+  "type": "battle",
+  "title": "Aghlabid conquest of Sicily begins",
+  "lat": 37.65,
+  "lon": 12.59,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "Arab forces land at Mazara; Syracuse falls in 878 and the last Byzantine fortress in 902.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ibn al-Athir"
+   },
+   {
+    "kind": "primary",
+    "cite": "Theophanes Continuatus"
+   }
+  ]
+ },
+ {
+  "id": "amorium-838",
+  "year": 838,
+  "approx": false,
+  "type": "battle",
+  "title": "Sack of Amorium",
+  "lat": 39.02,
+  "lon": 31.29,
+  "polities": [
+   "abbasid",
+   "byzantine"
+  ],
+  "summary": "Caliph al-Mu'tasim destroys the home city of the reigning Amorian dynasty in revenge for Theophilos's raids.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "al-Tabari"
+   },
+   {
+    "kind": "primary",
+    "cite": "Theophanes Continuatus 3.30–35"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Amorium excavations (from 1987)"
+   }
+  ]
+ },
+ {
+  "id": "verdun",
+  "year": 843,
+  "approx": false,
+  "type": "treaty",
+  "title": "Treaty of Verdun",
+  "lat": 49.16,
+  "lon": 5.38,
+  "polities": [
+   "franks"
+  ],
+  "summary": "Charlemagne's grandsons divide the empire in three, foreshadowing France and Germany.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Annals of St-Bertin, s.a. 843"
+   },
+   {
+    "kind": "primary",
+    "cite": "Nithard, Histories"
+   }
+  ]
+ },
+ {
+  "id": "orthodoxy-843",
+  "year": 843,
+  "approx": false,
+  "type": "milestone",
+  "title": "Triumph of Orthodoxy",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "Empress Theodora restores icons for good, ending Iconoclasm.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Synodikon of Orthodoxy"
+   },
+   {
+    "kind": "primary",
+    "cite": "Life of Theodora"
+   }
+  ]
+ },
+ {
+  "id": "rus-860",
+  "year": 860,
+  "approx": false,
+  "type": "battle",
+  "title": "First Rus' attack on Constantinople",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "kievan-rus",
+   "vikings",
+   "byzantine"
+  ],
+  "summary": "A Rus' fleet appears without warning and ravages the suburbs while the emperor is away.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Patriarch Photios, Homilies 3–4"
+   },
+   {
+    "kind": "primary",
+    "cite": "Primary Chronicle s.a. 866"
+   }
+  ]
+ },
+ {
+  "id": "cyril-methodius",
+  "year": 863,
+  "approx": false,
+  "type": "milestone",
+  "title": "Cyril and Methodius go to Moravia",
+  "lat": 48.8,
+  "lon": 17.05,
+  "polities": [
+   "great-moravia",
+   "byzantine"
+  ],
+  "summary": "The brothers from Thessalonica create the Glagolitic alphabet and a Slavonic liturgy.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Life of Constantine-Cyril; Life of Methodius"
+   }
+  ]
+ },
+ {
+  "id": "boris-baptism",
+  "year": 864,
+  "approx": false,
+  "type": "milestone",
+  "title": "Bulgaria converts to Christianity",
+  "lat": 43.38,
+  "lon": 27.12,
+  "polities": [
+   "bulgaria1",
+   "byzantine"
+  ],
+  "summary": "Boris I is baptized with Michael III as godfather, taking the name Michael.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Responses of Pope Nicholas I to the Bulgarians (866)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Photios, Letter to Boris"
+   }
+  ]
+ },
+ {
+  "id": "basil-867",
+  "year": 867,
+  "approx": false,
+  "type": "founding",
+  "title": "Basil I founds the Macedonian dynasty",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "Michael III's favourite has him murdered and takes the throne; the dynasty rules for nearly two centuries.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Theophanes Continuatus, book 5 (Vita Basilii)"
+   }
+  ]
+ },
+ {
+  "id": "bari-876",
+  "year": 876,
+  "approx": false,
+  "type": "battle",
+  "title": "Byzantium recovers Bari",
+  "lat": 41.13,
+  "lon": 16.87,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "The city becomes the capital of Byzantine southern Italy until 1071.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Chronicon Salernitanum"
+   }
+  ]
+ },
+ {
+  "id": "kiev-882",
+  "year": 882,
+  "approx": true,
+  "type": "founding",
+  "title": "Oleg makes Kiev his capital",
+  "lat": 50.45,
+  "lon": 30.52,
+  "polities": [
+   "kievan-rus"
+  ],
+  "summary": "The Varangian prince Oleg seizes Kiev and unites it with Novgorod. The date is the chronicle's.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Primary Chronicle, s.a. 6390 (882)"
+   }
+  ]
+ },
+ {
+  "id": "tang-ends",
+  "year": 907,
+  "approx": false,
+  "type": "collapse",
+  "title": "Fall of the Tang dynasty",
+  "lat": 34.62,
+  "lon": 112.45,
+  "polities": [
+   "tang"
+  ],
+  "summary": "The warlord Zhu Wen deposes the last Tang emperor, opening the Five Dynasties and Ten Kingdoms period.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "New Book of Tang (Xin Tangshu)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ouyang Xiu, New History of the Five Dynasties"
+   }
+  ]
+ },
+ {
+  "id": "achelous",
+  "year": 917,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Achelous",
+  "lat": 42.66,
+  "lon": 27.71,
+  "polities": [
+   "bulgaria1",
+   "byzantine"
+  ],
+  "summary": "Symeon of Bulgaria annihilates a Byzantine army near Anchialos, one of the worst defeats in Byzantine history.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Leo the Deacon (later account); Theophanes Continuatus 6"
+   },
+   {
+    "kind": "primary",
+    "cite": "John Skylitzes, Synopsis"
+   }
+  ]
+ },
+ {
+  "id": "romanos-920",
+  "year": 920,
+  "approx": false,
+  "type": "founding",
+  "title": "Romanos Lekapenos takes power",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "The admiral becomes co-emperor and effective ruler for the young Constantine VII.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Theophanes Continuatus 6"
+   }
+  ]
+ },
+ {
+  "id": "aethelstan",
+  "year": 927,
+  "approx": false,
+  "type": "founding",
+  "title": "Æthelstan unifies England",
+  "lat": 54.65,
+  "lon": -2.73,
+  "polities": [
+   "england"
+  ],
+  "summary": "After taking York, Æthelstan receives the submission of northern rulers at Eamont and becomes the first king of all England.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Anglo-Saxon Chronicle (MS D), s.a. 927"
+   }
+  ]
+ },
+ {
+  "id": "cordoba-929",
+  "year": 929,
+  "approx": false,
+  "type": "founding",
+  "title": "Abd al-Rahman III proclaims the Caliphate of Córdoba",
+  "lat": 37.88,
+  "lon": -4.78,
+  "polities": [
+   "cordoba"
+  ],
+  "summary": "The Umayyad ruler of al-Andalus claims the caliphal title.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ibn Hayyan, al-Muqtabis V"
+   }
+  ]
+ },
+ {
+  "id": "igor-941",
+  "year": 941,
+  "approx": false,
+  "type": "battle",
+  "title": "Igor's Rus' fleet burned",
+  "lat": 41.15,
+  "lon": 29.1,
+  "polities": [
+   "kievan-rus",
+   "byzantine"
+  ],
+  "summary": "Greek fire destroys the Rus' fleet off the Bosporus; a trade treaty follows in 944.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Liudprand of Cremona, Antapodosis 5.15"
+   },
+   {
+    "kind": "primary",
+    "cite": "Primary Chronicle s.a. 941, 944"
+   }
+  ]
+ },
+ {
+  "id": "lechfeld",
+  "year": 955,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Lechfeld",
+  "lat": 48.3,
+  "lon": 10.9,
+  "polities": [
+   "hre",
+   "magyars"
+  ],
+  "summary": "Otto I defeats the Magyars near Augsburg, ending their raids into western Europe.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Widukind of Corvey 3.44–49"
+   },
+   {
+    "kind": "primary",
+    "cite": "Gerhard, Life of Ulrich of Augsburg"
+   }
+  ]
+ },
+ {
+  "id": "olga-957",
+  "year": 957,
+  "approx": true,
+  "type": "milestone",
+  "title": "Princess Olga visits Constantinople",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "kievan-rus",
+   "byzantine"
+  ],
+  "summary": "The regent of Kiev is received at court and baptized; Constantine VII records the ceremony.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Constantine VII, De Ceremoniis 2.15"
+   },
+   {
+    "kind": "primary",
+    "cite": "Primary Chronicle s.a. 955"
+   }
+  ]
+ },
+ {
+  "id": "song-founded",
+  "year": 960,
+  "approx": false,
+  "type": "founding",
+  "title": "Song dynasty founded",
+  "lat": 34.8,
+  "lon": 114.31,
+  "polities": [
+   "song"
+  ],
+  "summary": "The general Zhao Kuangyin is proclaimed emperor by his troops at Chenqiao and makes Kaifeng his capital.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Songshi (History of Song), ch. 1"
+   }
+  ]
+ },
+ {
+  "id": "crete-961",
+  "year": 961,
+  "approx": false,
+  "type": "battle",
+  "title": "Nikephoros Phokas reconquers Crete",
+  "lat": 35.34,
+  "lon": 25.13,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "After a winter siege of Chandax, the Arab emirate of Crete is destroyed.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Leo the Deacon, History 1–2"
+   },
+   {
+    "kind": "primary",
+    "cite": "Theodosios the Deacon, The Capture of Crete"
+   }
+  ]
+ },
+ {
+  "id": "otto",
+  "year": 962,
+  "approx": false,
+  "type": "founding",
+  "title": "Otto I crowned emperor",
+  "lat": 41.9,
+  "lon": 12.45,
+  "polities": [
+   "hre"
+  ],
+  "summary": "The German king is crowned in Rome, and the Holy Roman Empire begins.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Diploma Ottonianum (962)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Liudprand of Cremona, Liber de Ottone rege"
+   }
+  ]
+ },
+ {
+  "id": "khazar-fall",
+  "year": 965,
+  "approx": true,
+  "type": "collapse",
+  "title": "Sviatoslav destroys the Khazar Khaganate",
+  "lat": 46.4,
+  "lon": 48.0,
+  "polities": [
+   "khazars",
+   "kievan-rus"
+  ],
+  "summary": "The Rus' prince sacks Sarkel and Atil, ending Khazar power on the steppe.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Primary Chronicle s.a. 965"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ibn Hawqal"
+   }
+  ]
+ },
+ {
+  "id": "mieszko",
+  "year": 966,
+  "approx": false,
+  "type": "founding",
+  "title": "Baptism of Mieszko I of Poland",
+  "lat": 52.53,
+  "lon": 17.6,
+  "polities": [
+   "poland"
+  ],
+  "summary": "Conventionally the birth of the Polish state.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Thietmar of Merseburg, Chronicle 4.55"
+   }
+  ]
+ },
+ {
+  "id": "antioch-969",
+  "year": 969,
+  "approx": false,
+  "type": "battle",
+  "title": "Byzantium retakes Antioch",
+  "lat": 36.2,
+  "lon": 36.16,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "The city returns to Byzantine rule after more than 330 years. Nikephoros II is murdered the same year.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Leo the Deacon, History 5"
+   },
+   {
+    "kind": "primary",
+    "cite": "Yahya of Antioch"
+   }
+  ]
+ },
+ {
+  "id": "cairo-founded",
+  "year": 969,
+  "approx": false,
+  "type": "founding",
+  "title": "Fatimids found Cairo",
+  "lat": 30.05,
+  "lon": 31.26,
+  "polities": [
+   "fatimid"
+  ],
+  "summary": "The Fatimid general Jawhar conquers Egypt and lays out a new royal city.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "al-Maqrizi, Khitat"
+   }
+  ]
+ },
+ {
+  "id": "dorostolon",
+  "year": 971,
+  "approx": false,
+  "type": "battle",
+  "title": "Siege of Dorostolon",
+  "lat": 44.12,
+  "lon": 27.26,
+  "polities": [
+   "byzantine",
+   "kievan-rus",
+   "bulgaria1"
+  ],
+  "summary": "John Tzimiskes besieges Sviatoslav of Kiev and forces him out of Bulgaria, which Byzantium then annexes in the east.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Leo the Deacon, History 8–9"
+   },
+   {
+    "kind": "primary",
+    "cite": "Primary Chronicle s.a. 971"
+   }
+  ]
+ },
+ {
+  "id": "rus-baptism",
+  "year": 988,
+  "approx": false,
+  "type": "milestone",
+  "title": "Christianization of Kievan Rus'",
+  "lat": 50.45,
+  "lon": 30.52,
+  "polities": [
+   "kievan-rus",
+   "byzantine"
+  ],
+  "summary": "Vladimir the Great is baptized and marries a Byzantine princess, tying Rus' to Orthodox Christianity.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Primary Chronicle, s.a. 6496 (988)"
+   }
+  ]
+ },
+ {
+  "id": "varangian-guard",
+  "year": 988,
+  "approx": false,
+  "type": "milestone",
+  "title": "Varangian Guard founded",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "byzantine",
+   "kievan-rus",
+   "vikings"
+  ],
+  "summary": "6,000 Rus' warriors sent by Vladimir help Basil II defeat rebels; they become the emperor's Norse bodyguard.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Michael Psellos, Chronographia 1.13"
+   },
+   {
+    "kind": "primary",
+    "cite": "Primary Chronicle s.a. 988"
+   }
+  ]
+ },
+ {
+  "id": "stephen-1000",
+  "year": 1000,
+  "approx": false,
+  "type": "founding",
+  "title": "Stephen I crowned king of Hungary",
+  "lat": 47.79,
+  "lon": 18.74,
+  "polities": [
+   "magyars"
+  ],
+  "summary": "The Árpád prince is crowned with a crown sent by the pope.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Hartvic, Life of St Stephen"
+   }
+  ]
+ },
+ {
+  "id": "kleidion",
+  "year": 1014,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Kleidion",
+  "lat": 41.43,
+  "lon": 23.04,
+  "polities": [
+   "byzantine",
+   "bulgaria1"
+  ],
+  "summary": "Basil II traps Tsar Samuel's army; the blinding of thousands of prisoners is said to have killed Samuel from shock.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "John Skylitzes, Synopsis"
+   },
+   {
+    "kind": "primary",
+    "cite": "Kekaumenos, Strategikon"
+   }
+  ]
+ },
+ {
+  "id": "bulgaria-1018",
+  "year": 1018,
+  "approx": false,
+  "type": "collapse",
+  "title": "Basil II completes the conquest of Bulgaria",
+  "lat": 41.12,
+  "lon": 20.8,
+  "polities": [
+   "byzantine",
+   "bulgaria1"
+  ],
+  "summary": "Ohrid surrenders and the First Bulgarian Empire becomes Byzantine provinces.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "John Skylitzes, Synopsis"
+   }
+  ]
+ },
+ {
+  "id": "lanse",
+  "year": 1021,
+  "approx": false,
+  "type": "milestone",
+  "title": "Norse at L'Anse aux Meadows",
+  "lat": 51.59,
+  "lon": -55.53,
+  "polities": [],
+  "summary": "Tree rings show Norse visitors cut wood in Newfoundland in 1021, the earliest securely dated European presence in the Americas.",
+  "sources": [
+   {
+    "kind": "archaeology",
+    "cite": "Kuitems et al., 'Evidence for European presence in the Americas in AD 1021', Nature (2021)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Saga of the Greenlanders; Saga of Erik the Red"
+   }
+  ]
+ },
+ {
+  "id": "basil-dies",
+  "year": 1025,
+  "approx": false,
+  "type": "milestone",
+  "title": "Death of Basil II",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "The empire is at its medieval peak from Armenia to southern Italy, but Basil leaves no heir.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Michael Psellos, Chronographia 1"
+   },
+   {
+    "kind": "primary",
+    "cite": "John Skylitzes"
+   }
+  ]
+ },
+ {
+  "id": "chola-srivijaya",
+  "year": 1025,
+  "approx": false,
+  "type": "battle",
+  "title": "Chola raid on Srivijaya",
+  "lat": -2.98,
+  "lon": 104.76,
+  "polities": [
+   "chola",
+   "srivijaya"
+  ],
+  "summary": "Rajendra I's fleet sacks Srivijaya's ports across the Strait of Malacca.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Tanjore inscription of Rajendra I (1030)"
+   }
+  ]
+ },
+ {
+  "id": "mahmud-somnath",
+  "year": 1025,
+  "approx": false,
+  "type": "battle",
+  "title": "Mahmud of Ghazni raids Somnath",
+  "lat": 20.89,
+  "lon": 70.4,
+  "polities": [
+   "ghaznavid"
+  ],
+  "summary": "The sultan sacks the famous Hindu temple on the Gujarat coast.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "al-Biruni, Kitab al-Hind"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ibn al-Athir"
+   }
+  ]
+ },
+ {
+  "id": "ani-1045",
+  "year": 1045,
+  "approx": false,
+  "type": "collapse",
+  "title": "Byzantium annexes Ani",
+  "lat": 40.51,
+  "lon": 43.57,
+  "polities": [
+   "byzantine",
+   "armenia"
+  ],
+  "summary": "The Bagratid Armenian kingdom is absorbed, removing a buffer just before the Seljuks arrive.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Aristakes Lastivertsi, History"
+   },
+   {
+    "kind": "primary",
+    "cite": "Matthew of Edessa, Chronicle"
+   }
+  ]
+ },
+ {
+  "id": "schism-1054",
+  "year": 1054,
+  "approx": false,
+  "type": "milestone",
+  "title": "East–West Schism",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "Papal legates and Patriarch Michael Keroularios excommunicate each other, conventionally marking the split of Catholic and Orthodox churches.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Bull of excommunication by Cardinal Humbert"
+   },
+   {
+    "kind": "primary",
+    "cite": "Synodal edict of Keroularios"
+   }
+  ]
+ },
+ {
+  "id": "seljuk-baghdad",
+  "year": 1055,
+  "approx": false,
+  "type": "founding",
+  "title": "Tughril Beg enters Baghdad",
+  "lat": 33.31,
+  "lon": 44.36,
+  "polities": [
+   "seljuk",
+   "abbasid"
+  ],
+  "summary": "The Seljuk leader becomes protector of the Abbasid caliph and takes the title of sultan.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ibn al-Athir, al-Kamil"
+   }
+  ]
+ },
+ {
+  "id": "hastings",
+  "year": 1066,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Hastings",
+  "lat": 50.91,
+  "lon": 0.49,
+  "polities": [
+   "england"
+  ],
+  "summary": "William of Normandy defeats Harold II. The Norman Conquest remakes England's ruling class and language.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Bayeux Tapestry"
+   },
+   {
+    "kind": "primary",
+    "cite": "William of Poitiers, Gesta Guillelmi"
+   },
+   {
+    "kind": "primary",
+    "cite": "Anglo-Saxon Chronicle, s.a. 1066"
+   }
+  ]
+ },
+ {
+  "id": "manzikert",
+  "year": 1071,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Manzikert",
+  "lat": 39.14,
+  "lon": 42.54,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "The Seljuk sultan Alp Arslan captures Emperor Romanos IV, opening Anatolia to Turkish settlement.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Michael Attaleiates, History (an eyewitness)"
+   }
+  ]
+ },
+ {
+  "id": "bari-1071",
+  "year": 1071,
+  "approx": false,
+  "type": "collapse",
+  "title": "Normans take Bari",
+  "lat": 41.13,
+  "lon": 16.87,
+  "polities": [
+   "normans",
+   "byzantine"
+  ],
+  "summary": "Robert Guiscard captures the last Byzantine stronghold in Italy in the same year as Manzikert.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "William of Apulia, Deeds of Robert Guiscard 2"
+   },
+   {
+    "kind": "primary",
+    "cite": "Amatus of Montecassino"
+   }
+  ]
+ },
+ {
+  "id": "rum-founded",
+  "year": 1077,
+  "approx": true,
+  "type": "founding",
+  "title": "Sultanate of Rum founded",
+  "lat": 40.43,
+  "lon": 29.72,
+  "polities": [
+   "seljuk"
+  ],
+  "summary": "Suleiman ibn Qutalmish establishes a Seljuk state in Anatolia, briefly ruling from Nicaea.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Anna Komnene, Alexiad 3.11"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ibn al-Athir"
+   }
+  ]
+ },
+ {
+  "id": "alexios-1081",
+  "year": 1081,
+  "approx": false,
+  "type": "founding",
+  "title": "Alexios I Komnenos seizes power",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "The general takes Constantinople and begins the Komnenian restoration.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Anna Komnene, Alexiad 2–3"
+   }
+  ]
+ },
+ {
+  "id": "dyrrhachium-1081",
+  "year": 1081,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Dyrrhachium",
+  "lat": 41.32,
+  "lon": 19.45,
+  "polities": [
+   "normans",
+   "byzantine"
+  ],
+  "summary": "Robert Guiscard defeats Alexios, whose Varangian Guard is cut to pieces.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Anna Komnene, Alexiad 4"
+   }
+  ]
+ },
+ {
+  "id": "venice-1082",
+  "year": 1082,
+  "approx": false,
+  "type": "treaty",
+  "title": "Alexios grants Venice trading privileges",
+  "lat": 41.02,
+  "lon": 28.97,
+  "polities": [
+   "venice",
+   "byzantine"
+  ],
+  "summary": "In return for naval help against the Normans, Venice gets tax-free trade throughout the empire.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Chrysobull of 1082 (preserved in later confirmations)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Anna Komnene, Alexiad 6.5"
+   }
+  ]
+ },
+ {
+  "id": "domesday",
+  "year": 1086,
+  "approx": false,
+  "type": "milestone",
+  "title": "Domesday survey",
+  "lat": 51.06,
+  "lon": -1.31,
+  "polities": [
+   "england"
+  ],
+  "summary": "William I orders a census of land and livestock across England, the most complete record of a medieval kingdom.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Domesday Book (The National Archives E 31)"
+   }
+  ]
+ },
+ {
+  "id": "levounion",
+  "year": 1091,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Levounion",
+  "lat": 41.15,
+  "lon": 26.3,
+  "polities": [
+   "byzantine",
+   "pechenegs",
+   "cumans"
+  ],
+  "summary": "Alexios and his Cuman allies annihilate the Pecheneg horde in Thrace.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Anna Komnene, Alexiad 8.5"
+   }
+  ]
+ },
+ {
+  "id": "clermont-1095",
+  "year": 1095,
+  "approx": false,
+  "type": "milestone",
+  "title": "Urban II preaches the Crusade",
+  "lat": 45.78,
+  "lon": 3.08,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "Answering Alexios's appeal for mercenaries, the pope calls for an armed pilgrimage to Jerusalem.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Fulcher of Chartres, History 1.3"
+   },
+   {
+    "kind": "primary",
+    "cite": "Robert the Monk"
+   }
+  ]
+ },
+ {
+  "id": "nicaea-1097",
+  "year": 1097,
+  "approx": false,
+  "type": "battle",
+  "title": "Crusaders and Byzantines take Nicaea",
+  "lat": 40.43,
+  "lon": 29.72,
+  "polities": [
+   "byzantine",
+   "crusaders",
+   "seljuk"
+  ],
+  "summary": "The city surrenders to Alexios rather than the crusaders, souring relations.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Anna Komnene, Alexiad 11.2"
+   },
+   {
+    "kind": "primary",
+    "cite": "Gesta Francorum 2"
+   }
+  ]
+ },
+ {
+  "id": "antioch-1098",
+  "year": 1098,
+  "approx": false,
+  "type": "battle",
+  "title": "Crusaders take Antioch",
+  "lat": 36.2,
+  "lon": 36.16,
+  "polities": [
+   "crusaders",
+   "seljuk"
+  ],
+  "summary": "Bohemond keeps the city for himself, breaking the crusaders' oaths to Alexios.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Gesta Francorum 8–9"
+   },
+   {
+    "kind": "primary",
+    "cite": "Raymond of Aguilers"
+   }
+  ]
+ },
+ {
+  "id": "jerusalem-1099",
+  "year": 1099,
+  "approx": false,
+  "type": "battle",
+  "title": "Crusaders capture Jerusalem",
+  "lat": 31.78,
+  "lon": 35.23,
+  "polities": [],
+  "summary": "The First Crusade takes Jerusalem and massacres its inhabitants, founding the crusader states.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Gesta Francorum"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ibn al-Athir, al-Kamil fi al-Tarikh"
+   }
+  ]
+ },
+ {
+  "id": "devol",
+  "year": 1108,
+  "approx": false,
+  "type": "treaty",
+  "title": "Treaty of Devol",
+  "lat": 40.6,
+  "lon": 20.8,
+  "polities": [
+   "byzantine",
+   "normans",
+   "crusaders"
+  ],
+  "summary": "Defeated by Alexios, Bohemond swears to hold Antioch as a Byzantine vassal.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Anna Komnene, Alexiad 13.12 (full text)"
+   }
+  ]
+ },
+ {
+  "id": "edessa-1144",
+  "year": 1144,
+  "approx": false,
+  "type": "collapse",
+  "title": "Zengi takes Edessa",
+  "lat": 37.16,
+  "lon": 38.79,
+  "polities": [
+   "crusaders"
+  ],
+  "summary": "The fall of the first crusader state triggers the Second Crusade.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Michael the Syrian, Chronicle"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ibn al-Athir"
+   }
+  ]
+ },
+ {
+  "id": "myriokephalon",
+  "year": 1176,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Myriokephalon",
+  "lat": 38.0,
+  "lon": 30.9,
+  "polities": [
+   "byzantine",
+   "seljuk"
+  ],
+  "summary": "Manuel I's army is ambushed by Kilij Arslan II, ending hopes of reconquering inner Anatolia.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Niketas Choniates, Historia"
+   },
+   {
+    "kind": "primary",
+    "cite": "Manuel's letter to Henry II, in Roger of Howden"
+   }
+  ]
+ },
+ {
+  "id": "latins-1182",
+  "year": 1182,
+  "approx": false,
+  "type": "collapse",
+  "title": "Massacre of the Latins",
+  "lat": 41.02,
+  "lon": 28.97,
+  "polities": [
+   "byzantine",
+   "venice",
+   "genoa"
+  ],
+  "summary": "A mob in Constantinople kills or enslaves thousands of Italian residents as Andronikos I takes power.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Niketas Choniates, Historia"
+   },
+   {
+    "kind": "primary",
+    "cite": "William of Tyre 22.10–13"
+   }
+  ]
+ },
+ {
+  "id": "asen-1185",
+  "year": 1185,
+  "approx": false,
+  "type": "founding",
+  "title": "Bulgarian revolt of Peter and Asen",
+  "lat": 43.08,
+  "lon": 25.65,
+  "polities": [
+   "bulgaria2",
+   "byzantine"
+  ],
+  "summary": "A tax revolt against Isaac II Angelos founds the Second Bulgarian Empire.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Niketas Choniates, Historia"
+   }
+  ]
+ },
+ {
+  "id": "hattin",
+  "year": 1187,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Hattin",
+  "lat": 32.8,
+  "lon": 35.45,
+  "polities": [
+   "ayyubid",
+   "crusaders"
+  ],
+  "summary": "Saladin destroys the army of the Kingdom of Jerusalem and takes the city three months later.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Imad al-Din, al-Fath al-Qussi"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ibn Shaddad, Life of Saladin"
+   }
+  ]
+ },
+ {
+  "id": "cyprus-1191",
+  "year": 1191,
+  "approx": false,
+  "type": "battle",
+  "title": "Richard I takes Cyprus",
+  "lat": 35.17,
+  "lon": 33.36,
+  "polities": [
+   "england",
+   "byzantine",
+   "crusaders"
+  ],
+  "summary": "On the way to the Third Crusade, Richard seizes the island from the rebel Byzantine ruler Isaac Komnenos.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Itinerarium Regis Ricardi 2"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ambroise, Estoire de la guerre sainte"
+   }
+  ]
+ },
+ {
+  "id": "sack-1204",
+  "year": 1204,
+  "approx": false,
+  "type": "collapse",
+  "title": "Fourth Crusade sacks Constantinople",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "latin-empire",
+   "venice",
+   "byzantine"
+  ],
+  "summary": "Diverted by Venetian debts and a Byzantine pretender, the crusaders storm the city and partition the empire.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Niketas Choniates, Historia (an eyewitness)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Geoffrey of Villehardouin"
+   },
+   {
+    "kind": "primary",
+    "cite": "Robert de Clari"
+   }
+  ]
+ },
+ {
+  "id": "trebizond-1204",
+  "year": 1204,
+  "approx": false,
+  "type": "founding",
+  "title": "Empire of Trebizond founded",
+  "lat": 41.0,
+  "lon": 39.72,
+  "polities": [
+   "trebizond",
+   "georgia"
+  ],
+  "summary": "Alexios and David Komnenos take Trebizond with Georgian troops sent by Queen Tamar.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Michael Panaretos, Chronicle"
+   }
+  ]
+ },
+ {
+  "id": "adrianople-1205",
+  "year": 1205,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Adrianople",
+  "lat": 41.68,
+  "lon": 26.56,
+  "polities": [
+   "bulgaria2",
+   "latin-empire"
+  ],
+  "summary": "Kaloyan of Bulgaria and his Cuman allies crush the crusaders and capture Emperor Baldwin I.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Geoffrey of Villehardouin 349–360"
+   },
+   {
+    "kind": "primary",
+    "cite": "Niketas Choniates"
+   }
+  ]
+ },
+ {
+  "id": "chinggis",
+  "year": 1206,
+  "approx": false,
+  "type": "founding",
+  "title": "Temüjin proclaimed Chinggis Khan",
+  "lat": 48.5,
+  "lon": 108.5,
+  "polities": [
+   "mongol"
+  ],
+  "summary": "A great assembly at the source of the Onon River makes Temüjin ruler of all the steppe peoples.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "The Secret History of the Mongols §202"
+   },
+   {
+    "kind": "primary",
+    "cite": "Rashid al-Din, Jami' al-Tawarikh"
+   }
+  ]
+ },
+ {
+  "id": "theodore-nicaea",
+  "year": 1208,
+  "approx": false,
+  "type": "founding",
+  "title": "Theodore Laskaris crowned at Nicaea",
+  "lat": 40.43,
+  "lon": 29.72,
+  "polities": [
+   "nicaea"
+  ],
+  "summary": "The patriarch in exile crowns Theodore emperor, making Nicaea the main Byzantine government in exile.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "George Akropolites, History 6"
+   }
+  ]
+ },
+ {
+  "id": "magna-carta",
+  "year": 1215,
+  "approx": false,
+  "type": "treaty",
+  "title": "Magna Carta sealed",
+  "lat": 51.44,
+  "lon": -0.56,
+  "polities": [
+   "england"
+  ],
+  "summary": "At Runnymede, rebel barons force King John to accept limits on royal power.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Magna Carta (1215; British Library Cotton MS Augustus II.106)"
+   }
+  ]
+ },
+ {
+  "id": "zhongdu",
+  "year": 1215,
+  "approx": false,
+  "type": "battle",
+  "title": "Mongols take Zhongdu (Beijing)",
+  "lat": 39.9,
+  "lon": 116.4,
+  "polities": [
+   "mongol"
+  ],
+  "summary": "The Jin dynasty's capital falls after a long siege.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Yuanshi (History of Yuan), ch. 1"
+   },
+   {
+    "kind": "primary",
+    "cite": "Rashid al-Din, Jami' al-Tawarikh"
+   }
+  ]
+ },
+ {
+  "id": "klokotnitsa",
+  "year": 1230,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Klokotnitsa",
+  "lat": 42.0,
+  "lon": 25.6,
+  "polities": [
+   "bulgaria2",
+   "epirus"
+  ],
+  "summary": "Ivan Asen II defeats and captures Theodore of Epirus, ending Epirote hopes of retaking Constantinople.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "George Akropolites, History 25"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ivan Asen II's Tarnovo inscription"
+   }
+  ]
+ },
+ {
+  "id": "kirina",
+  "year": 1235,
+  "approx": true,
+  "type": "founding",
+  "title": "Battle of Kirina: Mali founded",
+  "lat": 12.65,
+  "lon": -8.3,
+  "polities": [
+   "mali"
+  ],
+  "summary": "Sundiata Keita defeats Sumanguru of Sosso and founds the Mali Empire. The date is traditional.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Epic of Sundiata (oral tradition)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ibn Khaldun, Kitab al-'Ibar"
+   }
+  ]
+ },
+ {
+  "id": "kiev-1240",
+  "year": 1240,
+  "approx": false,
+  "type": "collapse",
+  "title": "Mongols sack Kiev",
+  "lat": 50.45,
+  "lon": 30.52,
+  "polities": [
+   "mongol",
+   "kievan-rus"
+  ],
+  "summary": "Batu's army storms Kiev, ending Kievan Rus'. The Rus' principalities become Golden Horde tributaries.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Galician–Volhynian Chronicle"
+   },
+   {
+    "kind": "primary",
+    "cite": "Giovanni da Pian del Carpine, Ystoria Mongalorum (passed through in 1246)"
+   }
+  ]
+ },
+ {
+  "id": "mongols-1241",
+  "year": 1241,
+  "approx": false,
+  "type": "battle",
+  "title": "Mongols at Legnica and Mohi",
+  "lat": 47.98,
+  "lon": 20.97,
+  "polities": [
+   "mongol",
+   "magyars",
+   "poland"
+  ],
+  "summary": "Two Mongol armies crush Polish and Hungarian forces before withdrawing on news of Ögedei's death.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Roger of Torre Maggiore, Carmen Miserabile"
+   },
+   {
+    "kind": "primary",
+    "cite": "Thomas of Split"
+   }
+  ]
+ },
+ {
+  "id": "kose-dag",
+  "year": 1243,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Köse Dağ",
+  "lat": 40.1,
+  "lon": 38.6,
+  "polities": [
+   "mongol",
+   "seljuk"
+  ],
+  "summary": "The Mongols defeat the Sultanate of Rum, which becomes a vassal; Anatolia fragments into Turkish beyliks.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ibn Bibi"
+   },
+   {
+    "kind": "primary",
+    "cite": "Bar Hebraeus, Chronography"
+   }
+  ]
+ },
+ {
+  "id": "baghdad-1258",
+  "year": 1258,
+  "approx": false,
+  "type": "collapse",
+  "title": "Mongols sack Baghdad",
+  "lat": 33.31,
+  "lon": 44.36,
+  "polities": [
+   "mongol",
+   "abbasid"
+  ],
+  "summary": "Hülegü takes the city and executes Caliph al-Musta'sim, ending the Abbasid Caliphate in Baghdad.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Rashid al-Din, Jami' al-Tawarikh"
+   },
+   {
+    "kind": "primary",
+    "cite": "Hülegü's letter to Louis IX (1262)"
+   }
+  ]
+ },
+ {
+  "id": "pelagonia",
+  "year": 1259,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Pelagonia",
+  "lat": 41.03,
+  "lon": 21.33,
+  "polities": [
+   "nicaea",
+   "epirus"
+  ],
+  "summary": "Michael VIII's forces defeat Epirus and its Latin allies, clearing the way to Constantinople.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "George Pachymeres 1.31"
+   },
+   {
+    "kind": "primary",
+    "cite": "Chronicle of the Morea"
+   }
+  ]
+ },
+ {
+  "id": "ain-jalut",
+  "year": 1260,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Ain Jalut",
+  "lat": 32.55,
+  "lon": 35.36,
+  "polities": [
+   "mongol"
+  ],
+  "summary": "The Mamluks of Egypt defeat a Mongol army, halting their advance into Africa.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Rashid al-Din, Jami' al-Tawarikh"
+   },
+   {
+    "kind": "primary",
+    "cite": "al-Yunini, Dhayl Mir'at al-Zaman"
+   }
+  ]
+ },
+ {
+  "id": "recapture-1261",
+  "year": 1261,
+  "approx": false,
+  "type": "founding",
+  "title": "Byzantines recapture Constantinople",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "nicaea",
+   "byzantine",
+   "latin-empire",
+   "genoa"
+  ],
+  "summary": "A small Nicaean force under Alexios Strategopoulos slips into the city; Michael VIII enters in triumph.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "George Akropolites, History 85–88"
+   },
+   {
+    "kind": "primary",
+    "cite": "George Pachymeres 2.26–33"
+   }
+  ]
+ },
+ {
+  "id": "lyon-1274",
+  "year": 1274,
+  "approx": false,
+  "type": "treaty",
+  "title": "Union of Lyon",
+  "lat": 45.76,
+  "lon": 4.84,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "Michael VIII submits the Church to Rome to head off Charles of Anjou's invasion; the union is hated at home.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Acts of the Second Council of Lyon"
+   },
+   {
+    "kind": "primary",
+    "cite": "George Pachymeres 5"
+   }
+  ]
+ },
+ {
+  "id": "yamen",
+  "year": 1279,
+  "approx": false,
+  "type": "collapse",
+  "title": "Battle of Yamen: end of the Song",
+  "lat": 22.3,
+  "lon": 113.05,
+  "polities": [
+   "song",
+   "mongol"
+  ],
+  "summary": "Kublai Khan's Yuan fleet destroys the last Song loyalists. China is united under Mongol rule.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Songshi (History of Song)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Yuanshi (History of Yuan)"
+   }
+  ]
+ },
+ {
+  "id": "vespers",
+  "year": 1282,
+  "approx": false,
+  "type": "collapse",
+  "title": "Sicilian Vespers",
+  "lat": 38.12,
+  "lon": 13.36,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "A revolt in Palermo, backed by Byzantine gold and Aragon, destroys Charles of Anjou's plan to invade Byzantium.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Bartolomeo of Neocastro, Historia Sicula"
+   },
+   {
+    "kind": "primary",
+    "cite": "Michael VIII's autobiography"
+   }
+  ]
+ },
+ {
+  "id": "bach-dang",
+  "year": 1288,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Bạch Đằng",
+  "lat": 20.9,
+  "lon": 106.8,
+  "polities": [
+   "daiviet",
+   "mongol"
+  ],
+  "summary": "Trần Hưng Đạo destroys a Yuan fleet with stakes set in the river bed, ending Mongol invasions.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Đại Việt sử ký toàn thư"
+   },
+   {
+    "kind": "primary",
+    "cite": "Yuanshi"
+   }
+  ]
+ },
+ {
+  "id": "acre-1291",
+  "year": 1291,
+  "approx": false,
+  "type": "collapse",
+  "title": "Fall of Acre",
+  "lat": 32.92,
+  "lon": 35.07,
+  "polities": [
+   "mamluk",
+   "crusaders"
+  ],
+  "summary": "The Mamluks take the last major crusader city.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "The 'Templar of Tyre', Chronicle"
+   },
+   {
+    "kind": "primary",
+    "cite": "Abu'l-Fida (an eyewitness)"
+   }
+  ]
+ },
+ {
+  "id": "osman",
+  "year": 1299,
+  "approx": true,
+  "type": "founding",
+  "title": "Osman founds the Ottoman state",
+  "lat": 40.02,
+  "lon": 30.18,
+  "polities": [
+   "ottoman"
+  ],
+  "summary": "A Turkish frontier lord in Bithynia begins the dynasty that bears his name. The traditional date is approximate.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Aşıkpaşazade, Tevârih-i Âl-i Osman"
+   },
+   {
+    "kind": "primary",
+    "cite": "George Pachymeres, History (Battle of Bapheus, 1302)"
+   }
+  ]
+ },
+ {
+  "id": "bapheus",
+  "year": 1302,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Bapheus",
+  "lat": 40.68,
+  "lon": 29.4,
+  "polities": [
+   "ottoman",
+   "byzantine"
+  ],
+  "summary": "Osman defeats a Byzantine force near Nicomedia, the first Ottoman victory over the empire.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "George Pachymeres 10.25"
+   }
+  ]
+ },
+ {
+  "id": "catalans",
+  "year": 1305,
+  "approx": false,
+  "type": "collapse",
+  "title": "Catalan Company turns on Byzantium",
+  "lat": 40.41,
+  "lon": 26.67,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "Mercenaries hired against the Turks ravage Thrace after their leader Roger de Flor is murdered.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ramon Muntaner, Chronicle (a participant)"
+   },
+   {
+    "kind": "primary",
+    "cite": "George Pachymeres"
+   }
+  ]
+ },
+ {
+  "id": "mansa-musa",
+  "year": 1324,
+  "approx": false,
+  "type": "milestone",
+  "title": "Mansa Musa's pilgrimage passes through Cairo",
+  "lat": 30.04,
+  "lon": 31.24,
+  "polities": [
+   "mali"
+  ],
+  "summary": "The Mali emperor spends so much gold in Cairo that local writers said its value dropped for years.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "al-'Umari, Masalik al-Absar"
+   },
+   {
+    "kind": "primary",
+    "cite": "Catalan Atlas (1375)"
+   }
+  ]
+ },
+ {
+  "id": "bursa-1326",
+  "year": 1326,
+  "approx": false,
+  "type": "battle",
+  "title": "Ottomans take Bursa",
+  "lat": 40.19,
+  "lon": 29.06,
+  "polities": [
+   "ottoman",
+   "byzantine"
+  ],
+  "summary": "Prusa surrenders to Orhan after a long blockade and becomes the first Ottoman capital.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Aşıkpaşazade"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ibn Battuta, Rihla (visited 1331)"
+   }
+  ]
+ },
+ {
+  "id": "civil-war-1341",
+  "year": 1341,
+  "approx": false,
+  "type": "collapse",
+  "title": "Byzantine civil war of 1341–1347",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "John Kantakouzenos fights the regency of John V; both sides hire Serbs and Turks, ruining the empire.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "John Kantakouzenos, Histories"
+   },
+   {
+    "kind": "primary",
+    "cite": "Nikephoros Gregoras, Roman History"
+   }
+  ]
+ },
+ {
+  "id": "dusan-1346",
+  "year": 1346,
+  "approx": false,
+  "type": "founding",
+  "title": "Stefan Dušan crowned emperor",
+  "lat": 42.0,
+  "lon": 21.43,
+  "polities": [
+   "serbia"
+  ],
+  "summary": "At Skopje the Serbian ruler takes the title 'Emperor of the Serbs and Greeks'.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Dušan's Code"
+   },
+   {
+    "kind": "primary",
+    "cite": "Nikephoros Gregoras"
+   }
+  ]
+ },
+ {
+  "id": "black-death",
+  "year": 1347,
+  "approx": false,
+  "type": "milestone",
+  "title": "Black Death reaches Europe",
+  "lat": 38.19,
+  "lon": 15.55,
+  "polities": [],
+  "summary": "Plague arrives at Messina in Sicily via Genoese galleys from the Black Sea and kills perhaps a third to a half of Europeans.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Michele da Piazza, Chronicle"
+   },
+   {
+    "kind": "primary",
+    "cite": "Gabriele de' Mussis, Historia de Morbo"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Yersinia pestis ancient DNA studies (e.g., Spyrou et al., Nature 2022)"
+   }
+  ]
+ },
+ {
+  "id": "black-death-con",
+  "year": 1347,
+  "approx": false,
+  "type": "milestone",
+  "title": "Black Death reaches Constantinople",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "The plague kills Kantakouzenos's son Andronikos and much of the city.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "John Kantakouzenos, Histories 4.8"
+   },
+   {
+    "kind": "primary",
+    "cite": "Nikephoros Gregoras"
+   }
+  ]
+ },
+ {
+  "id": "gallipoli-1354",
+  "year": 1354,
+  "approx": false,
+  "type": "battle",
+  "title": "Ottomans occupy Gallipoli",
+  "lat": 40.41,
+  "lon": 26.67,
+  "polities": [
+   "ottoman",
+   "byzantine"
+  ],
+  "summary": "After an earthquake wrecks the town's walls, Orhan's son Suleiman crosses into Europe and stays.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Nikephoros Gregoras"
+   },
+   {
+    "kind": "primary",
+    "cite": "John Kantakouzenos"
+   }
+  ]
+ },
+ {
+  "id": "ming-founded",
+  "year": 1368,
+  "approx": false,
+  "type": "founding",
+  "title": "Ming dynasty founded",
+  "lat": 32.06,
+  "lon": 118.79,
+  "polities": [
+   "ming",
+   "mongol"
+  ],
+  "summary": "Zhu Yuanzhang proclaims the Ming at Nanjing. The Yuan court flees Beijing for Mongolia.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ming Taizu Shilu (Veritable Records)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Mingshi (History of Ming)"
+   }
+  ]
+ },
+ {
+  "id": "maritsa",
+  "year": 1371,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of the Maritsa",
+  "lat": 41.75,
+  "lon": 26.5,
+  "polities": [
+   "ottoman",
+   "serbia"
+  ],
+  "summary": "The Ottomans destroy a Serbian army; Byzantium and Bulgaria soon become Ottoman vassals.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Serbian annals"
+   },
+   {
+    "kind": "primary",
+    "cite": "Laonikos Chalkokondyles 1"
+   }
+  ]
+ },
+ {
+  "id": "kosovo-1389",
+  "year": 1389,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Kosovo",
+  "lat": 42.7,
+  "lon": 21.1,
+  "polities": [
+   "ottoman",
+   "serbia"
+  ],
+  "summary": "Murad I and Prince Lazar are both killed; Serbia becomes an Ottoman vassal.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Letters of the Florentine Senate (1389)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Konstantin of Kostenets, Life of Despot Stefan"
+   }
+  ]
+ },
+ {
+  "id": "tarnovo-1393",
+  "year": 1393,
+  "approx": false,
+  "type": "collapse",
+  "title": "Ottomans take Tarnovo",
+  "lat": 43.08,
+  "lon": 25.65,
+  "polities": [
+   "ottoman",
+   "bulgaria2"
+  ],
+  "summary": "Bayezid I captures the Bulgarian capital; the last Bulgarian state falls by 1396.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Gregory Tsamblak, Eulogy of Patriarch Euthymius"
+   }
+  ]
+ },
+ {
+  "id": "nicopolis",
+  "year": 1396,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Nicopolis",
+  "lat": 43.7,
+  "lon": 24.9,
+  "polities": [
+   "ottoman",
+   "magyars",
+   "france"
+  ],
+  "summary": "A crusade led by Sigismund of Hungary and French knights is crushed by Bayezid I.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Johann Schiltberger, Bondage and Travels (a captive)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Froissart, Chronicles"
+   }
+  ]
+ },
+ {
+  "id": "timur-delhi",
+  "year": 1398,
+  "approx": false,
+  "type": "battle",
+  "title": "Timur sacks Delhi",
+  "lat": 28.61,
+  "lon": 77.21,
+  "polities": [
+   "timurids",
+   "delhi"
+  ],
+  "summary": "Timur's army plunders Delhi and kills much of its population.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Malfuzat-i Timuri"
+   },
+   {
+    "kind": "primary",
+    "cite": "Sharaf al-Din Ali Yazdi, Zafarnama"
+   }
+  ]
+ },
+ {
+  "id": "manuel-west",
+  "year": 1399,
+  "approx": false,
+  "type": "milestone",
+  "title": "Manuel II tours western Europe",
+  "lat": 48.86,
+  "lon": 2.35,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "The emperor visits Paris and London seeking aid while Constantinople is blockaded.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Manuel II, Letters"
+   },
+   {
+    "kind": "primary",
+    "cite": "Chronicle of St Denys"
+   }
+  ]
+ },
+ {
+  "id": "ankara",
+  "year": 1402,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Ankara",
+  "lat": 39.93,
+  "lon": 32.86,
+  "polities": [
+   "ottoman"
+  ],
+  "summary": "Timur defeats and captures Sultan Bayezid I, nearly destroying the Ottoman state.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ruy González de Clavijo, Embassy to Tamerlane"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ibn Arabshah, Life of Timur"
+   }
+  ]
+ },
+ {
+  "id": "zheng-he",
+  "year": 1405,
+  "approx": false,
+  "type": "milestone",
+  "title": "Zheng He's first treasure voyage",
+  "lat": 31.5,
+  "lon": 121.3,
+  "polities": [
+   "ming"
+  ],
+  "summary": "The first of seven Ming fleets sails into the Indian Ocean. Later voyages reach East Africa.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Liujiagang and Changle inscriptions (1431)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ma Huan, Yingya Shenglan (1433)"
+   }
+  ]
+ },
+ {
+  "id": "grunwald",
+  "year": 1410,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Grunwald",
+  "lat": 53.48,
+  "lon": 20.1,
+  "polities": [
+   "teutonic",
+   "poland",
+   "lithuania"
+  ],
+  "summary": "Poland and Lithuania crush the Teutonic Order.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Jan Długosz, Annales"
+   },
+   {
+    "kind": "primary",
+    "cite": "Cronica conflictus"
+   }
+  ]
+ },
+ {
+  "id": "triple-alliance",
+  "year": 1428,
+  "approx": false,
+  "type": "founding",
+  "title": "Aztec Triple Alliance formed",
+  "lat": 19.43,
+  "lon": -99.13,
+  "polities": [
+   "aztec"
+  ],
+  "summary": "Tenochtitlan, Texcoco and Tlacopan overthrow Azcapotzalco and begin building a tributary empire.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Codex Mendoza"
+   },
+   {
+    "kind": "primary",
+    "cite": "Diego Durán, History of the Indies of New Spain"
+   }
+  ]
+ },
+ {
+  "id": "thessalonica-1430",
+  "year": 1430,
+  "approx": false,
+  "type": "collapse",
+  "title": "Ottomans take Thessalonica",
+  "lat": 40.64,
+  "lon": 22.94,
+  "polities": [
+   "ottoman",
+   "venice",
+   "byzantine"
+  ],
+  "summary": "Murad II storms the city, which Venice had held since 1423.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "John Anagnostes, Account of the Fall of Thessalonica"
+   }
+  ]
+ },
+ {
+  "id": "angkor-1431",
+  "year": 1431,
+  "approx": true,
+  "type": "collapse",
+  "title": "Ayutthaya sacks Angkor",
+  "lat": 13.41,
+  "lon": 103.87,
+  "polities": [
+   "khmer"
+  ],
+  "summary": "Siamese forces take Angkor. The Khmer court soon moves south toward Phnom Penh. The traditional date is debated.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Royal Chronicles of Ayutthaya"
+   },
+   {
+    "kind": "archaeology",
+    "cite": "Angkor hydraulic decline studies (e.g., Buckley et al., PNAS 2010)"
+   }
+  ]
+ },
+ {
+  "id": "pachacuti",
+  "year": 1438,
+  "approx": true,
+  "type": "founding",
+  "title": "Pachacuti begins Inca expansion",
+  "lat": -13.53,
+  "lon": -71.97,
+  "polities": [
+   "inca"
+  ],
+  "summary": "After defeating the Chanka, Pachacuti rebuilds Cusco and turns a local kingdom into an empire.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Juan de Betanzos, Suma y narración de los Incas (1551)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Pedro Cieza de León, Crónica del Perú"
+   }
+  ]
+ },
+ {
+  "id": "florence-1439",
+  "year": 1439,
+  "approx": false,
+  "type": "treaty",
+  "title": "Council of Florence",
+  "lat": 43.77,
+  "lon": 11.25,
+  "polities": [
+   "byzantine"
+  ],
+  "summary": "John VIII agrees to union of the churches in hope of a crusade; it is rejected in Constantinople.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Sylvester Syropoulos, Memoirs"
+   },
+   {
+    "kind": "primary",
+    "cite": "Decree Laetentur Caeli"
+   }
+  ]
+ },
+ {
+  "id": "varna-1444",
+  "year": 1444,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Varna",
+  "lat": 43.21,
+  "lon": 27.91,
+  "polities": [
+   "ottoman",
+   "magyars",
+   "poland"
+  ],
+  "summary": "The last great crusade is destroyed and King Władysław III is killed.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Kallimachos, letters"
+   },
+   {
+    "kind": "primary",
+    "cite": "Ottoman gazavatname of Murad II"
+   }
+  ]
+ },
+ {
+  "id": "rumeli-hisari",
+  "year": 1452,
+  "approx": false,
+  "type": "milestone",
+  "title": "Rumeli Hisarı built",
+  "lat": 41.08,
+  "lon": 29.06,
+  "polities": [
+   "ottoman",
+   "byzantine"
+  ],
+  "summary": "Mehmed II builds a fortress on the Bosporus in four months to cut off the city's Black Sea supplies.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Kritoboulos 1.10–13"
+   },
+   {
+    "kind": "primary",
+    "cite": "Doukas 34"
+   }
+  ]
+ },
+ {
+  "id": "constantinople-1453",
+  "year": 1453,
+  "approx": false,
+  "type": "collapse",
+  "title": "Fall of Constantinople",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "ottoman",
+   "byzantine"
+  ],
+  "summary": "Mehmed II breaches the Theodosian Walls with heavy cannon, ending the Roman Empire after some 1,500 years.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Nicolò Barbaro, Diary of the Siege"
+   },
+   {
+    "kind": "primary",
+    "cite": "Kritoboulos, History of Mehmed the Conqueror"
+   },
+   {
+    "kind": "primary",
+    "cite": "Doukas, Historia Turco-Byzantina"
+   }
+  ]
+ },
+ {
+  "id": "mistras-1460",
+  "year": 1460,
+  "approx": false,
+  "type": "collapse",
+  "title": "Fall of the Despotate of the Morea",
+  "lat": 37.07,
+  "lon": 22.37,
+  "polities": [
+   "ottoman",
+   "byzantine"
+  ],
+  "summary": "Mehmed II takes Mistras, the last Byzantine-ruled territory in Greece.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Sphrantzes, Chronicle"
+   },
+   {
+    "kind": "primary",
+    "cite": "Kritoboulos 3"
+   }
+  ]
+ },
+ {
+  "id": "trebizond-1461",
+  "year": 1461,
+  "approx": false,
+  "type": "collapse",
+  "title": "Fall of Trebizond",
+  "lat": 41.0,
+  "lon": 39.72,
+  "polities": [
+   "ottoman",
+   "trebizond"
+  ],
+  "summary": "The last Byzantine successor state surrenders to Mehmed II.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Kritoboulos 4"
+   },
+   {
+    "kind": "primary",
+    "cite": "Laonikos Chalkokondyles 9"
+   }
+  ]
+ },
+ {
+  "id": "chimu-inca",
+  "year": 1470,
+  "approx": true,
+  "type": "collapse",
+  "title": "Inca conquer Chimú",
+  "lat": -8.11,
+  "lon": -79.07,
+  "polities": [
+   "inca",
+   "chimu"
+  ],
+  "summary": "Topa Inca's armies take Chan Chan and move its craftsmen to Cusco.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Pedro Cieza de León"
+   },
+   {
+    "kind": "primary",
+    "cite": "Juan de Betanzos"
+   }
+  ]
+ },
+ {
+  "id": "ugra",
+  "year": 1480,
+  "approx": false,
+  "type": "milestone",
+  "title": "Great Stand on the Ugra River",
+  "lat": 54.5,
+  "lon": 35.8,
+  "polities": [
+   "russia"
+  ],
+  "summary": "Ivan III faces down Khan Akhmat's army, conventionally ending the 'Tatar yoke' over Muscovy.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Russian chronicles, s.a. 1480 (e.g., Sofia II, Vologda-Perm)"
+   }
+  ]
+ },
+ {
+  "id": "columbus",
+  "year": 1492,
+  "approx": false,
+  "type": "milestone",
+  "title": "Columbus reaches the Caribbean",
+  "lat": 24.05,
+  "lon": -74.5,
+  "polities": [
+   "spain"
+  ],
+  "summary": "A Castilian expedition lands in the Bahamas, beginning sustained contact, colonization and the Columbian Exchange. The same year Granada falls.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Columbus's log (Las Casas abstract)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Capitulations of Santa Fe (April 1492)"
+   }
+  ]
+ },
+ {
+  "id": "da-gama",
+  "year": 1498,
+  "approx": false,
+  "type": "milestone",
+  "title": "Vasco da Gama reaches Calicut",
+  "lat": 11.25,
+  "lon": 75.78,
+  "polities": [],
+  "summary": "The first sea voyage from Europe to India, around Africa, begins Portugal's Indian Ocean empire.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Álvaro Velho (attrib.), Roteiro of the first voyage"
+   }
+  ]
+ },
+ {
+  "id": "ismail",
+  "year": 1501,
+  "approx": false,
+  "type": "founding",
+  "title": "Ismail I crowned at Tabriz",
+  "lat": 38.08,
+  "lon": 46.29,
+  "polities": [
+   "safavid"
+  ],
+  "summary": "The Safavid shah proclaims Twelver Shi'ism as the state religion of Iran.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Khvandamir, Habib al-Siyar (1520s)"
+   }
+  ]
+ },
+ {
+  "id": "cairo-1517",
+  "year": 1517,
+  "approx": false,
+  "type": "collapse",
+  "title": "Ottomans conquer Mamluk Egypt",
+  "lat": 30.04,
+  "lon": 31.24,
+  "polities": [
+   "ottoman"
+  ],
+  "summary": "Selim I takes Cairo, bringing Egypt, Syria and the Holy Cities of Arabia under Ottoman rule.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ibn Iyas, Bada'i' al-Zuhur (an eyewitness in Cairo)"
+   }
+  ]
+ },
+ {
+  "id": "tenochtitlan",
+  "year": 1521,
+  "approx": false,
+  "type": "collapse",
+  "title": "Fall of Tenochtitlan",
+  "lat": 19.43,
+  "lon": -99.13,
+  "polities": [
+   "aztec",
+   "spain"
+  ],
+  "summary": "After a 75-day siege, Cortés and his Tlaxcalan allies capture the Mexica capital, already ravaged by smallpox.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Sahagún, Florentine Codex, Book 12 (Nahua accounts)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Hernán Cortés, Third Letter"
+   },
+   {
+    "kind": "primary",
+    "cite": "Bernal Díaz del Castillo, True History of the Conquest"
+   }
+  ]
+ },
+ {
+  "id": "panipat",
+  "year": 1526,
+  "approx": false,
+  "type": "battle",
+  "title": "First Battle of Panipat",
+  "lat": 29.39,
+  "lon": 76.97,
+  "polities": [
+   "mughal",
+   "delhi"
+  ],
+  "summary": "Babur's guns and cavalry defeat Ibrahim Lodi. The Delhi Sultanate ends and the Mughal Empire begins.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Baburnama"
+   }
+  ]
+ },
+ {
+  "id": "mohacs",
+  "year": 1526,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Mohács",
+  "lat": 45.94,
+  "lon": 18.65,
+  "polities": [
+   "ottoman",
+   "magyars"
+  ],
+  "summary": "Suleiman the Magnificent destroys the Hungarian army; King Louis II dies in the retreat.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "István Brodarics, True Account of the Battle"
+   },
+   {
+    "kind": "primary",
+    "cite": "Kemalpaşazade"
+   }
+  ]
+ },
+ {
+  "id": "cajamarca",
+  "year": 1532,
+  "approx": false,
+  "type": "battle",
+  "title": "Pizarro captures Atahualpa",
+  "lat": -7.16,
+  "lon": -78.51,
+  "polities": [
+   "inca",
+   "spain"
+  ],
+  "summary": "At Cajamarca a small Spanish force seizes the Inca ruler, who had just won a civil war. He is executed in 1533.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Francisco de Xerez, True Account of the Conquest of Peru (1534)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Titu Cusi Yupanqui, Account (1570)"
+   }
+  ]
+ },
+ {
+  "id": "kazan",
+  "year": 1552,
+  "approx": false,
+  "type": "battle",
+  "title": "Ivan IV conquers Kazan",
+  "lat": 55.79,
+  "lon": 49.12,
+  "polities": [
+   "russia"
+  ],
+  "summary": "The fall of the Kazan Khanate opens the Volga and, beyond it, Siberia to Russian expansion.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Kazan History (Kazanskaya istoriya, 16th c.)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Nikon Chronicle"
+   }
+  ]
+ },
+ {
+  "id": "talikota",
+  "year": 1565,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Talikota",
+  "lat": 16.47,
+  "lon": 76.31,
+  "polities": [
+   "vijayanagara"
+  ],
+  "summary": "An alliance of Deccan sultanates defeats Vijayanagara, and its capital is sacked.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ferishta, History"
+   },
+   {
+    "kind": "primary",
+    "cite": "Diogo do Couto, Décadas"
+   }
+  ]
+ },
+ {
+  "id": "tondibi",
+  "year": 1591,
+  "approx": false,
+  "type": "collapse",
+  "title": "Battle of Tondibi",
+  "lat": 16.95,
+  "lon": -0.05,
+  "polities": [
+   "songhai"
+  ],
+  "summary": "A Moroccan expeditionary army with firearms crushes the Songhai, ending the last great Sahel empire.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "al-Sa'di, Tarikh al-Sudan"
+   }
+  ]
+ },
+ {
+  "id": "qing-beijing",
+  "year": 1644,
+  "approx": false,
+  "type": "founding",
+  "title": "Qing take Beijing",
+  "lat": 39.9,
+  "lon": 116.4,
+  "polities": [
+   "qing",
+   "ming"
+  ],
+  "summary": "After rebels topple the Ming, Manchu armies enter through the Great Wall and make Beijing the Qing capital.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Qing Shilu (Veritable Records)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Mingshi (History of Ming)"
+   }
+  ]
+ },
+ {
+  "id": "westphalia",
+  "year": 1648,
+  "approx": false,
+  "type": "treaty",
+  "title": "Peace of Westphalia",
+  "lat": 51.96,
+  "lon": 7.63,
+  "polities": [
+   "hre"
+  ],
+  "summary": "Treaties at Münster and Osnabrück end the Thirty Years' War and confirm the sovereignty of the Empire's princes.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Instrumentum Pacis Osnabrugense and Monasteriense (1648)"
+   }
+  ]
+ },
+ {
+  "id": "vienna-1683",
+  "year": 1683,
+  "approx": false,
+  "type": "battle",
+  "title": "Siege of Vienna",
+  "lat": 48.21,
+  "lon": 16.37,
+  "polities": [
+   "ottoman",
+   "hre"
+  ],
+  "summary": "A relief army under Jan III Sobieski routs the Ottomans. The Habsburgs then reconquer Hungary.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Silahdar Fındıklılı Mehmed Ağa, Silahdar Tarihi"
+   },
+   {
+    "kind": "primary",
+    "cite": "Jan III Sobieski, letters to Queen Marie Casimire"
+   }
+  ]
+ },
+ {
+  "id": "union-1707",
+  "year": 1707,
+  "approx": false,
+  "type": "founding",
+  "title": "Acts of Union create Great Britain",
+  "lat": 51.5,
+  "lon": -0.13,
+  "polities": [
+   "uk",
+   "england"
+  ],
+  "summary": "The parliaments of England and Scotland merge into a single Kingdom of Great Britain.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Union with Scotland Act 1706; Union with England Act 1707"
+   }
+  ]
+ },
+ {
+  "id": "russian-empire",
+  "year": 1721,
+  "approx": false,
+  "type": "founding",
+  "title": "Peter I proclaims the Russian Empire",
+  "lat": 59.94,
+  "lon": 30.31,
+  "polities": [
+   "russia"
+  ],
+  "summary": "After victory over Sweden (Treaty of Nystad), the Senate gives Peter the title Emperor of All Russia.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Treaty of Nystad (1721)"
+   }
+  ]
+ },
+ {
+  "id": "plassey",
+  "year": 1757,
+  "approx": false,
+  "type": "battle",
+  "title": "Battle of Plassey",
+  "lat": 23.8,
+  "lon": 88.25,
+  "polities": [
+   "uk",
+   "mughal"
+  ],
+  "summary": "East India Company forces under Robert Clive defeat the Nawab of Bengal, beginning British territorial rule in India.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Ghulam Husain Tabatabai, Siyar al-Muta'akhkhirin"
+   },
+   {
+    "kind": "primary",
+    "cite": "Robert Clive's dispatches (British Library, India Office Records)"
+   }
+  ]
+ },
+ {
+  "id": "ayutthaya-1767",
+  "year": 1767,
+  "approx": false,
+  "type": "collapse",
+  "title": "Fall of Ayutthaya",
+  "lat": 14.35,
+  "lon": 100.57,
+  "polities": [
+   "ayutthaya"
+  ],
+  "summary": "Burmese armies destroy the Siamese capital.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Royal Chronicles of Ayutthaya"
+   },
+   {
+    "kind": "primary",
+    "cite": "Burmese Konbaung chronicles"
+   }
+  ]
+ },
+ {
+  "id": "us-independence",
+  "year": 1776,
+  "approx": false,
+  "type": "founding",
+  "title": "American Declaration of Independence",
+  "lat": 39.95,
+  "lon": -75.15,
+  "polities": [
+   "uk"
+  ],
+  "summary": "Thirteen British colonies declare independence. Britain recognizes the United States in 1783.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Declaration of Independence (U.S. National Archives)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Treaty of Paris (1783)"
+   }
+  ]
+ },
+ {
+  "id": "french-revolution",
+  "year": 1789,
+  "approx": false,
+  "type": "collapse",
+  "title": "French Revolution",
+  "lat": 48.86,
+  "lon": 2.35,
+  "polities": [],
+  "summary": "The storming of the Bastille and the Declaration of the Rights of Man begin the overthrow of the absolute monarchy.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Declaration of the Rights of Man and of the Citizen (26 August 1789)"
+   }
+  ]
+ },
+ {
+  "id": "hre-dissolved",
+  "year": 1806,
+  "approx": false,
+  "type": "collapse",
+  "title": "Holy Roman Empire dissolved",
+  "lat": 48.21,
+  "lon": 16.37,
+  "polities": [
+   "hre"
+  ],
+  "summary": "Facing Napoleon's Confederation of the Rhine, Francis II lays down the imperial crown.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Abdication proclamation of Francis II (6 August 1806)"
+   }
+  ]
+ },
+ {
+  "id": "waterloo",
+  "year": 1815,
+  "approx": false,
+  "type": "battle",
+  "title": "Waterloo and the Congress of Vienna",
+  "lat": 50.68,
+  "lon": 4.41,
+  "polities": [
+   "uk"
+  ],
+  "summary": "Napoleon is defeated for the last time, and the Congress of Vienna redraws Europe's borders.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Final Act of the Congress of Vienna (9 June 1815)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Wellington's Waterloo Dispatch (19 June 1815)"
+   }
+  ]
+ },
+ {
+  "id": "mughal-end",
+  "year": 1857,
+  "approx": false,
+  "type": "collapse",
+  "title": "Indian Rebellion and the end of the Mughals",
+  "lat": 28.66,
+  "lon": 77.24,
+  "polities": [
+   "mughal",
+   "uk"
+  ],
+  "summary": "After the uprising is crushed, Bahadur Shah II is exiled. The Crown takes over India from the East India Company in 1858.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Government of India Act 1858"
+   },
+   {
+    "kind": "primary",
+    "cite": "Trial proceedings of Bahadur Shah Zafar (1858)"
+   }
+  ]
+ },
+ {
+  "id": "german-empire",
+  "year": 1871,
+  "approx": false,
+  "type": "founding",
+  "title": "German Empire proclaimed",
+  "lat": 48.8,
+  "lon": 2.12,
+  "polities": [],
+  "summary": "After defeating France, Wilhelm I of Prussia is proclaimed German Emperor in the Hall of Mirrors at Versailles.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Constitution of the German Empire (16 April 1871)"
+   }
+  ]
+ },
+ {
+  "id": "berlin-conference",
+  "year": 1884,
+  "approx": false,
+  "type": "treaty",
+  "title": "Berlin Conference",
+  "lat": 52.52,
+  "lon": 13.4,
+  "polities": [],
+  "summary": "European powers set rules for claiming African territory, accelerating the 'Scramble for Africa'.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "General Act of the Berlin Conference (26 February 1885)"
+   }
+  ]
+ },
+ {
+  "id": "benin-1897",
+  "year": 1897,
+  "approx": false,
+  "type": "collapse",
+  "title": "British sack of Benin City",
+  "lat": 6.34,
+  "lon": 5.63,
+  "polities": [
+   "benin",
+   "uk"
+  ],
+  "summary": "A punitive expedition burns the city and loots the Benin Bronzes.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "R. H. Bacon, Benin: The City of Blood (1897)"
+   }
+  ]
+ },
+ {
+  "id": "qing-ends",
+  "year": 1912,
+  "approx": false,
+  "type": "collapse",
+  "title": "Last Qing emperor abdicates",
+  "lat": 39.92,
+  "lon": 116.39,
+  "polities": [
+   "qing"
+  ],
+  "summary": "The Xinhai Revolution, begun at Wuchang in 1911, ends more than two thousand years of imperial rule in China.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Edict of abdication of the Xuantong Emperor (12 February 1912)"
+   }
+  ]
+ },
+ {
+  "id": "ww1",
+  "year": 1914,
+  "approx": false,
+  "type": "battle",
+  "title": "First World War begins",
+  "lat": 43.86,
+  "lon": 18.41,
+  "polities": [
+   "ottoman",
+   "russia",
+   "uk"
+  ],
+  "summary": "The assassination of Archduke Franz Ferdinand in Sarajevo triggers a war that destroys four empires.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Austro-Hungarian ultimatum to Serbia (23 July 1914)"
+   }
+  ]
+ },
+ {
+  "id": "revolution-1917",
+  "year": 1917,
+  "approx": false,
+  "type": "collapse",
+  "title": "Russian Revolutions",
+  "lat": 59.94,
+  "lon": 30.31,
+  "polities": [
+   "russia"
+  ],
+  "summary": "The tsar abdicates in March. In November the Bolsheviks seize power in Petrograd.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Manifesto of Nicholas II's abdication (15 March 1917)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Decree on Peace (8 November 1917)"
+   }
+  ]
+ },
+ {
+  "id": "ottoman-end",
+  "year": 1922,
+  "approx": false,
+  "type": "collapse",
+  "title": "Ottoman sultanate abolished",
+  "lat": 41.01,
+  "lon": 28.98,
+  "polities": [
+   "ottoman"
+  ],
+  "summary": "The Grand National Assembly in Ankara abolishes the sultanate. The Republic of Turkey is proclaimed in 1923.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Resolution of the Grand National Assembly (1 November 1922)"
+   }
+  ]
+ },
+ {
+  "id": "ussr-founded",
+  "year": 1922,
+  "approx": false,
+  "type": "founding",
+  "title": "Soviet Union founded",
+  "lat": 55.75,
+  "lon": 37.62,
+  "polities": [
+   "russia"
+  ],
+  "summary": "Russia, Ukraine, Belarus and the Transcaucasian republics form the USSR.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Treaty on the Creation of the USSR (30 December 1922)"
+   }
+  ]
+ },
+ {
+  "id": "un-1945",
+  "year": 1945,
+  "approx": false,
+  "type": "treaty",
+  "title": "End of the Second World War; UN founded",
+  "lat": 37.78,
+  "lon": -122.42,
+  "polities": [],
+  "summary": "Germany and Japan surrender. Fifty nations sign the UN Charter in San Francisco.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Charter of the United Nations (26 June 1945)"
+   },
+   {
+    "kind": "primary",
+    "cite": "German Instrument of Surrender (8 May 1945)"
+   }
+  ]
+ },
+ {
+  "id": "india-1947",
+  "year": 1947,
+  "approx": false,
+  "type": "founding",
+  "title": "Independence and partition of India",
+  "lat": 28.61,
+  "lon": 77.21,
+  "polities": [
+   "uk"
+  ],
+  "summary": "India and Pakistan become independent amid partition violence that displaced millions.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Indian Independence Act 1947"
+   }
+  ]
+ },
+ {
+  "id": "prc",
+  "year": 1949,
+  "approx": false,
+  "type": "founding",
+  "title": "People's Republic of China proclaimed",
+  "lat": 39.9,
+  "lon": 116.39,
+  "polities": [],
+  "summary": "After the civil war, Mao Zedong proclaims the PRC in Beijing. The Republic of China government retreats to Taiwan.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Proclamation of the Central People's Government (1 October 1949)"
+   }
+  ]
+ },
+ {
+  "id": "africa-1960",
+  "year": 1960,
+  "approx": false,
+  "type": "founding",
+  "title": "The Year of Africa",
+  "lat": 9.08,
+  "lon": 7.4,
+  "polities": [],
+  "summary": "Seventeen African states gain independence in a single year as European empires dissolve.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "UN General Assembly Resolution 1514 (14 December 1960)"
+   }
+  ]
+ },
+ {
+  "id": "berlin-wall",
+  "year": 1989,
+  "approx": false,
+  "type": "collapse",
+  "title": "Fall of the Berlin Wall",
+  "lat": 52.52,
+  "lon": 13.4,
+  "polities": [
+   "russia"
+  ],
+  "summary": "East Germany opens its border. Communist governments across Eastern Europe fall within months.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Günter Schabowski press conference transcript (9 November 1989)"
+   }
+  ]
+ },
+ {
+  "id": "ussr-ends",
+  "year": 1991,
+  "approx": false,
+  "type": "collapse",
+  "title": "Dissolution of the Soviet Union",
+  "lat": 55.75,
+  "lon": 37.62,
+  "polities": [
+   "russia"
+  ],
+  "summary": "Fifteen republics become independent states. Gorbachev resigns on 25 December.",
+  "sources": [
+   {
+    "kind": "primary",
+    "cite": "Belovezha Accords (8 December 1991)"
+   },
+   {
+    "kind": "primary",
+    "cite": "Alma-Ata Protocol (21 December 1991)"
+   }
+  ]
+ }
+]
